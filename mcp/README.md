@@ -13,9 +13,65 @@ mcp/
 
 各サーバーは独立した仮想環境で動作する。
 
+利用方法は2通り:
+
+- **ローカル (stdio)** — Claude Desktop に各 `server.py` を直接登録する（後述）
+- **Docker (Streamable HTTP)** — 3サーバーを単一コンテナ・単一ポートで公開する（後述）
+
 ---
 
-## セットアップ
+## Docker（単一ポートで3サーバーを公開）
+
+`gateway/gateway.py` が3つの FastMCP を読み込み、1プロセス・1ポートで
+パス分割して Streamable HTTP として公開する。
+
+```
+http://localhost:8000/baitoru/mcp
+http://localhost:8000/mynavi/mcp
+http://localhost:8000/townwork/mcp
+```
+
+### 起動
+
+```bash
+cd mcp
+docker compose up --build      # ビルドして起動
+# ポート変更:  PORT=9000 docker compose up
+```
+
+`http://localhost:8000/` でエンドポイント一覧、`/health` でヘルスチェックを返す。
+
+### 公開イメージを使う（GitHub Actions が ghcr.io にビルド済み）
+
+```bash
+IMAGE=ghcr.io/<owner>/<repo>:latest docker compose up
+```
+
+### Claude Desktop から HTTP で使う
+
+```json
+{
+  "mcpServers": {
+    "baitoru":  { "url": "http://localhost:8000/baitoru/mcp" },
+    "mynavi":   { "url": "http://localhost:8000/mynavi/mcp" },
+    "townwork": { "url": "http://localhost:8000/townwork/mcp" }
+  }
+}
+```
+
+> ⚠️ 認証は付けていない。外部公開する場合はリバースプロキシ等で認証・レート制限を追加すること。
+
+---
+
+## CI（GitHub Actions）
+
+`.github/workflows/docker-build.yml` が `mcp/**` の変更時に Docker イメージを
+ビルドし、`main` への push で ghcr.io へ push する（`linux/amd64` + `linux/arm64`）。
+認証は `GITHUB_TOKEN` を使うため追加 secret は不要。PR ではビルド検証のみ。
+
+---
+
+## セットアップ（ローカル / stdio）
 
 ### 共通の前提
 

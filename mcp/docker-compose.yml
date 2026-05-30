@@ -1,0 +1,22 @@
+# 3つのMCPサーバー(baitoru/mynavi/townwork)を単一コンテナ・単一ポートで起動する。
+#   http://localhost:8000/baitoru/mcp
+#   http://localhost:8000/mynavi/mcp
+#   http://localhost:8000/townwork/mcp
+#
+# ローカルビルドで使う場合:   docker compose up --build
+# 公開イメージを使う場合:      IMAGE=ghcr.io/<owner>/<repo>:latest docker compose up
+services:
+  baito-mcp:
+    image: ${IMAGE:-baito-mcp-gateway:local}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${PORT:-8000}:8000"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8000/health').read()==b'ok' else 1)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
