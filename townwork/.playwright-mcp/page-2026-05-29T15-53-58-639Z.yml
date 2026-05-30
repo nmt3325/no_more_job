@@ -1,0 +1,339 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link "タウンワーク(TOWNWORK)" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "タウンワーク(TOWNWORK)" [ref=e6]
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "favorites list マイリスト" [ref=e9] [cursor=pointer]:
+            - /url: /favorite_jobs/
+            - img "favorites list" [ref=e10]
+            - paragraph [ref=e11]: マイリスト
+        - listitem [ref=e12]:
+          - link "message list メッセージ" [ref=e13] [cursor=pointer]:
+            - /url: /message/list/
+            - img "message list" [ref=e14]
+            - paragraph [ref=e15]: メッセージ
+        - listitem [ref=e16]:
+          - link "my page マイページ" [ref=e17] [cursor=pointer]:
+            - /url: /my_page/
+            - img "my page" [ref=e18]
+            - paragraph [ref=e19]: マイページ
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - img "今田美桜" [ref=e23]
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - button "TopButtonStation" [ref=e29] [cursor=pointer]:
+                - generic [ref=e30]:
+                  - generic [ref=e31]: 駅・路線
+                  - generic [ref=e32]: から探す
+              - button "TopButtonLocation" [ref=e33] [cursor=pointer]:
+                - generic [ref=e34]:
+                  - generic [ref=e35]: 市区町村
+                  - generic [ref=e36]: から探す
+              - button "TopButtonLocationRadius" [ref=e37] [cursor=pointer]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]: 現在地
+                  - generic [ref=e40]: から探す
+            - button "キーワードで探す" [ref=e41] [cursor=pointer]:
+              - generic [ref=e42]: キーワードで探す
+          - generic [ref=e43]:
+            - paragraph [ref=e44]: 最近つかった検索
+            - button "東京都 / 新宿区" [ref=e46] [cursor=pointer]:
+              - generic [ref=e49]: 東京都 / 新宿区
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]: 人気の条件から探す
+            - generic [ref=e60]:
+              - generic [ref=e61]:
+                - link "学生歓迎" [ref=e62] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0602/
+                  - generic [ref=e63]: 学生歓迎
+                - link "髪型・髪色自由" [ref=e64] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0710/
+                  - generic [ref=e65]: 髪型・髪色自由
+                - link "週1日からOK" [ref=e66] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0203/
+                  - generic [ref=e67]: 週1日からOK
+                - link "未経験・初心者OK" [ref=e68] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0604/
+                  - generic [ref=e69]: 未経験・初心者OK
+                - link "短期" [ref=e70] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0101/
+                  - generic [ref=e71]: 短期
+                - link "日払いOK" [ref=e72] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0401/
+                  - generic [ref=e73]: 日払いOK
+                - link "平日のみOK" [ref=e74] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0202/
+                  - generic [ref=e75]: 平日のみOK
+                - link "昼の仕事" [ref=e76] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0302/
+                  - generic [ref=e77]: 昼の仕事
+                - link "副業・WワークOK" [ref=e78] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0607/
+                  - generic [ref=e79]: 副業・WワークOK
+                - link "夜からの仕事" [ref=e80] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0304/
+                  - generic [ref=e81]: 夜からの仕事
+              - generic [ref=e82]:
+                - link "週2・3日からOK" [ref=e83] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0204/
+                  - generic [ref=e84]: 週2・3日からOK
+                - link "交通費支給" [ref=e85] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0501/
+                  - generic [ref=e86]: 交通費支給
+                - link "ネイルOK" [ref=e87] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0714/
+                  - generic [ref=e88]: ネイルOK
+                - link "高校生歓迎" [ref=e89] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0601/
+                  - generic [ref=e90]: 高校生歓迎
+                - link "ピアスOK" [ref=e91] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0715/
+                  - generic [ref=e92]: ピアスOK
+                - link "単発・1日OK" [ref=e93] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0102/
+                  - generic [ref=e94]: 単発・1日OK
+                - link "履歴書不要" [ref=e95] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0801/
+                  - generic [ref=e96]: 履歴書不要
+                - link "夕方からの仕事" [ref=e97] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0303/
+                  - generic [ref=e98]: 夕方からの仕事
+                - link "長期" [ref=e99] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0103/
+                  - generic [ref=e100]: 長期
+                - link "深夜の仕事" [ref=e101] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/prf-0305/
+                  - generic [ref=e102]: 深夜の仕事
+          - generic [ref=e103]:
+            - generic [ref=e104]: 雇用形態から探す
+            - generic [ref=e105]:
+              - list [ref=e106]:
+                - listitem [ref=e107]:
+                  - link "アルバイト ・パート" [ref=e108] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/emp-01/
+                    - generic [ref=e109]:
+                      - text: アルバイト
+                      - text: ・パート
+                - listitem [ref=e110]:
+                  - link "正社員" [ref=e111] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/emp-02/
+                    - generic [ref=e112]: 正社員
+              - list [ref=e113]:
+                - listitem [ref=e114]:
+                  - link "契約社員" [ref=e115] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/emp-03/
+                    - generic [ref=e116]: 契約社員
+                - listitem [ref=e117]:
+                  - link "派遣社員" [ref=e118] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/emp-04/
+                    - generic [ref=e119]: 派遣社員
+                - listitem [ref=e120]:
+                  - link "業務委託" [ref=e121] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/emp-05/
+                    - generic [ref=e122]: 業務委託
+          - generic [ref=e123]:
+            - generic [ref=e124]: 人気の職種から探す
+            - generic [ref=e125]:
+              - generic [ref=e126]:
+                - generic [ref=e127]:
+                  - link "飲食・フードサービス" [ref=e128] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-001/
+                    - generic [ref=e129]: 飲食・フードサービス
+                  - link "倉庫・物流管理" [ref=e130] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-004/
+                    - generic [ref=e131]: 倉庫・物流管理
+                  - link "経営・事業企画・人事・事務" [ref=e132] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-006/
+                    - generic [ref=e133]: 経営・事業企画・人事・事務
+                  - link "旅行・レジャー・イベント" [ref=e134] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-003/
+                    - generic [ref=e135]: 旅行・レジャー・イベント
+                  - link "清掃・美化" [ref=e136] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-016/
+                    - generic [ref=e137]: 清掃・美化
+                  - link "コンビニ" [ref=e138] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-002/omc-0014/
+                    - generic [ref=e139]: コンビニ
+                  - link "フードカウンター販売員" [ref=e140] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-001/omc-0007/
+                    - generic [ref=e141]: フードカウンター販売員
+                  - link "その他事務" [ref=e142] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-006/omc-0039/
+                    - generic [ref=e143]: その他事務
+                  - link "梱包" [ref=e144] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-004/omc-0026/
+                    - generic [ref=e145]: 梱包
+                  - link "皿洗い・洗い場" [ref=e146] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-001/omc-0003/
+                    - generic [ref=e147]: 皿洗い・洗い場
+                - generic [ref=e148]:
+                  - link "営業・販売" [ref=e149] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-002/
+                    - generic [ref=e150]: 営業・販売
+                  - link "製造・工場" [ref=e151] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-019/
+                    - generic [ref=e152]: 製造・工場
+                  - link "ホールスタッフ" [ref=e153] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-001/omc-0001/
+                    - generic [ref=e154]: ホールスタッフ
+                  - link "キッチンスタッフ" [ref=e155] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-001/omc-0002/
+                    - generic [ref=e156]: キッチンスタッフ
+                  - link "データ入力・PC入力" [ref=e157] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-006/omc-0040/
+                    - generic [ref=e158]: データ入力・PC入力
+                  - link "パン屋（ベーカリー）" [ref=e159] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-001/omc-0006/
+                    - generic [ref=e160]: パン屋（ベーカリー）
+                  - link "ピッキング" [ref=e161] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-004/omc-0024/
+                    - generic [ref=e162]: ピッキング
+                  - link "倉庫内仕分け" [ref=e163] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-004/omc-0027/
+                    - generic [ref=e164]: 倉庫内仕分け
+                  - link "ドライバー・引越し・配送" [ref=e165] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-009/
+                    - generic [ref=e166]: ドライバー・引越し・配送
+                  - link "その他販売" [ref=e167] [cursor=pointer]:
+                    - /url: /prefectures/tokyo/job_search/oc-002/omc-0019/
+                    - generic [ref=e168]: その他販売
+              - button "すべての職種から選ぶ" [ref=e169] [cursor=pointer]:
+                - generic [ref=e170]: すべての職種から選ぶ
+          - generic [ref=e171]:
+            - generic [ref=e172]: 給与から探す
+            - generic [ref=e173]:
+              - generic [ref=e174]:
+                - button "時給" [ref=e175] [cursor=pointer]:
+                  - generic [ref=e176]: 時給
+                - button "日給" [ref=e177] [cursor=pointer]:
+                  - generic [ref=e178]: 日給
+                - button "月給" [ref=e179] [cursor=pointer]:
+                  - generic [ref=e180]: 月給
+              - generic [ref=e181]:
+                - link "1,700円以上" [ref=e182] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=108
+                  - generic [ref=e183]: 1,700円以上
+                - link "1,600円以上" [ref=e184] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=107
+                  - generic [ref=e185]: 1,600円以上
+                - link "1,500円以上" [ref=e186] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=106
+                  - generic [ref=e187]: 1,500円以上
+                - link "1,400円以上" [ref=e188] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=105
+                  - generic [ref=e189]: 1,400円以上
+                - link "1,300円以上" [ref=e190] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=104
+                  - generic [ref=e191]: 1,300円以上
+                - link "1,200円以上" [ref=e192] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=103
+                  - generic [ref=e193]: 1,200円以上
+                - link "1,100円以上" [ref=e194] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=102
+                  - generic [ref=e195]: 1,100円以上
+                - link "1,000円以上" [ref=e196] [cursor=pointer]:
+                  - /url: /prefectures/tokyo/job_search/?smn=101
+                  - generic [ref=e197]: 1,000円以上
+        - generic [ref=e198]:
+          - generic [ref=e199]:
+            - paragraph [ref=e200]: 最新のお仕事ニュース
+            - link "TOWNWORKマガジン" [ref=e201] [cursor=pointer]:
+              - /url: /magazine/
+              - img "TOWNWORKマガジン" [ref=e202]
+          - paragraph [ref=e204]: バイトノウハウ
+          - generic [ref=e205]:
+            - link "バイト探し・職種ランキング" [ref=e206] [cursor=pointer]:
+              - /url: /magazine/knowhow/search/baito_search/
+              - paragraph [ref=e207]: バイト探し・職種ランキング
+            - link "バイト応募・電話の掛け方" [ref=e208] [cursor=pointer]:
+              - /url: /magazine/knowhow/ohbo/baito_ohbo/
+              - paragraph [ref=e209]: バイト応募・電話の掛け方
+            - link "バイト履歴書の書き方" [ref=e210] [cursor=pointer]:
+              - /url: /magazine/knowhow/resume/baito_resume/
+              - paragraph [ref=e211]: バイト履歴書の書き方
+            - link "バイト面接のノウハウ" [ref=e212] [cursor=pointer]:
+              - /url: /magazine/knowhow/mensetsu/baito_mst/
+              - paragraph [ref=e213]: バイト面接のノウハウ
+            - link "バイトの辞め方" [ref=e214] [cursor=pointer]:
+              - /url: /magazine/knowhow/taishoku/baito_taishoku/
+              - paragraph [ref=e215]: バイトの辞め方
+            - link "バイトでのマナー" [ref=e216] [cursor=pointer]:
+              - /url: /magazine/knowhow/manners/baito_manners/
+              - paragraph [ref=e217]: バイトでのマナー
+            - link "仕事と法律" [ref=e218] [cursor=pointer]:
+              - /url: /magazine/knowhow/low/
+              - paragraph [ref=e219]: 仕事と法律
+            - link "仕事と税金" [ref=e220] [cursor=pointer]:
+              - /url: /magazine/knowhow/taxes/
+              - paragraph [ref=e221]: 仕事と税金
+            - link "社会保険・労働保険" [ref=e222] [cursor=pointer]:
+              - /url: /magazine/knowhow/sinsurance/
+              - paragraph [ref=e223]: 社会保険・労働保険
+          - paragraph [ref=e225]: バイト・仕事コラム
+          - generic [ref=e226]:
+            - link "仕事白書" [ref=e227] [cursor=pointer]:
+              - /url: /magazine/job_wpaper/
+              - paragraph [ref=e228]: 仕事白書
+            - link "仕事・働く" [ref=e229] [cursor=pointer]:
+              - /url: /magazine/job/
+              - paragraph [ref=e230]: 仕事・働く
+            - link "スキル・マナー" [ref=e231] [cursor=pointer]:
+              - /url: /magazine/skill/
+              - paragraph [ref=e232]: スキル・マナー
+            - link "ライフ・エンタメ" [ref=e233] [cursor=pointer]:
+              - /url: /magazine/life/
+              - paragraph [ref=e234]: ライフ・エンタメ
+          - paragraph [ref=e236]: 転職ノウハウ
+          - generic [ref=e237]:
+            - link "転職｜履歴書の書き方" [ref=e238] [cursor=pointer]:
+              - /url: /magazine/knowhow/resume/t_resume/
+              - paragraph [ref=e239]: 転職｜履歴書の書き方
+            - link "転職｜面接準備・対策" [ref=e240] [cursor=pointer]:
+              - /url: /magazine/knowhow/mensetsu/t_mst/
+              - paragraph [ref=e241]: 転職｜面接準備・対策
+        - generic [ref=e242]:
+          - paragraph [ref=e243]: お知らせ
+          - list [ref=e244]:
+            - listitem [ref=e245]:
+              - text: ・
+              - link "違法・有害と疑われる求人にご注意ください" [ref=e246] [cursor=pointer]:
+                - /url: /assets/notice/notice_0002.pdf
+            - listitem [ref=e247]:
+              - text: ・
+              - link "注意喚起：安全な仕事探しのために" [ref=e248] [cursor=pointer]:
+                - /url: /assets/notice/notice_0003.pdf
+            - listitem [ref=e249]:
+              - text: ・
+              - link "当サイトを名乗る偽サイトについて" [ref=e250] [cursor=pointer]:
+                - /url: /assets/notice/notice_0005.pdf
+      - generic [ref=e251]:
+        - heading "東京都のアルバイト・バイト求人情報" [level=1] [ref=e253]
+        - button "条件を追加・変更して検索" [ref=e255] [cursor=pointer]:
+          - paragraph [ref=e256]: 条件を追加・変更して検索
+        - generic [ref=e257]:
+          - link "バイトTOP" [ref=e259] [cursor=pointer]:
+            - /url: /?red=0
+          - img "arrow_bread_crumb" [ref=e261]
+          - text: 東京都のアルバイト・バイト・求人
+    - contentinfo [ref=e262]:
+      - list [ref=e263]:
+        - listitem [ref=e264]:
+          - link "ヘルプ・お問い合わせ" [ref=e265] [cursor=pointer]:
+            - /url: https://help.townwork.net/
+        - listitem [ref=e266]:
+          - link "サイトマップ" [ref=e267] [cursor=pointer]:
+            - /url: /sitemap/
+        - listitem [ref=e268]:
+          - link "利用規約・プライバシーポリシー" [ref=e269] [cursor=pointer]:
+            - /url: https://help.townwork.net/s/article/000028280
+        - listitem [ref=e270]:
+          - link "[企業]求人広告の掲載相談" [ref=e271] [cursor=pointer]:
+            - /url: /assets/twc/jobpost/gatepage/index.html?vos=dtwotwnpt18070504
+  - alert [ref=e272]

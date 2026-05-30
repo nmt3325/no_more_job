@@ -1,0 +1,405 @@
+- generic:
+  - generic:
+    - banner:
+      - generic:
+        - link:
+          - /url: /
+          - img
+      - list:
+        - listitem:
+          - link:
+            - /url: /favorite_jobs/
+            - img
+            - paragraph: マイリスト
+        - listitem:
+          - link:
+            - /url: /message/list/
+            - img
+            - paragraph: メッセージ
+        - listitem:
+          - link:
+            - /url: /my_page/
+            - img
+            - paragraph: マイページ
+    - generic:
+      - generic:
+        - generic:
+          - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - button:
+                  - generic:
+                    - generic: 駅・路線
+                    - generic: から探す
+                - button:
+                  - generic:
+                    - generic: 市区町村
+                    - generic: から探す
+                - button:
+                  - generic:
+                    - generic: 現在地
+                    - generic: から探す
+              - button:
+                - generic: キーワードで探す
+          - generic:
+            - paragraph: 最近つかった検索
+            - generic:
+              - button:
+                - generic:
+                  - generic:
+                    - generic: 東京都 / 新宿区
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic: 人気の条件から探す
+              - generic:
+                - generic:
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0602/
+                    - generic: 学生歓迎
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0710/
+                    - generic: 髪型・髪色自由
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0203/
+                    - generic: 週1日からOK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0604/
+                    - generic: 未経験・初心者OK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0101/
+                    - generic: 短期
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0401/
+                    - generic: 日払いOK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0202/
+                    - generic: 平日のみOK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0302/
+                    - generic: 昼の仕事
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0607/
+                    - generic: 副業・WワークOK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0304/
+                    - generic: 夜からの仕事
+                - generic:
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0204/
+                    - generic: 週2・3日からOK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0501/
+                    - generic: 交通費支給
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0714/
+                    - generic: ネイルOK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0601/
+                    - generic: 高校生歓迎
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0715/
+                    - generic: ピアスOK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0102/
+                    - generic: 単発・1日OK
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0801/
+                    - generic: 履歴書不要
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0303/
+                    - generic: 夕方からの仕事
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0103/
+                    - generic: 長期
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/prf-0305/
+                    - generic: 深夜の仕事
+            - generic:
+              - generic: 雇用形態から探す
+              - generic:
+                - list:
+                  - listitem:
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/emp-01/
+                      - generic: アルバイト ・パート
+                  - listitem:
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/emp-02/
+                      - generic: 正社員
+                - list:
+                  - listitem:
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/emp-03/
+                      - generic: 契約社員
+                  - listitem:
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/emp-04/
+                      - generic: 派遣社員
+                  - listitem:
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/emp-05/
+                      - generic: 業務委託
+            - generic:
+              - generic: 人気の職種から探す
+              - generic:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-001/
+                      - generic: 飲食・フードサービス
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-004/
+                      - generic: 倉庫・物流管理
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-006/
+                      - generic: 経営・事業企画・人事・事務
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-003/
+                      - generic: 旅行・レジャー・イベント
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-016/
+                      - generic: 清掃・美化
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-002/omc-0014/
+                      - generic: コンビニ
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-001/omc-0007/
+                      - generic: フードカウンター販売員
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-006/omc-0039/
+                      - generic: その他事務
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-004/omc-0026/
+                      - generic: 梱包
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-001/omc-0003/
+                      - generic: 皿洗い・洗い場
+                  - generic:
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-002/
+                      - generic: 営業・販売
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-019/
+                      - generic: 製造・工場
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-001/omc-0001/
+                      - generic: ホールスタッフ
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-001/omc-0002/
+                      - generic: キッチンスタッフ
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-006/omc-0040/
+                      - generic: データ入力・PC入力
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-001/omc-0006/
+                      - generic: パン屋（ベーカリー）
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-004/omc-0024/
+                      - generic: ピッキング
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-004/omc-0027/
+                      - generic: 倉庫内仕分け
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-009/
+                      - generic: ドライバー・引越し・配送
+                    - link:
+                      - /url: /prefectures/tokyo/job_search/oc-002/omc-0019/
+                      - generic: その他販売
+                - button:
+                  - generic: すべての職種から選ぶ
+            - generic:
+              - generic: 給与から探す
+              - generic:
+                - generic:
+                  - button:
+                    - generic: 時給
+                  - button:
+                    - generic: 日給
+                  - button:
+                    - generic: 月給
+                - generic:
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=108
+                    - generic: 1,700円以上
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=107
+                    - generic: 1,600円以上
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=106
+                    - generic: 1,500円以上
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=105
+                    - generic: 1,400円以上
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=104
+                    - generic: 1,300円以上
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=103
+                    - generic: 1,200円以上
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=102
+                    - generic: 1,100円以上
+                  - link:
+                    - /url: /prefectures/tokyo/job_search/?smn=101
+                    - generic: 1,000円以上
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: すぐに決まるかも？
+                - paragraph: バイト先から「おさそい」が届く！
+                - button:
+                  - img
+              - generic:
+                - paragraph: 働きたいエリアはどこ？（1/7）
+                - generic:
+                  - button:
+                    - paragraph: 選択してください
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://cdn.p.recruit.co.jp/terms/cmn-t-1028/index.html
+                      - text: Indeed Japan株式会社を通じた採用企業とのやり取り等に関する情報の利用について
+                    - text: 、
+                    - link:
+                      - /url: https://cdn.p.recruit.co.jp/terms/twn-t-1001/index.html
+                      - text: Indeed利用規約
+                    - text: 、
+                    - link:
+                      - /url: https://cdn.p.recruit.co.jp/terms/cmn-t-1023/index.html
+                      - text: Indeedプライバシー規約
+                    - text: に同意して
+                  - button [disabled]: 次に進む
+          - generic:
+            - generic:
+              - paragraph: 最新のお仕事ニュース
+              - link:
+                - /url: /magazine/
+                - img
+            - generic:
+              - paragraph: バイトノウハウ
+            - generic:
+              - link:
+                - /url: /magazine/knowhow/search/baito_search/
+                - paragraph: バイト探し・職種ランキング
+              - link:
+                - /url: /magazine/knowhow/ohbo/baito_ohbo/
+                - paragraph: バイト応募・電話の掛け方
+              - link:
+                - /url: /magazine/knowhow/resume/baito_resume/
+                - paragraph: バイト履歴書の書き方
+              - link:
+                - /url: /magazine/knowhow/mensetsu/baito_mst/
+                - paragraph: バイト面接のノウハウ
+              - link:
+                - /url: /magazine/knowhow/taishoku/baito_taishoku/
+                - paragraph: バイトの辞め方
+              - link:
+                - /url: /magazine/knowhow/manners/baito_manners/
+                - paragraph: バイトでのマナー
+              - link:
+                - /url: /magazine/knowhow/low/
+                - paragraph: 仕事と法律
+              - link:
+                - /url: /magazine/knowhow/taxes/
+                - paragraph: 仕事と税金
+              - link:
+                - /url: /magazine/knowhow/sinsurance/
+                - paragraph: 社会保険・労働保険
+            - generic:
+              - paragraph: バイト・仕事コラム
+            - generic:
+              - link:
+                - /url: /magazine/job_wpaper/
+                - paragraph: 仕事白書
+              - link:
+                - /url: /magazine/job/
+                - paragraph: 仕事・働く
+              - link:
+                - /url: /magazine/skill/
+                - paragraph: スキル・マナー
+              - link:
+                - /url: /magazine/life/
+                - paragraph: ライフ・エンタメ
+            - generic:
+              - paragraph: 転職ノウハウ
+            - generic:
+              - link:
+                - /url: /magazine/knowhow/resume/t_resume/
+                - paragraph: 転職｜履歴書の書き方
+              - link:
+                - /url: /magazine/knowhow/mensetsu/t_mst/
+                - paragraph: 転職｜面接準備・対策
+          - generic:
+            - paragraph: お知らせ
+            - list:
+              - listitem:
+                - text: ・
+                - link:
+                  - /url: /assets/notice/notice_0002.pdf
+                  - text: 違法・有害と疑われる求人にご注意ください
+              - listitem:
+                - text: ・
+                - link:
+                  - /url: /assets/notice/notice_0003.pdf
+                  - text: 注意喚起：安全な仕事探しのために
+              - listitem:
+                - text: ・
+                - link:
+                  - /url: /assets/notice/notice_0005.pdf
+                  - text: 当サイトを名乗る偽サイトについて
+      - generic:
+        - generic:
+          - heading [level=1]: 東京都のアルバイト・バイト求人情報
+        - generic:
+          - button:
+            - paragraph: 条件を追加・変更して検索
+        - generic:
+          - generic:
+            - link:
+              - /url: /?red=0
+              - text: バイトTOP
+          - generic:
+            - img
+          - text: 東京都のアルバイト・バイト・求人
+    - contentinfo:
+      - list:
+        - listitem:
+          - link:
+            - /url: https://help.townwork.net/
+            - text: ヘルプ・お問い合わせ
+        - listitem:
+          - link:
+            - /url: /sitemap/
+            - text: サイトマップ
+        - listitem:
+          - link:
+            - /url: https://help.townwork.net/s/article/000028280
+            - text: 利用規約・プライバシーポリシー
+        - listitem:
+          - link:
+            - /url: /assets/twc/jobpost/gatepage/index.html?vos=dtwotwnpt18070504
+            - text: "[企業]求人広告の掲載相談"
+  - generic:
+    - alert
+  - generic [active] [ref=e290]:
+    - dialog:
+      - generic [ref=e291]:
+        - generic [ref=e292]:
+          - generic [ref=e293]: キーワード検索
+          - button "検索条件を閉じる" [ref=e294] [cursor=pointer]
+        - generic [ref=e295]:
+          - textbox [ref=e303]:
+            - /placeholder: コンビニ カフェ 在宅
+          - generic [ref=e306]:
+            - paragraph [ref=e309]: 都道府県を変更できませんでした
+            - button "やり直す" [ref=e310] [cursor=pointer]:
+              - paragraph [ref=e311]: やり直す
+        - generic [ref=e313]:
+          - link "----件 検索" [disabled]:
+            - /url: /prefectures/tokyo/job_search/
+            - generic: "----件"
+            - generic: 検索

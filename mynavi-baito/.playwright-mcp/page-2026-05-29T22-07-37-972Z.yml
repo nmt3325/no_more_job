@@ -1,0 +1,1436 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "マイナビバイト" [ref=e8] [cursor=pointer]:
+          - /url: /tokyo/
+          - img "マイナビバイト" [ref=e9]
+        - paragraph [ref=e10]: 東京都
+      - generic [ref=e11]:
+        - link "保存 0 保存" [ref=e12] [cursor=pointer]:
+          - /url: /clip/ClipList.do
+          - generic [ref=e13]:
+            - img "保存" [ref=e14]
+            - generic [ref=e15]: "0"
+          - paragraph [ref=e16]: 保存
+        - link "履歴 履歴" [ref=e17] [cursor=pointer]:
+          - /url: /clip/JobHistoryList.do
+          - img "履歴" [ref=e19]
+          - paragraph [ref=e20]: 履歴
+        - button "メニュー メニュー" [ref=e21] [cursor=pointer]:
+          - img "メニュー" [ref=e23]
+          - paragraph [ref=e24]: メニュー
+  - generic [ref=e25]:
+    - generic [ref=e29]:
+      - heading "東京都の飲食・フードのアルバイト・バイト・パート求人情報" [level=1] [ref=e30]:
+        - generic [ref=e31]: 東京都の飲食・フードのアルバイト・バイト・パート求人情報
+      - paragraph [ref=e32]: 東京都の飲食・フードの人気バイト・アルバイト・パートを探すならマイナビバイト。勤務地や駅、職種等の検索だけではなく、こだわり条件検索を使って飲食・フードに関するお仕事を簡単に検索できます。東京都の飲食・フードのお仕事探しはマイナビバイトで検索！
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e37]:
+          - paragraph [ref=e38]: 検索結果10851件
+          - paragraph [ref=e39]: （最終更新日：2026年5月30日）
+          - button "検索条件を登録" [ref=e41] [cursor=pointer]: 検索条件を登録
+        - generic [ref=e43]:
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - paragraph [ref=e47]: フリーワード
+              - textbox "カフェ 未経験" [ref=e50]
+              - generic [ref=e51]:
+                - textbox [ref=e52]
+                - paragraph [ref=e53]: を含まない
+            - separator [ref=e54]
+            - generic [ref=e55]:
+              - paragraph [ref=e56]: 選択エリア
+              - generic [ref=e57]: 東京都
+              - button "変更する" [ref=e58] [cursor=pointer]
+            - generic [ref=e59]:
+              - paragraph [ref=e60]: 駅・路線
+              - generic [ref=e61]: 未選択
+              - button "変更する" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - paragraph [ref=e64]: 職種
+              - generic [ref=e65]: 飲食・フード
+              - button "変更する" [ref=e66] [cursor=pointer]
+          - generic [ref=e68]:
+            - paragraph [ref=e69]: こだわり条件
+            - separator [ref=e70]
+            - generic [ref=e73]:
+              - generic [ref=e74]:
+                - paragraph [ref=e75]: 勤務期間
+                - generic [ref=e76]:
+                  - generic [ref=e78]: 単発（1日）
+                  - generic [ref=e80]: 短期（1週間以内）
+                  - generic [ref=e82]: 短期（1ヶ月以内）
+                  - generic [ref=e84]: 短期（3ヶ月以内）
+                  - generic [ref=e86]: 長期（3ヶ月以上）
+                  - generic [ref=e88]: 春/夏/冬休み期間限定
+              - generic [ref=e89]:
+                - paragraph [ref=e90]: シーズン
+                - generic [ref=e91]:
+                  - generic [ref=e93]: SALEスタッフ(夏)
+                  - generic [ref=e95]: ビアガーデン
+                  - generic [ref=e97]: 夏休み
+                  - generic [ref=e99]: 夏フェス・夏イベント
+                  - generic [ref=e101]: 花火大会
+                  - generic [ref=e103]: お中元
+              - generic [ref=e104]:
+                - paragraph [ref=e105]: 給与
+                - generic [ref=e106]:
+                  - generic [ref=e108]: 時給
+                  - generic [ref=e110]: 日給
+                  - generic [ref=e112]: 月給
+                - combobox [disabled] [ref=e114]:
+                  - option "-" [selected]
+                - generic [ref=e115]:
+                  - generic [ref=e117]: 高収入・高時給
+                  - generic [ref=e119]: 日払い／週払い
+              - generic [ref=e120]:
+                - paragraph [ref=e121]: ～な人歓迎
+                - generic [ref=e122]:
+                  - generic [ref=e124]: 未経験者歓迎
+                  - generic [ref=e126]: 高校生歓迎
+                  - generic [ref=e128]: 大学生歓迎
+                  - generic [ref=e130]: 二部学生歓迎
+                  - generic [ref=e132]: 学歴不問
+                  - generic [ref=e134]: 主婦(夫)歓迎
+                  - generic [ref=e136]: シルバー歓迎
+                  - generic [ref=e138]: 留学生歓迎
+                  - generic [ref=e140]: フリーター歓迎
+                  - generic [ref=e142]: 副業・Ｗワーク歓迎
+                  - generic [ref=e144]: 第二新卒歓迎
+              - generic [ref=e145]:
+                - paragraph [ref=e146]: 雇用形態
+                - generic [ref=e147]:
+                  - generic [ref=e149]: アルバイト・パート
+                  - generic [ref=e151]: 正社員
+                  - generic [ref=e153]: 契約社員
+                  - generic [ref=e155]: 派遣社員
+                  - generic [ref=e157]: 紹介予定派遣
+                  - generic [ref=e159]: 業務委託
+              - generic [ref=e160]:
+                - paragraph [ref=e161]: 働き方
+                - generic [ref=e162]:
+                  - generic [ref=e164]: 扶養控除内勤務可
+                  - generic [ref=e166]: 1日4h以内可
+                  - generic [ref=e168]: 体を動かす仕事
+                  - generic [ref=e170]: 在宅ワーク・内職
+                  - generic [ref=e172]: リゾートの仕事
+                  - generic [ref=e174]: 残業月10時間以下
+              - generic [ref=e175]:
+                - paragraph [ref=e176]: シフト
+                - generic [ref=e177]:
+                  - combobox [ref=e179]:
+                    - option "日数選択" [selected]
+                    - option "週1日"
+                    - option "週2日"
+                    - option "週3日"
+                    - option "週4日"
+                    - option "週5日"
+                  - generic [ref=e180]:
+                    - generic [ref=e182]: 以上
+                    - generic [ref=e184]: 以内
+                - generic [ref=e185]:
+                  - generic [ref=e187]: 土日祝のみ勤務
+                  - generic [ref=e189]: 平日のみ可
+                  - generic [ref=e191]: シフト自由・自己申告
+                  - generic [ref=e193]: フレックスタイム制
+                  - generic [ref=e195]: 完全週休2日制 (土日祝休み)
+              - generic [ref=e196]:
+                - paragraph [ref=e197]: 時間帯
+                - generic [ref=e198]:
+                  - generic [ref=e200]: 早朝
+                  - generic [ref=e202]: 朝
+                  - generic [ref=e204]: 昼
+                  - generic [ref=e206]: 夕方
+                  - generic [ref=e208]: 夜
+                  - generic [ref=e210]: 夜勤
+              - generic [ref=e211]:
+                - paragraph [ref=e212]: 応募時に嬉しい
+                - generic [ref=e213]:
+                  - generic [ref=e215]: 履歴書不要
+                  - generic [ref=e217]: すぐ働ける
+                  - generic [ref=e219]: 友達と応募歓迎
+                  - generic [ref=e221]: オープニングスタッフ
+                  - generic [ref=e223]: 大量募集(10名以上)
+                  - generic [ref=e225]:
+                    - text: オンライン面接可能
+                    - textbox [ref=e226]
+                  - generic [ref=e228]: 面接確約あり
+                  - generic [ref=e230]:
+                    - text: 今すぐ面接予約可能
+                    - textbox [ref=e231]
+              - generic [ref=e232]:
+                - paragraph [ref=e233]: おしゃれ・自分らしさ
+                - generic [ref=e234]:
+                  - generic [ref=e236]: 髪色自由
+                  - generic [ref=e238]: 髪型自由
+                  - generic [ref=e240]: 服装自由
+                  - generic [ref=e242]: ピアス可
+                  - generic [ref=e244]: ネイル可
+                  - generic [ref=e246]: ヒゲ可
+              - generic [ref=e247]:
+                - paragraph [ref=e248]: 環境
+                - generic [ref=e249]:
+                  - generic [ref=e251]: 駅から5分以内
+                  - generic [ref=e253]: 車通勤可
+                  - generic [ref=e255]: バイク/自転車通勤可
+                  - generic [ref=e257]: 英語力・語学力が身に付く
+                  - generic [ref=e259]: PCスキルが身に付く
+              - generic [ref=e260]:
+                - paragraph [ref=e261]: 待遇
+                - generic [ref=e262]:
+                  - generic [ref=e264]: まかない(食事)あり
+                  - generic [ref=e266]: 研修制度あり
+                  - generic [ref=e268]: 交通費支給
+                  - generic [ref=e270]: 送迎制度あり
+                  - generic [ref=e272]: 寮・社宅あり
+                  - generic [ref=e274]: 昇給あり
+                  - generic [ref=e276]: 制服貸与
+                  - generic [ref=e278]: 社員割引あり
+                  - generic [ref=e280]: 社会保険完備
+                  - generic [ref=e282]: 社員登用あり
+                  - generic [ref=e284]: 託児所あり
+                  - generic [ref=e286]: 産休・育休取得実績あり
+              - generic [ref=e287]:
+                - paragraph [ref=e288]: 経験
+                - generic [ref=e289]:
+                  - generic [ref=e291]: 英語力・語学力を活かす
+                  - generic [ref=e293]: PCスキルを活かす
+                  - generic [ref=e295]: 経験者優遇
+                  - generic [ref=e297]: 資格を活かせる
+              - separator [ref=e298]
+              - generic [ref=e299]:
+                - paragraph [ref=e300]:
+                  - generic [ref=e301]: 検索結果
+                  - generic [ref=e302]: "10851"
+                  - generic [ref=e303]: 件
+                - paragraph [ref=e304]: （最終更新日：2026年5月30日）
+                - button "検索条件を変更" [ref=e305] [cursor=pointer]: 検索条件を変更
+      - generic [ref=e309]:
+        - generic [ref=e312]:
+          - paragraph [ref=e313]: PICKUP
+          - link "日払い・週払いOK♪短期◎WEB面接OK" [ref=e314] [cursor=pointer]:
+            - /url: /cl-002584107505/job-134025435/?kensaku_ban_40520013
+        - list [ref=e318]:
+          - listitem [ref=e319]:
+            - paragraph [ref=e320]: 並び替え
+          - listitem [ref=e321]:
+            - paragraph [ref=e322]: "|"
+          - listitem [ref=e323]:
+            - link "おすすめ":
+              - /url: /tokyo/ss-1/
+          - listitem [ref=e324]:
+            - link "新着" [ref=e325] [cursor=pointer]:
+              - /url: /tokyo/ss-1/?sortType=new
+          - listitem [ref=e326]:
+            - link "時給" [ref=e327] [cursor=pointer]:
+              - /url: /tokyo/ss-1/?sortType=wageHourly
+          - listitem [ref=e328]:
+            - link "日給" [ref=e329] [cursor=pointer]:
+              - /url: /tokyo/ss-1/?sortType=wageDaily
+          - listitem [ref=e330]:
+            - link "月給" [ref=e331] [cursor=pointer]:
+              - /url: /tokyo/ss-1/?sortType=wageMonthly
+        - generic [ref=e332]:
+          - generic [ref=e334]:
+            - generic [ref=e336]: NEW
+            - generic [ref=e337]:
+              - heading "タリーズコーヒー 新宿スクエアタワー店" [level=2] [ref=e339]
+              - generic [ref=e340]:
+                - link "タリーズコーヒー 新宿スクエアタワー店 就活にも役立つスキルが身につく！ 常連さんが多いオフィスビル内で会話を楽しんで勤務♪" [ref=e341] [cursor=pointer]:
+                  - /url: /cl-002059808550/job-134106676/
+                  - img "タリーズコーヒー 新宿スクエアタワー店 就活にも役立つスキルが身につく！ 常連さんが多いオフィスビル内で会話を楽しんで勤務♪" [ref=e343]
+                - heading "【タリーズコーヒースタッフ】週2日～＆午前or午後も選べる♪学生さん大歓迎！社割あり◎" [level=3] [ref=e344]:
+                  - link "【タリーズコーヒースタッフ】週2日～＆午前or午後も選べる♪学生さん大歓迎！社割あり◎" [ref=e345] [cursor=pointer]:
+                    - /url: /cl-002059808550/job-134106676/
+              - list [ref=e346]:
+                - listitem [ref=e347]:
+                  - generic [ref=e348]: 給与
+                  - generic [ref=e349]: 時給1250円～+交通費
+                - listitem [ref=e350]:
+                  - generic [ref=e351]: 雇用形態
+                  - generic [ref=e352]: アルバイト・パート
+                - listitem [ref=e353]:
+                  - generic [ref=e354]: シフト
+                  - generic [ref=e355]: 週2日以上 1日4時間以上
+                - listitem [ref=e356]:
+                  - generic [ref=e357]: アクセス
+                  - generic [ref=e358]:
+                    - paragraph [ref=e359]: 西新宿駅
+                    - paragraph [ref=e360]: 徒歩6分
+              - generic [ref=e361]:
+                - link "タリーズコーヒー 新宿スクエアタワー店の求人一覧を見る" [ref=e363] [cursor=pointer]:
+                  - /url: /cl-002059808550/
+                - button [ref=e364] [cursor=pointer]:
+                  - img [ref=e365]
+          - generic [ref=e375]:
+            - generic [ref=e377]: NEW
+            - generic [ref=e378]:
+              - heading "餃子 小籠包 福包酒場 池袋サンシャイン60通り店" [level=2] [ref=e380]
+              - generic [ref=e381]:
+                - link "餃子 小籠包 福包酒場 池袋サンシャイン60通り店 スタッフ全員超仲良し★ みんな明るくてめちゃめちゃ喋ります！笑 新人さんも爆速で馴染める楽しいお店です！" [ref=e382] [cursor=pointer]:
+                  - /url: /cl-002484102845/job-134222403/
+                  - img "餃子 小籠包 福包酒場 池袋サンシャイン60通り店 スタッフ全員超仲良し★ みんな明るくてめちゃめちゃ喋ります！笑 新人さんも爆速で馴染める楽しいお店です！" [ref=e384]
+                - heading "【ホール&キッチン】初バイト歓迎！スタッフ皆ノリ良すぎ★SNS映えのネオ居酒屋でバイト♪" [level=3] [ref=e385]:
+                  - link "【ホール&キッチン】初バイト歓迎！スタッフ皆ノリ良すぎ★SNS映えのネオ居酒屋でバイト♪" [ref=e386] [cursor=pointer]:
+                    - /url: /cl-002484102845/job-134222403/
+              - list [ref=e387]:
+                - listitem [ref=e388]:
+                  - generic [ref=e389]: 給与
+                  - generic [ref=e390]: 時給1300～1750円以上（深夜手当を含む）＋交通費支給
+                - listitem [ref=e391]:
+                  - generic [ref=e392]: 雇用形態
+                  - generic [ref=e393]: アルバイト・パート
+                - listitem [ref=e394]:
+                  - generic [ref=e395]: シフト
+                  - generic [ref=e396]: 週1日以上 1日4時間以上
+                - listitem [ref=e397]:
+                  - generic [ref=e398]: アクセス
+                  - generic [ref=e399]:
+                    - paragraph [ref=e400]: 池袋駅
+                    - paragraph [ref=e401]: 徒歩6分
+              - generic [ref=e403]:
+                - text: オンライン面接可
+                - textbox [ref=e405]
+              - generic [ref=e406]:
+                - generic [ref=e407]:
+                  - paragraph [ref=e409]: あと5日
+                  - link "株式会社SwinPの求人一覧を見る" [ref=e410] [cursor=pointer]:
+                    - /url: /cl-002484102845/
+                - button [ref=e411] [cursor=pointer]:
+                  - img [ref=e412]
+          - generic [ref=e416]:
+            - heading "どうとんぼり神座 武蔵小山店※2026年6月1日オープン予定 【544】_PA" [level=2] [ref=e418]
+            - generic [ref=e419]:
+              - link "どうとんぼり神座 武蔵小山店※2026年6月1日オープン予定 【544】_PA 注文＆会計は機械が対応♪ 覚える作業は少なめです！ オープニング募集なので、 みんな未経験からスタートします◎" [ref=e420] [cursor=pointer]:
+                - /url: /cl-002793001366/job-134020944/
+                - img "どうとんぼり神座 武蔵小山店※2026年6月1日オープン予定 【544】_PA 注文＆会計は機械が対応♪ 覚える作業は少なめです！ オープニング募集なので、 みんな未経験からスタートします◎" [ref=e422]
+              - heading "【ラーメンレストランスタッフ】オープニング募集!!オシャレ自由◎WEB面接＆日払いOK" [level=3] [ref=e423]:
+                - link "【ラーメンレストランスタッフ】オープニング募集!!オシャレ自由◎WEB面接＆日払いOK" [ref=e424] [cursor=pointer]:
+                  - /url: /cl-002793001366/job-134020944/
+            - list [ref=e425]:
+              - listitem [ref=e426]:
+                - generic [ref=e427]: 給与
+                - generic [ref=e428]: OP時給(1)1600円～(2)1350円～通常時給(1)1400円～(2)1250円～
+              - listitem [ref=e429]:
+                - generic [ref=e430]: 雇用形態
+                - generic [ref=e431]: アルバイト・パート
+              - listitem [ref=e432]:
+                - generic [ref=e433]: シフト
+                - generic [ref=e434]: 週1日以上 1日3時間以上
+              - listitem [ref=e435]:
+                - generic [ref=e436]: アクセス
+                - generic [ref=e437]:
+                  - paragraph [ref=e438]: 武蔵小山駅
+                  - paragraph [ref=e439]: 徒歩3分
+            - generic [ref=e441]:
+              - text: オンライン面接可
+              - textbox [ref=e443]
+            - generic [ref=e444]:
+              - link "株式会社どうとんぼり神座の求人一覧を見る" [ref=e446] [cursor=pointer]:
+                - /url: /cl-002793001366/
+              - button [ref=e447] [cursor=pointer]:
+                - img [ref=e448]
+          - generic [ref=e452]:
+            - heading "新時代 渋谷センター街店" [level=2] [ref=e454]
+            - generic [ref=e455]:
+              - link "新時代 渋谷センター街店 ★未経験も大歓迎！楽しく働くなら『新時代』★ ＜時給1750円～＞高時給が応募理由のスタッフも♪ 土日祝入れる方優遇します！" [ref=e456] [cursor=pointer]:
+                - /url: /cl-002102203209/job-133661034/
+                - img "新時代 渋谷センター街店 ★未経験も大歓迎！楽しく働くなら『新時代』★ ＜時給1750円～＞高時給が応募理由のスタッフも♪ 土日祝入れる方優遇します！" [ref=e458]
+              - heading "【新時代の店舗STAFF】週1/2h~★未経験・お試し短期・週0もOK◎Wワークにもオススメ！" [level=3] [ref=e459]:
+                - link "【新時代の店舗STAFF】週1/2h~★未経験・お試し短期・週0もOK◎Wワークにもオススメ！" [ref=e460] [cursor=pointer]:
+                  - /url: /cl-002102203209/job-133661034/
+            - list [ref=e461]:
+              - listitem [ref=e462]:
+                - generic [ref=e463]: 給与
+                - generic [ref=e464]: 時給1750円～（深夜手当含む）+交通費支給
+              - listitem [ref=e465]:
+                - generic [ref=e466]: 雇用形態
+                - generic [ref=e467]: アルバイト・パート
+              - listitem [ref=e468]:
+                - generic [ref=e469]: シフト
+                - generic [ref=e470]: 週1日以上 1日2時間以上
+              - listitem [ref=e471]:
+                - generic [ref=e472]: アクセス
+                - generic [ref=e473]:
+                  - paragraph [ref=e474]: 渋谷駅
+                  - paragraph [ref=e475]: 徒歩4分
+            - generic [ref=e476]:
+              - generic [ref=e477]:
+                - paragraph [ref=e479]: あと2日
+                - link "株式会社ファッズの求人一覧を見る" [ref=e480] [cursor=pointer]:
+                  - /url: /cl-002102203209/
+              - button [ref=e481] [cursor=pointer]:
+                - img [ref=e482]
+          - generic [ref=e486]:
+            - heading "うなぎ料理専門店 新宿うな鐵（うなてつ）恵比寿店" [level=2] [ref=e488]
+            - generic [ref=e489]:
+              - link "うなぎ料理専門店 新宿うな鐵（うなてつ）恵比寿店 …鰻屋のスタッフって、なんだか強面なイメージありませんか？ ご安心ください！とっても優しいスタッフが多いんです！" [ref=e490] [cursor=pointer]:
+                - /url: /cl-002925702333/job-133875616/
+                - img "うなぎ料理専門店 新宿うな鐵（うなてつ）恵比寿店 …鰻屋のスタッフって、なんだか強面なイメージありませんか？ ご安心ください！とっても優しいスタッフが多いんです！" [ref=e492]
+              - heading "【鰻屋Staff】＼今なら恵比寿店で積極採用中／未経験でも高時給1500円スタート!賄い無料♪" [level=3] [ref=e493]:
+                - link "【鰻屋Staff】＼今なら恵比寿店で積極採用中／未経験でも高時給1500円スタート!賄い無料♪" [ref=e494] [cursor=pointer]:
+                  - /url: /cl-002925702333/job-133875616/
+            - list [ref=e495]:
+              - listitem [ref=e496]:
+                - generic [ref=e497]: 給与
+                - generic [ref=e498]: 時給1500～1875円(深夜手当含む)＋交通費支給
+              - listitem [ref=e499]:
+                - generic [ref=e500]: 雇用形態
+                - generic [ref=e501]: アルバイト・パート
+              - listitem [ref=e502]:
+                - generic [ref=e503]: シフト
+                - generic [ref=e504]: 週3日以上 1日5時間以上
+              - listitem [ref=e505]:
+                - generic [ref=e506]: アクセス
+                - generic [ref=e507]:
+                  - paragraph [ref=e508]: 恵比寿駅
+                  - paragraph [ref=e509]: 徒歩1分
+            - generic [ref=e511]: 急募
+            - generic [ref=e513]:
+              - generic [ref=e514]:
+                - paragraph [ref=e516]: あと3日
+                - link "株式会社新宿うな鐵の求人一覧を見る" [ref=e517] [cursor=pointer]:
+                  - /url: /cl-002925702333/
+              - button [ref=e518] [cursor=pointer]:
+                - img [ref=e519]
+          - generic [ref=e523]:
+            - heading "ラーメン GINZA TON BOX 六本木店 ※2026年6月15日オープン" [level=2] [ref=e525]
+            - generic [ref=e526]:
+              - link "ラーメン GINZA TON BOX 六本木店 ※2026年6月15日オープン 新しいラーメン店で働きませんか？ みんな初心者同士なので 困ったときも聞きやすいです♪" [ref=e527] [cursor=pointer]:
+                - /url: /cl-002163801328/job-133881187/
+                - generic [ref=e528]:
+                  - img "ラーメン GINZA TON BOX 六本木店 ※2026年6月15日オープン 新しいラーメン店で働きませんか？ みんな初心者同士なので 困ったときも聞きやすいです♪"
+              - heading "【ラーメン店のホール】週1～OK！オープニング高時給1800円★まかない無料・履歴書不要" [level=3] [ref=e529]:
+                - link "【ラーメン店のホール】週1～OK！オープニング高時給1800円★まかない無料・履歴書不要" [ref=e530] [cursor=pointer]:
+                  - /url: /cl-002163801328/job-133881187/
+            - list [ref=e531]:
+              - listitem [ref=e532]:
+                - generic [ref=e533]: 給与
+                - generic [ref=e534]: オープニング時給1800円(7月末まで) 通常時給1400～1875円
+              - listitem [ref=e535]:
+                - generic [ref=e536]: 雇用形態
+                - generic [ref=e537]: アルバイト・パート
+              - listitem [ref=e538]:
+                - generic [ref=e539]: シフト
+                - generic [ref=e540]: 週1日以上 1日4時間以上
+              - listitem [ref=e541]:
+                - generic [ref=e542]: アクセス
+                - generic [ref=e543]:
+                  - paragraph [ref=e544]: 六本木駅
+                  - paragraph [ref=e545]: 徒歩2分
+            - generic [ref=e546]:
+              - link "株式会社ＨＩＴＯＳＵＫＥの求人一覧を見る" [ref=e548] [cursor=pointer]:
+                - /url: /cl-002163801328/
+              - button [ref=e549] [cursor=pointer]:
+                - img [ref=e550]
+          - generic [ref=e554]:
+            - heading "回し寿司 活 アトレ目黒店" [level=2] [ref=e556]
+            - generic [ref=e557]:
+              - link "回し寿司 活 アトレ目黒店 シフトは週2日から柔軟に対応♪ 「プライベート優先で」「フルでガッツリ」などご希望はお気軽にご相談ください！" [ref=e558] [cursor=pointer]:
+                - /url: /cl-002813407085/job-133902899/
+                - generic [ref=e559]:
+                  - img "回し寿司 活 アトレ目黒店 シフトは週2日から柔軟に対応♪ 「プライベート優先で」「フルでガッツリ」などご希望はお気軽にご相談ください！"
+              - heading "【寿司屋キッチンスタッフ】9月中旬ニューオープン♪週2～柔軟シフトで学業・家庭と両立！" [level=3] [ref=e560]:
+                - link "【寿司屋キッチンスタッフ】9月中旬ニューオープン♪週2～柔軟シフトで学業・家庭と両立！" [ref=e561] [cursor=pointer]:
+                  - /url: /cl-002813407085/job-133902899/
+            - list [ref=e562]:
+              - listitem [ref=e563]:
+                - generic [ref=e564]: 給与
+                - generic [ref=e565]: ⑴川崎店・目黒店:1350円～/⑵横浜店:時給1300円～+土日50円UP
+              - listitem [ref=e566]:
+                - generic [ref=e567]: 雇用形態
+                - generic [ref=e568]: アルバイト・パート
+              - listitem [ref=e569]:
+                - generic [ref=e570]: シフト
+                - generic [ref=e571]: 週2日以上 1日4時間以上
+              - listitem [ref=e572]:
+                - generic [ref=e573]: アクセス
+                - generic [ref=e574]:
+                  - paragraph [ref=e575]: 目黒駅
+                  - paragraph [ref=e576]: 徒歩1分
+            - generic [ref=e578]:
+              - text: オンライン面接可
+              - textbox [ref=e580]
+            - generic [ref=e581]:
+              - link "株式会社活美登利の求人一覧を見る" [ref=e583] [cursor=pointer]:
+                - /url: /cl-002813407085/
+              - button [ref=e584] [cursor=pointer]:
+                - img [ref=e585]
+          - generic [ref=e589]:
+            - heading "回し寿司 活 アトレ目黒店" [level=2] [ref=e591]
+            - generic [ref=e592]:
+              - link "回し寿司 活 アトレ目黒店 ≪未経験OK！≫ タッチパネルだからオーダー取りはなし◎" [ref=e593] [cursor=pointer]:
+                - /url: /cl-002813407085/job-133902898/
+                - generic [ref=e594]:
+                  - img "回し寿司 活 アトレ目黒店 ≪未経験OK！≫ タッチパネルだからオーダー取りはなし◎"
+              - heading "【寿司屋ホールスタッフ】オープニングスタッフ募集！週2・4h～まかないあり★土日時給UP" [level=3] [ref=e595]:
+                - link "【寿司屋ホールスタッフ】オープニングスタッフ募集！週2・4h～まかないあり★土日時給UP" [ref=e596] [cursor=pointer]:
+                  - /url: /cl-002813407085/job-133902898/
+            - list [ref=e597]:
+              - listitem [ref=e598]:
+                - generic [ref=e599]: 給与
+                - generic [ref=e600]: ⑴川崎店・目黒店:1300円～/⑵横浜店:時給1250円～+土日50円UP
+              - listitem [ref=e601]:
+                - generic [ref=e602]: 雇用形態
+                - generic [ref=e603]: アルバイト・パート
+              - listitem [ref=e604]:
+                - generic [ref=e605]: シフト
+                - generic [ref=e606]: 週2日以上 1日4時間以上
+              - listitem [ref=e607]:
+                - generic [ref=e608]: アクセス
+                - generic [ref=e609]:
+                  - paragraph [ref=e610]: 目黒駅
+                  - paragraph [ref=e611]: 徒歩1分
+            - generic [ref=e613]:
+              - text: オンライン面接可
+              - textbox [ref=e615]
+            - generic [ref=e616]:
+              - link "株式会社活美登利の求人一覧を見る" [ref=e618] [cursor=pointer]:
+                - /url: /cl-002813407085/
+              - button [ref=e619] [cursor=pointer]:
+                - img [ref=e620]
+          - generic [ref=e621]:
+            - paragraph [ref=e622]: 東京都の人気のエリア・駅から飲食・フードの求人を探す
+            - list [ref=e623]:
+              - listitem [ref=e624]:
+                - link "渋谷区" [ref=e625] [cursor=pointer]:
+                  - /url: /tokyo/city-44/ss-1/
+              - listitem [ref=e626]:
+                - link "新宿区" [ref=e627] [cursor=pointer]:
+                  - /url: /tokyo/city-35/ss-1/
+              - listitem [ref=e628]:
+                - link "港区" [ref=e629] [cursor=pointer]:
+                  - /url: /tokyo/city-34/ss-1/
+              - listitem [ref=e630]:
+                - link "中央区" [ref=e631] [cursor=pointer]:
+                  - /url: /tokyo/city-33/ss-1/
+              - listitem [ref=e632]:
+                - link "豊島区" [ref=e633] [cursor=pointer]:
+                  - /url: /tokyo/city-47/ss-1/
+              - listitem [ref=e634]:
+                - link "千代田区" [ref=e635] [cursor=pointer]:
+                  - /url: /tokyo/city-32/ss-1/
+              - listitem [ref=e636]:
+                - link "杉並区" [ref=e637] [cursor=pointer]:
+                  - /url: /tokyo/city-46/ss-1/
+              - listitem [ref=e638]:
+                - link "品川区" [ref=e639] [cursor=pointer]:
+                  - /url: /tokyo/city-40/ss-1/
+              - listitem [ref=e640]:
+                - link "目黒区" [ref=e641] [cursor=pointer]:
+                  - /url: /tokyo/city-41/ss-1/
+              - listitem [ref=e642]:
+                - link "世田谷区" [ref=e643] [cursor=pointer]:
+                  - /url: /tokyo/city-43/ss-1/
+              - listitem [ref=e644]:
+                - link "池袋駅" [ref=e645] [cursor=pointer]:
+                  - /url: /tokyo/rail_13-6-25-2403/ss-1/
+              - listitem [ref=e646]:
+                - link "高田馬場駅" [ref=e647] [cursor=pointer]:
+                  - /url: /tokyo/rail_13-6-25-2680/ss-1/
+              - listitem [ref=e648]:
+                - link "御茶ノ水駅" [ref=e649] [cursor=pointer]:
+                  - /url: /tokyo/rail_13-6-39-2472/ss-1/
+              - listitem [ref=e650]:
+                - link "吉祥寺駅" [ref=e651] [cursor=pointer]:
+                  - /url: /tokyo/rail_13-6-39-2527/ss-1/
+          - generic [ref=e653]:
+            - generic [ref=e655]: NEW
+            - generic [ref=e656]:
+              - heading "個室串天鮮魚 二十四区 末広町" [level=2] [ref=e658]
+              - generic [ref=e659]:
+                - link "個室串天鮮魚 二十四区 末広町 部活やサークル以外にも新しい出会いが沢山！ 素敵なコミュニティがきっとできる☆ 様々な大学や経験を持ったメンバーが在籍中！" [ref=e660] [cursor=pointer]:
+                  - /url: /cl-002563104535/job-134195193/
+                  - generic [ref=e661]:
+                    - img "個室串天鮮魚 二十四区 末広町 部活やサークル以外にも新しい出会いが沢山！ 素敵なコミュニティがきっとできる☆ 様々な大学や経験を持ったメンバーが在籍中！"
+                - heading "【キッチンSTAFF】＼飲食経験者大歓迎！／著名人も多数訪れる人気個人経営居酒屋☆" [level=3] [ref=e662]:
+                  - link "【キッチンSTAFF】＼飲食経験者大歓迎！／著名人も多数訪れる人気個人経営居酒屋☆" [ref=e663] [cursor=pointer]:
+                    - /url: /cl-002563104535/job-134195193/
+              - list [ref=e664]:
+                - listitem [ref=e665]:
+                  - generic [ref=e666]: 給与
+                  - generic [ref=e667]: 時給1400円～1750円＋交通費全額支給
+                - listitem [ref=e668]:
+                  - generic [ref=e669]: 雇用形態
+                  - generic [ref=e670]: アルバイト・パート
+                - listitem [ref=e671]:
+                  - generic [ref=e672]: シフト
+                  - generic [ref=e673]: 週2日以上 1日4時間以上
+                - listitem [ref=e674]:
+                  - generic [ref=e675]: アクセス
+                  - generic [ref=e676]:
+                    - paragraph [ref=e677]: 末広町駅
+                    - paragraph [ref=e678]: 徒歩2分
+              - generic [ref=e680]:
+                - text: オンライン面接可
+                - textbox [ref=e682]
+              - generic [ref=e683]:
+                - link "有限会社ヨシダの求人一覧を見る" [ref=e685] [cursor=pointer]:
+                  - /url: /cl-002563104535/
+                - button [ref=e686] [cursor=pointer]:
+                  - img [ref=e687]
+          - generic [ref=e689]:
+            - generic [ref=e691]: NEW
+            - generic [ref=e692]:
+              - heading "吟乃月 有楽町店" [level=2] [ref=e694]
+              - generic [ref=e695]:
+                - link "吟乃月 有楽町店 未経験からスタートしたスタッフも多数！ 飲食の経験がない方でも安心して働けます。 ※画像はイメージ" [ref=e696] [cursor=pointer]:
+                  - /url: /cl-002085101303/job-134245499/
+                  - generic [ref=e697]:
+                    - img "吟乃月 有楽町店 未経験からスタートしたスタッフも多数！ 飲食の経験がない方でも安心して働けます。 ※画像はイメージ"
+                - heading "【居酒屋スタッフ】駅チカ！未経験歓迎◎20～40代活躍中★多国籍な仲間と働ける♪" [level=3] [ref=e698]:
+                  - link "【居酒屋スタッフ】駅チカ！未経験歓迎◎20～40代活躍中★多国籍な仲間と働ける♪" [ref=e699] [cursor=pointer]:
+                    - /url: /cl-002085101303/job-134245499/
+              - list [ref=e700]:
+                - listitem [ref=e701]:
+                  - generic [ref=e702]: 給与
+                  - generic [ref=e703]: 時給1226円以上＋交通費
+                - listitem [ref=e704]:
+                  - generic [ref=e705]: 雇用形態
+                  - generic [ref=e706]: アルバイト・パート
+                - listitem [ref=e707]:
+                  - generic [ref=e708]: シフト
+                  - generic [ref=e709]: 週2日以上 1日4時間以上
+                - listitem [ref=e710]:
+                  - generic [ref=e711]: アクセス
+                  - generic [ref=e712]:
+                    - paragraph [ref=e713]: 有楽町駅
+                    - paragraph [ref=e714]: 徒歩5分
+              - generic [ref=e715]:
+                - generic [ref=e716]: 急募
+                - generic [ref=e718]: 面接確約
+              - generic [ref=e720]:
+                - link "東際株式会社の求人一覧を見る" [ref=e722] [cursor=pointer]:
+                  - /url: /cl-002085101303/
+                - button [ref=e723] [cursor=pointer]:
+                  - img [ref=e724]
+          - generic [ref=e726]:
+            - generic [ref=e728]: NEW
+            - generic [ref=e729]:
+              - heading "IL FILO（イル・フィーロ）" [level=2] [ref=e731]
+              - generic [ref=e732]:
+                - link "IL FILO（イル・フィーロ） 重厚な扉＆広々店内で、ゆったり働ける★ シフト自由だから学校やWワークとの両立もラクラク♪" [ref=e733] [cursor=pointer]:
+                  - /url: /cl-002973301769/job-134146646/
+                  - generic [ref=e734]:
+                    - img "IL FILO（イル・フィーロ） 重厚な扉＆広々店内で、ゆったり働ける★ シフト自由だから学校やWワークとの両立もラクラク♪"
+                - heading "【イタリアンレストランホール】シフトは毎週提出×週1日～OK♪学業や夢との両立も応援◎" [level=3] [ref=e735]:
+                  - link "【イタリアンレストランホール】シフトは毎週提出×週1日～OK♪学業や夢との両立も応援◎" [ref=e736] [cursor=pointer]:
+                    - /url: /cl-002973301769/job-134146646/
+              - list [ref=e737]:
+                - listitem [ref=e738]:
+                  - generic [ref=e739]: 給与
+                  - generic [ref=e740]: 時給1300円～＋交通費規定内支給
+                - listitem [ref=e741]:
+                  - generic [ref=e742]: 雇用形態
+                  - generic [ref=e743]: アルバイト・パート
+                - listitem [ref=e744]:
+                  - generic [ref=e745]: シフト
+                  - generic [ref=e746]: 週1日以上 1日4時間以上
+                - listitem [ref=e747]:
+                  - generic [ref=e748]: アクセス
+                  - generic [ref=e749]:
+                    - paragraph [ref=e750]: 泉岳寺駅
+                    - paragraph [ref=e751]: 徒歩7分
+              - generic [ref=e752]:
+                - link "イルフィーロの求人一覧を見る" [ref=e754] [cursor=pointer]:
+                  - /url: /cl-002973301769/
+                - button [ref=e755] [cursor=pointer]:
+                  - img [ref=e756]
+          - generic [ref=e758]:
+            - generic [ref=e760]: NEW
+            - generic [ref=e761]:
+              - heading "利尻昆布ラーメン くろおび" [level=2] [ref=e763]
+              - generic [ref=e764]:
+                - link "利尻昆布ラーメン くろおび お仕事はできることからお任せ♪どなたでもお気軽にご応募くださいね！ 効率よくお小遣いGETしちゃおう★" [ref=e765] [cursor=pointer]:
+                  - /url: /cl-002948603469/job-134116604/
+                  - generic [ref=e766]:
+                    - img "利尻昆布ラーメン くろおび お仕事はできることからお任せ♪どなたでもお気軽にご応募くださいね！ 効率よくお小遣いGETしちゃおう★"
+                - heading "【ラーメン店のホール】未経験歓迎★まかない無料◎Wワークしたいフリーターさん歓迎" [level=3] [ref=e767]:
+                  - link "【ラーメン店のホール】未経験歓迎★まかない無料◎Wワークしたいフリーターさん歓迎" [ref=e768] [cursor=pointer]:
+                    - /url: /cl-002948603469/job-134116604/
+              - list [ref=e769]:
+                - listitem [ref=e770]:
+                  - generic [ref=e771]: 給与
+                  - generic [ref=e772]: 時給1400円～ ＋交通費全額支給
+                - listitem [ref=e773]:
+                  - generic [ref=e774]: 雇用形態
+                  - generic [ref=e775]: アルバイト・パート
+                - listitem [ref=e776]:
+                  - generic [ref=e777]: シフト
+                  - generic [ref=e778]: 週1日以上 1日4時間以上
+                - listitem [ref=e779]:
+                  - generic [ref=e780]: アクセス
+                  - generic [ref=e781]:
+                    - paragraph [ref=e782]: 六本木駅
+                    - paragraph [ref=e783]: 徒歩3分
+              - generic [ref=e784]:
+                - link "利尻昆布ラーメン くろおびの求人一覧を見る" [ref=e786] [cursor=pointer]:
+                  - /url: /cl-002948603469/
+                - button [ref=e787] [cursor=pointer]:
+                  - img [ref=e788]
+          - generic [ref=e790]:
+            - generic [ref=e792]: NEW
+            - generic [ref=e793]:
+              - heading "くろぎ甘味研究所" [level=2] [ref=e795]
+              - generic [ref=e796]:
+                - link "くろぎ甘味研究所 週1日～＆短時間で自分のペースで働ける★ 学校やプライベートと両立しやすい環境です！" [ref=e797] [cursor=pointer]:
+                  - /url: /cl-002754004384/job-134145070/
+                  - generic [ref=e798]:
+                    - img "くろぎ甘味研究所 週1日～＆短時間で自分のペースで働ける★ 学校やプライベートと両立しやすい環境です！"
+                - heading "【和カフェスタッフ】洗練されたおしゃれ空間でのお仕事♪＼高時給1500円／シフトも柔軟☆" [level=3] [ref=e799]:
+                  - link "【和カフェスタッフ】洗練されたおしゃれ空間でのお仕事♪＼高時給1500円／シフトも柔軟☆" [ref=e800] [cursor=pointer]:
+                    - /url: /cl-002754004384/job-134145070/
+              - list [ref=e801]:
+                - listitem [ref=e802]:
+                  - generic [ref=e803]: 給与
+                  - generic [ref=e804]: 時給：1500円～1900円+交通費
+                - listitem [ref=e805]:
+                  - generic [ref=e806]: 雇用形態
+                  - generic [ref=e807]: アルバイト・パート
+                - listitem [ref=e808]:
+                  - generic [ref=e809]: シフト
+                  - generic [ref=e810]: 週1日以上 1日4時間以上
+                - listitem [ref=e811]:
+                  - generic [ref=e812]: アクセス
+                  - generic [ref=e813]:
+                    - paragraph [ref=e814]: 大門駅
+                    - paragraph [ref=e815]: 徒歩4分
+              - generic [ref=e816]:
+                - link "株式会社KUROGIの求人一覧を見る" [ref=e818] [cursor=pointer]:
+                  - /url: /cl-002754004384/
+                - button [ref=e819] [cursor=pointer]:
+                  - img [ref=e820]
+          - generic [ref=e822]:
+            - generic [ref=e824]: NEW
+            - generic [ref=e825]:
+              - heading "かつくら 成城コルティ店 ※4月8日リニューアルオープン" [level=2] [ref=e827]
+              - generic [ref=e828]:
+                - link "かつくら 成城コルティ店 ※4月8日リニューアルオープン ≪プライベート重視でOK◎≫ シフトの提出は1週間ごと！ 学校優先・ご家庭優先が叶う♪事前相談で週0もOK 髪色も自由です☆*" [ref=e829] [cursor=pointer]:
+                  - /url: /cl-002378500613/job-134162433/
+                  - generic [ref=e830]:
+                    - img "かつくら 成城コルティ店 ※4月8日リニューアルオープン ≪プライベート重視でOK◎≫ シフトの提出は1週間ごと！ 学校優先・ご家庭優先が叶う♪事前相談で週0もOK 髪色も自由です☆*"
+                - heading "【かつくらSTAFF】<駅直結>成城コルティ4F♪未経験OK！週2~/4h~◎絶品とんかつ賄いあり＊" [level=3] [ref=e831]:
+                  - link "【かつくらSTAFF】<駅直結>成城コルティ4F♪未経験OK！週2~/4h~◎絶品とんかつ賄いあり＊" [ref=e832] [cursor=pointer]:
+                    - /url: /cl-002378500613/job-134162433/
+              - list [ref=e833]:
+                - listitem [ref=e834]:
+                  - generic [ref=e835]: 給与
+                  - generic [ref=e836]: 時給1230円～＋交通費全額支給
+                - listitem [ref=e837]:
+                  - generic [ref=e838]: 雇用形態
+                  - generic [ref=e839]: アルバイト・パート
+                - listitem [ref=e840]:
+                  - generic [ref=e841]: シフト
+                  - generic [ref=e842]: 週2日以上 1日4時間以上
+                - listitem [ref=e843]:
+                  - generic [ref=e844]: アクセス
+                  - generic [ref=e845]:
+                    - paragraph [ref=e846]: 成城学園前駅
+                    - paragraph [ref=e847]: 徒歩1分
+              - generic [ref=e849]:
+                - text: オンライン面接可
+                - textbox [ref=e851]
+              - generic [ref=e852]:
+                - link "株式会社フクナガの求人一覧を見る" [ref=e854] [cursor=pointer]:
+                  - /url: /cl-002378500613/
+                - button [ref=e855] [cursor=pointer]:
+                  - img [ref=e856]
+          - generic [ref=e858]:
+            - generic [ref=e860]: NEW
+            - generic [ref=e861]:
+              - heading "江戸蕎麦手打處 あさだ" [level=2] [ref=e863]
+              - generic [ref=e864]:
+                - link "江戸蕎麦手打處 あさだ お仕事ブランクがある方や、未経験さんも大歓迎♪ 気軽にご応募くださいね！ 今回は昼・夜の時間帯の募集になります♪" [ref=e865] [cursor=pointer]:
+                  - /url: /cl-002067301126/job-134022145/
+                  - generic [ref=e866]:
+                    - img "江戸蕎麦手打處 あさだ お仕事ブランクがある方や、未経験さんも大歓迎♪ 気軽にご応募くださいね！ 今回は昼・夜の時間帯の募集になります♪"
+                - heading "【ホール】歴史のある蕎麦屋さん。明るく落ち着いた接客が出来る方歓迎。主婦さん活躍中" [level=3] [ref=e867]:
+                  - link "【ホール】歴史のある蕎麦屋さん。明るく落ち着いた接客が出来る方歓迎。主婦さん活躍中" [ref=e868] [cursor=pointer]:
+                    - /url: /cl-002067301126/job-134022145/
+              - list [ref=e869]:
+                - listitem [ref=e870]:
+                  - generic [ref=e871]: 給与
+                  - generic [ref=e872]: 時給1400円～＋交通費全額支給
+                - listitem [ref=e873]:
+                  - generic [ref=e874]: 雇用形態
+                  - generic [ref=e875]: アルバイト・パート
+                - listitem [ref=e876]:
+                  - generic [ref=e877]: シフト
+                  - generic [ref=e878]: 週1日以上 1日3時間以上
+                - listitem [ref=e879]:
+                  - generic [ref=e880]: アクセス
+                  - generic [ref=e881]:
+                    - paragraph [ref=e882]: 浅草橋駅
+                    - paragraph [ref=e883]: 徒歩3分
+              - generic [ref=e885]: 急募
+              - generic [ref=e887]:
+                - generic [ref=e888]:
+                  - paragraph [ref=e890]: あと5日
+                  - link "江戸そば手打ち處 あさだの求人一覧を見る" [ref=e891] [cursor=pointer]:
+                    - /url: /cl-002067301126/
+                - button [ref=e892] [cursor=pointer]:
+                  - img [ref=e893]
+          - generic [ref=e895]:
+            - generic [ref=e897]: NEW
+            - generic [ref=e898]:
+              - heading "ホテルカデンツァ東京" [level=2] [ref=e900]
+              - generic [ref=e901]:
+                - link "ホテルカデンツァ東京 高校生・大学生～主婦さんまで 幅広い世代が活躍中♪ 面接前の面倒な履歴書準備も不要です◎ お気軽にご応募ください！" [ref=e902] [cursor=pointer]:
+                  - /url: /cl-002568300843/job-134333282/
+                  - generic [ref=e903]:
+                    - img "ホテルカデンツァ東京 高校生・大学生～主婦さんまで 幅広い世代が活躍中♪ 面接前の面倒な履歴書準備も不要です◎ お気軽にご応募ください！"
+                - heading "【ホテル内レストランのホール】大量募集！扶養内パート＆初バイト歓迎★特別感ある空間♪" [level=3] [ref=e904]:
+                  - link "【ホテル内レストランのホール】大量募集！扶養内パート＆初バイト歓迎★特別感ある空間♪" [ref=e905] [cursor=pointer]:
+                    - /url: /cl-002568300843/job-134333282/
+              - list [ref=e906]:
+                - listitem [ref=e907]:
+                  - generic [ref=e908]: 給与
+                  - generic [ref=e909]: 時給1230円以上＋交通費支給
+                - listitem [ref=e910]:
+                  - generic [ref=e911]: 雇用形態
+                  - generic [ref=e912]: アルバイト・パート
+                - listitem [ref=e913]:
+                  - generic [ref=e914]: シフト
+                  - generic [ref=e915]: 週1日以上 1日4時間以上
+                - listitem [ref=e916]:
+                  - generic [ref=e917]: アクセス
+                  - paragraph [ref=e919]: 光が丘駅
+              - generic [ref=e921]: 急募
+              - generic [ref=e923]:
+                - link "ホテルカデンツァ東京の求人一覧を見る" [ref=e925] [cursor=pointer]:
+                  - /url: /cl-002568300843/
+                - button [ref=e926] [cursor=pointer]:
+                  - img [ref=e927]
+          - generic [ref=e929]:
+            - generic [ref=e931]: NEW
+            - generic [ref=e932]:
+              - heading "Ｔｈｅ Ｐｌａｃｅ ｏｆ Ｔｏｋｙｏ【１】" [level=2] [ref=e934]
+              - generic [ref=e935]:
+                - link "Ｔｈｅ Ｐｌａｃｅ ｏｆ Ｔｏｋｙｏ【１】 経験が“強み”になるバイト、選びませんか？ 学生さん～主婦さんまで人気のブライダルバイト♪" [ref=e936] [cursor=pointer]:
+                  - /url: /cl-002797206784/job-134146795/
+                  - generic [ref=e937]:
+                    - img "Ｔｈｅ Ｐｌａｃｅ ｏｆ Ｔｏｋｙｏ【１】 経験が“強み”になるバイト、選びませんか？ 学生さん～主婦さんまで人気のブライダルバイト♪"
+                - heading "【結婚式サービスSTAFF】あなたの手で感動をお届け゜+調理スタッフも同時募集中！" [level=3] [ref=e938]:
+                  - link "【結婚式サービスSTAFF】あなたの手で感動をお届け゜+調理スタッフも同時募集中！" [ref=e939] [cursor=pointer]:
+                    - /url: /cl-002797206784/job-134146795/
+              - list [ref=e940]:
+                - listitem [ref=e941]:
+                  - generic [ref=e942]: 給与
+                  - generic [ref=e943]: 時給1500円～1875円＋交費全額支給
+                - listitem [ref=e944]:
+                  - generic [ref=e945]: 雇用形態
+                  - generic [ref=e946]: アルバイト・パート
+                - listitem [ref=e947]:
+                  - generic [ref=e948]: シフト
+                  - generic [ref=e949]: 週1日以上 1日3時間以上
+                - listitem [ref=e950]:
+                  - generic [ref=e951]: アクセス
+                  - generic [ref=e952]:
+                    - paragraph [ref=e953]: 神谷町駅
+                    - paragraph [ref=e954]: 徒歩8分
+              - generic [ref=e956]:
+                - text: オンライン面接可
+                - textbox [ref=e958]
+              - generic [ref=e959]:
+                - link "ザ・プレイス・オブ・東京 （株式会社一家ダイニングプロジェクト）の求人一覧を見る" [ref=e961] [cursor=pointer]:
+                  - /url: /cl-002797206784/
+                - button [ref=e962] [cursor=pointer]:
+                  - img [ref=e963]
+          - generic [ref=e965]:
+            - generic [ref=e967]: NEW
+            - generic [ref=e968]:
+              - heading "モスバーガーときわ台店" [level=2] [ref=e970]
+              - generic [ref=e971]:
+                - link "モスバーガーときわ台店 未経験OK！初めてのアルバイトの学生さんから 主婦(夫)・フリーターまで幅広い方が活躍中 みんなで和気あいあいとした職場です♪" [ref=e972] [cursor=pointer]:
+                  - /url: /cl-002085108916/job-134149416/
+                  - generic [ref=e973]:
+                    - img "モスバーガーときわ台店 未経験OK！初めてのアルバイトの学生さんから 主婦(夫)・フリーターまで幅広い方が活躍中 みんなで和気あいあいとした職場です♪"
+                - heading "【モスバーガーSTAFF】<1日3h～>シフト超柔軟！初バイト＆家庭と両立して働きたい方歓迎" [level=3] [ref=e974]:
+                  - link "【モスバーガーSTAFF】<1日3h～>シフト超柔軟！初バイト＆家庭と両立して働きたい方歓迎" [ref=e975] [cursor=pointer]:
+                    - /url: /cl-002085108916/job-134149416/
+              - list [ref=e976]:
+                - listitem [ref=e977]:
+                  - generic [ref=e978]: 給与
+                  - generic [ref=e979]: 時給1230円以上 （土日祝は＋50円）※交通費支給
+                - listitem [ref=e980]:
+                  - generic [ref=e981]: 雇用形態
+                  - generic [ref=e982]: アルバイト・パート
+                - listitem [ref=e983]:
+                  - generic [ref=e984]: シフト
+                  - generic [ref=e985]: 週2日以上 1日3時間以上
+                - listitem [ref=e986]:
+                  - generic [ref=e987]: アクセス
+                  - generic [ref=e988]:
+                    - paragraph [ref=e989]: ときわ台駅
+                    - paragraph [ref=e990]: 徒歩1分
+              - generic [ref=e991]:
+                - link "株式会社大興産業の求人一覧を見る" [ref=e993] [cursor=pointer]:
+                  - /url: /cl-002085108916/
+                - button [ref=e994] [cursor=pointer]:
+                  - img [ref=e995]
+          - generic [ref=e997]:
+            - generic [ref=e999]: NEW
+            - generic [ref=e1000]:
+              - heading "葛西 彦酉(ひこどり)" [level=2] [ref=e1002]
+              - generic [ref=e1003]:
+                - link "葛西 彦酉(ひこどり) 「大丈夫？手伝おうか？」 彦酉でバイトデビューした先輩がたくさんいるから、 不安な気持ちをすぐさま察知♪" [ref=e1004] [cursor=pointer]:
+                  - /url: /cl-002130709538/job-134144548/
+                  - generic [ref=e1005]:
+                    - img "葛西 彦酉(ひこどり) 「大丈夫？手伝おうか？」 彦酉でバイトデビューした先輩がたくさんいるから、 不安な気持ちをすぐさま察知♪"
+                - heading "【ホール・キッチン】初バイト・高校生OK◎髪色自由★まかない有！シフト２週毎♪" [level=3] [ref=e1006]:
+                  - link "【ホール・キッチン】初バイト・高校生OK◎髪色自由★まかない有！シフト２週毎♪" [ref=e1007] [cursor=pointer]:
+                    - /url: /cl-002130709538/job-134144548/
+              - list [ref=e1008]:
+                - listitem [ref=e1009]:
+                  - generic [ref=e1010]: 給与
+                  - generic [ref=e1011]: 時給1250〜1563円以上＋交通費支給
+                - listitem [ref=e1012]:
+                  - generic [ref=e1013]: 雇用形態
+                  - generic [ref=e1014]: アルバイト・パート
+                - listitem [ref=e1015]:
+                  - generic [ref=e1016]: シフト
+                  - generic [ref=e1017]: 週2日以上 1日3時間以上
+                - listitem [ref=e1018]:
+                  - generic [ref=e1019]: アクセス
+                  - generic [ref=e1020]:
+                    - paragraph [ref=e1021]: 葛西駅
+                    - paragraph [ref=e1022]: 徒歩3分
+              - generic [ref=e1023]:
+                - link "株式会社サンドライブの求人一覧を見る" [ref=e1025] [cursor=pointer]:
+                  - /url: /cl-002130709538/
+                - button [ref=e1026] [cursor=pointer]:
+                  - img [ref=e1027]
+          - generic [ref=e1029]:
+            - generic [ref=e1031]: NEW
+            - generic [ref=e1032]:
+              - heading "上野精養軒 ビアガーデン" [level=2] [ref=e1034]
+              - generic [ref=e1035]:
+                - link "上野精養軒 ビアガーデン ＼夏だけの限定★レアバイト／ 2026年7月9日プレオープン！ 開放感溢れるお店で一緒に夏を感じましょう♪" [ref=e1036] [cursor=pointer]:
+                  - /url: /cl-002685507926/job-133936317/
+                  - generic [ref=e1037]:
+                    - img "上野精養軒 ビアガーデン ＼夏だけの限定★レアバイト／ 2026年7月9日プレオープン！ 開放感溢れるお店で一緒に夏を感じましょう♪"
+                - heading "【ビアガーデンStaff】《大量募集＆～9/5の短期★》プライベートも充実！友達と一緒に♪" [level=3] [ref=e1038]:
+                  - link "【ビアガーデンStaff】《大量募集＆～9/5の短期★》プライベートも充実！友達と一緒に♪" [ref=e1039] [cursor=pointer]:
+                    - /url: /cl-002685507926/job-133936317/
+              - list [ref=e1040]:
+                - listitem [ref=e1041]:
+                  - generic [ref=e1042]: 給与
+                  - generic [ref=e1043]: 【火～木】時給1500円～ 【金・土・日】時給1600円～ +交通費
+                - listitem [ref=e1044]:
+                  - generic [ref=e1045]: 雇用形態
+                  - generic [ref=e1046]: アルバイト・パート
+                - listitem [ref=e1047]:
+                  - generic [ref=e1048]: シフト
+                  - generic [ref=e1049]: 週2日以上 1日4時間以上
+                - listitem [ref=e1050]:
+                  - generic [ref=e1051]: アクセス
+                  - generic [ref=e1052]:
+                    - paragraph [ref=e1053]: 上野駅
+                    - paragraph [ref=e1054]: 徒歩5分
+              - generic [ref=e1055]:
+                - link "株式会社精養軒の求人一覧を見る" [ref=e1057] [cursor=pointer]:
+                  - /url: /cl-002685507926/
+                - button [ref=e1058] [cursor=pointer]:
+                  - img [ref=e1059]
+          - generic [ref=e1061]:
+            - generic [ref=e1063]: NEW
+            - generic [ref=e1064]:
+              - heading "シュラスコレストラン ALEGRIA 神楽坂店" [level=2] [ref=e1066]
+              - generic [ref=e1067]:
+                - link "シュラスコレストラン ALEGRIA 神楽坂店 《シフトの融通◎》 テスト期間・留学・短期入社など、事前相談があれば臨機応変に対応します♪ 春からの新バイトにピッタリ★" [ref=e1068] [cursor=pointer]:
+                  - /url: /cl-002742405353/job-134072194/
+                  - generic [ref=e1069]:
+                    - img "シュラスコレストラン ALEGRIA 神楽坂店 《シフトの融通◎》 テスト期間・留学・短期入社など、事前相談があれば臨機応変に対応します♪ 春からの新バイトにピッタリ★"
+                - heading "【シュラスコ専門店】週1・3時間~でOK！シフト融通♪未経験歓迎！お肉の無料賄いあり◎" [level=3] [ref=e1070]:
+                  - link "【シュラスコ専門店】週1・3時間~でOK！シフト融通♪未経験歓迎！お肉の無料賄いあり◎" [ref=e1071] [cursor=pointer]:
+                    - /url: /cl-002742405353/job-134072194/
+              - list [ref=e1072]:
+                - listitem [ref=e1073]:
+                  - generic [ref=e1074]: 給与
+                  - generic [ref=e1075]: 時給1300円~ +交通費全額
+                - listitem [ref=e1076]:
+                  - generic [ref=e1077]: 雇用形態
+                  - generic [ref=e1078]: アルバイト・パート
+                - listitem [ref=e1079]:
+                  - generic [ref=e1080]: シフト
+                  - generic [ref=e1081]: 週1日以上 1日3時間以上
+                - listitem [ref=e1082]:
+                  - generic [ref=e1083]: アクセス
+                  - generic [ref=e1084]:
+                    - paragraph [ref=e1085]: 神楽坂駅
+                    - paragraph [ref=e1086]: 徒歩7分
+              - generic [ref=e1088]:
+                - text: オンライン面接可
+                - textbox [ref=e1090]
+              - generic [ref=e1091]:
+                - link "合同会社イーアンドシーの求人一覧を見る" [ref=e1093] [cursor=pointer]:
+                  - /url: /cl-002742405353/
+                - button [ref=e1094] [cursor=pointer]:
+                  - img [ref=e1095]
+          - generic [ref=e1097]:
+            - generic [ref=e1099]: NEW
+            - generic [ref=e1100]:
+              - heading "新宿御苑 鳥焼 晴京（ハルキョウ）" [level=2] [ref=e1102]
+              - generic [ref=e1103]:
+                - link "新宿御苑 鳥焼 晴京（ハルキョウ） 左が店長です♪ 店長も子育てに奮闘中！ 主婦（夫）の気持ちにも寄り添います◎ お困り事があればお気軽にご相談ください♪" [ref=e1104] [cursor=pointer]:
+                  - /url: /cl-002018703132/job-134137983/
+                  - generic [ref=e1105]:
+                    - img "新宿御苑 鳥焼 晴京（ハルキョウ） 左が店長です♪ 店長も子育てに奮闘中！ 主婦（夫）の気持ちにも寄り添います◎ お困り事があればお気軽にご相談ください♪"
+                - heading "【焼鳥店のホール】＼主婦（夫）大歓迎！／短時間・扶養内勤務OK◎家庭や子育とも両立♪" [level=3] [ref=e1106]:
+                  - link "【焼鳥店のホール】＼主婦（夫）大歓迎！／短時間・扶養内勤務OK◎家庭や子育とも両立♪" [ref=e1107] [cursor=pointer]:
+                    - /url: /cl-002018703132/job-134137983/
+              - list [ref=e1108]:
+                - listitem [ref=e1109]:
+                  - generic [ref=e1110]: 給与
+                  - generic [ref=e1111]: 時給1300円以上 + 交通費全額支給
+                - listitem [ref=e1112]:
+                  - generic [ref=e1113]: 雇用形態
+                  - generic [ref=e1114]: アルバイト・パート
+                - listitem [ref=e1115]:
+                  - generic [ref=e1116]: シフト
+                  - generic [ref=e1117]: 週1日以上 1日2時間以上
+                - listitem [ref=e1118]:
+                  - generic [ref=e1119]: アクセス
+                  - generic [ref=e1120]:
+                    - paragraph [ref=e1121]: 新宿三丁目駅
+                    - paragraph [ref=e1122]: 徒歩3分
+              - generic [ref=e1123]:
+                - link "晴京の求人一覧を見る" [ref=e1125] [cursor=pointer]:
+                  - /url: /cl-002018703132/
+                - button [ref=e1126] [cursor=pointer]:
+                  - img [ref=e1127]
+          - generic [ref=e1129]:
+            - generic [ref=e1131]: NEW
+            - generic [ref=e1132]:
+              - heading "コメダ珈琲店 ららぽーと豊洲店" [level=2] [ref=e1134]
+              - generic [ref=e1135]:
+                - link "コメダ珈琲店 ららぽーと豊洲店 ＼コメダ珈琲店 ららぽーと豊洲店 スタッフ大募集／ 未経験＆バイトデビューも大歓迎★" [ref=e1136] [cursor=pointer]:
+                  - /url: /cl-002085109058/job-134010696/
+                  - generic [ref=e1137]:
+                    - img "コメダ珈琲店 ららぽーと豊洲店 ＼コメダ珈琲店 ららぽーと豊洲店 スタッフ大募集／ 未経験＆バイトデビューも大歓迎★"
+                - heading "【コメダ珈琲店スタッフ】＼未経験歓迎／出勤時はドリンク1杯無料＆フード半額★週2~OK♪" [level=3] [ref=e1138]:
+                  - link "【コメダ珈琲店スタッフ】＼未経験歓迎／出勤時はドリンク1杯無料＆フード半額★週2~OK♪" [ref=e1139] [cursor=pointer]:
+                    - /url: /cl-002085109058/job-134010696/
+              - list [ref=e1140]:
+                - listitem [ref=e1141]:
+                  - generic [ref=e1142]: 給与
+                  - generic [ref=e1143]: 時給1350円～1688円 ※土日祝＋50円
+                - listitem [ref=e1144]:
+                  - generic [ref=e1145]: 雇用形態
+                  - generic [ref=e1146]: アルバイト・パート
+                - listitem [ref=e1147]:
+                  - generic [ref=e1148]: シフト
+                  - generic [ref=e1149]: 週2日以上 1日2時間以上
+                - listitem [ref=e1150]:
+                  - generic [ref=e1151]: アクセス
+                  - generic [ref=e1152]:
+                    - paragraph [ref=e1153]: 豊洲駅
+                    - paragraph [ref=e1154]: 徒歩3分
+              - generic [ref=e1155]:
+                - link "株式会社コメダの求人一覧を見る" [ref=e1157] [cursor=pointer]:
+                  - /url: /cl-002085109058/
+                - button [ref=e1158] [cursor=pointer]:
+                  - img [ref=e1159]
+          - generic [ref=e1161]:
+            - generic [ref=e1163]: NEW
+            - generic [ref=e1164]:
+              - heading "YOLO cafe&bar 赤坂店 ※2025年3月オープン" [level=2] [ref=e1166]
+              - generic [ref=e1167]:
+                - link "YOLO cafe&bar 赤坂店 ※2025年3月オープン ＜カフェバイト未経験さんも大歓迎☆彡＞ 研修制度も充実しています！「やってみたい」「興味がある」そんなきっかけでもOK♪" [ref=e1168] [cursor=pointer]:
+                  - /url: /cl-002260506418/job-134301142/
+                  - generic [ref=e1169]:
+                    - img "YOLO cafe&bar 赤坂店 ※2025年3月オープン ＜カフェバイト未経験さんも大歓迎☆彡＞ 研修制度も充実しています！「やってみたい」「興味がある」そんなきっかけでもOK♪"
+                - heading "【韓国カフェ＆バーのホール・キッチン】オープニング2次募集★学生&フリーター歓迎！" [level=3] [ref=e1170]:
+                  - link "【韓国カフェ＆バーのホール・キッチン】オープニング2次募集★学生&フリーター歓迎！" [ref=e1171] [cursor=pointer]:
+                    - /url: /cl-002260506418/job-134301142/
+              - list [ref=e1172]:
+                - listitem [ref=e1173]:
+                  - generic [ref=e1174]: 給与
+                  - generic [ref=e1175]: 時給1300円～＋交通費全額支給 ※22時以降は時給25％UP
+                - listitem [ref=e1176]:
+                  - generic [ref=e1177]: 雇用形態
+                  - generic [ref=e1178]: アルバイト・パート
+                - listitem [ref=e1179]:
+                  - generic [ref=e1180]: シフト
+                  - generic [ref=e1181]: 週1日以上 1日4時間以上
+                - listitem [ref=e1182]:
+                  - generic [ref=e1183]: アクセス
+                  - generic [ref=e1184]:
+                    - paragraph [ref=e1185]: 赤坂見附駅
+                    - paragraph [ref=e1186]: 徒歩4分
+              - generic [ref=e1187]:
+                - link "あらまさ食堂の求人一覧を見る" [ref=e1189] [cursor=pointer]:
+                  - /url: /cl-002260506418/
+                - button [ref=e1190] [cursor=pointer]:
+                  - img [ref=e1191]
+          - generic [ref=e1193]:
+            - generic [ref=e1195]: NEW
+            - generic [ref=e1196]:
+              - heading "湘南の魚とワインの店 ヒラツカ 五反田店/2468-1-hk" [level=2] [ref=e1198]
+              - generic [ref=e1199]:
+                - link "湘南の魚とワインの店 ヒラツカ 五反田店/2468-1-hk 五反田駅から徒歩2分で通勤ラクラク♪ シフト自由＆髪色・ネイルもOK！自分らしく働けるお店です" [ref=e1200] [cursor=pointer]:
+                  - /url: /cl-002807004024/job-134153699/
+                  - generic [ref=e1201]:
+                    - img "湘南の魚とワインの店 ヒラツカ 五反田店/2468-1-hk 五反田駅から徒歩2分で通勤ラクラク♪ シフト自由＆髪色・ネイルもOK！自分らしく働けるお店です"
+                - heading "【ホール・キッチン】7月中旬オープン★接客やドリンク作りが中心◎週2日からシフト自由" [level=3] [ref=e1202]:
+                  - link "【ホール・キッチン】7月中旬オープン★接客やドリンク作りが中心◎週2日からシフト自由" [ref=e1203] [cursor=pointer]:
+                    - /url: /cl-002807004024/job-134153699/
+              - list [ref=e1204]:
+                - listitem [ref=e1205]:
+                  - generic [ref=e1206]: 給与
+                  - generic [ref=e1207]: 時給1300～1800円＋交通費全額支給
+                - listitem [ref=e1208]:
+                  - generic [ref=e1209]: 雇用形態
+                  - generic [ref=e1210]: アルバイト・パート
+                - listitem [ref=e1211]:
+                  - generic [ref=e1212]: シフト
+                  - generic [ref=e1213]: 週2日以上 1日4時間以上
+                - listitem [ref=e1214]:
+                  - generic [ref=e1215]: アクセス
+                  - generic [ref=e1216]:
+                    - paragraph [ref=e1217]: 五反田駅
+                    - paragraph [ref=e1218]: 徒歩4分
+              - generic [ref=e1219]:
+                - link "株式会社ダイナックの求人一覧を見る" [ref=e1221] [cursor=pointer]:
+                  - /url: /cl-002807004024/
+                - button [ref=e1222] [cursor=pointer]:
+                  - img [ref=e1223]
+          - generic [ref=e1225]:
+            - generic [ref=e1227]: NEW
+            - generic [ref=e1228]:
+              - heading "土佐料理 祢保希（ねぼけ） 新宿店" [level=2] [ref=e1230]
+              - generic [ref=e1231]:
+                - link "土佐料理 祢保希（ねぼけ） 新宿店 記念日や特別な日に選ばれるレストランで、 お客様の“思い出づくり” をお手伝いするお仕事です★" [ref=e1232] [cursor=pointer]:
+                  - /url: /cl-002819208095/job-134155308/
+                  - generic [ref=e1233]:
+                    - img "土佐料理 祢保希（ねぼけ） 新宿店 記念日や特別な日に選ばれるレストランで、 お客様の“思い出づくり” をお手伝いするお仕事です★"
+                - heading "【ホールstaff】初めてでも安心◎ 落ち着いた老舗料理店で接客スキルを磨こう♪" [level=3] [ref=e1234]:
+                  - link "【ホールstaff】初めてでも安心◎ 落ち着いた老舗料理店で接客スキルを磨こう♪" [ref=e1235] [cursor=pointer]:
+                    - /url: /cl-002819208095/job-134155308/
+              - list [ref=e1236]:
+                - listitem [ref=e1237]:
+                  - generic [ref=e1238]: 給与
+                  - generic [ref=e1239]: 時給1500円～＋交通費支給
+                - listitem [ref=e1240]:
+                  - generic [ref=e1241]: 雇用形態
+                  - generic [ref=e1242]: アルバイト・パート
+                - listitem [ref=e1243]:
+                  - generic [ref=e1244]: シフト
+                  - generic [ref=e1245]: 週2日以上 1日4時間以上
+                - listitem [ref=e1246]:
+                  - generic [ref=e1247]: アクセス
+                  - generic [ref=e1248]:
+                    - paragraph [ref=e1249]: 新宿駅
+                    - paragraph [ref=e1250]: 徒歩5分
+              - generic [ref=e1252]: 急募
+              - generic [ref=e1254]:
+                - link "土佐料理 祢保希 新宿店の求人一覧を見る" [ref=e1256] [cursor=pointer]:
+                  - /url: /cl-002819208095/
+                - button [ref=e1257] [cursor=pointer]:
+                  - img [ref=e1258]
+          - generic [ref=e1260]:
+            - generic [ref=e1262]: NEW
+            - generic [ref=e1263]:
+              - heading "鶏繁（とりしげ） 六本木店" [level=2] [ref=e1265]
+              - generic [ref=e1266]:
+                - link "鶏繁（とりしげ） 六本木店 あたたかな赤い看板が目印。 少し路地を入ったところにあるから、 都会の喧騒を忘れさせる雰囲気がいっぱいのお店です♪" [ref=e1267] [cursor=pointer]:
+                  - /url: /cl-002905703313/job-134111844/
+                  - generic [ref=e1268]:
+                    - img "鶏繁（とりしげ） 六本木店 あたたかな赤い看板が目印。 少し路地を入ったところにあるから、 都会の喧騒を忘れさせる雰囲気がいっぱいのお店です♪"
+                - heading "【ホール】高時給1500円＆現金手渡し!やきとりがおいしい老舗個人店!土曜日入れる方優遇◎" [level=3] [ref=e1269]:
+                  - link "【ホール】高時給1500円＆現金手渡し!やきとりがおいしい老舗個人店!土曜日入れる方優遇◎" [ref=e1270] [cursor=pointer]:
+                    - /url: /cl-002905703313/job-134111844/
+              - list [ref=e1271]:
+                - listitem [ref=e1272]:
+                  - generic [ref=e1273]: 給与
+                  - generic [ref=e1274]: 時給1500円～＋交通費
+                - listitem [ref=e1275]:
+                  - generic [ref=e1276]: 雇用形態
+                  - generic [ref=e1277]: アルバイト・パート
+                - listitem [ref=e1278]:
+                  - generic [ref=e1279]: シフト
+                  - generic [ref=e1280]: 週2日以上 1日4時間以上
+                - listitem [ref=e1281]:
+                  - generic [ref=e1282]: アクセス
+                  - generic [ref=e1283]:
+                    - paragraph [ref=e1284]: 六本木駅
+                    - paragraph [ref=e1285]: 徒歩1分
+              - generic [ref=e1287]: 急募
+              - generic [ref=e1289]:
+                - link "株式会社ワイズファームの求人一覧を見る" [ref=e1291] [cursor=pointer]:
+                  - /url: /cl-002905703313/
+                - button [ref=e1292] [cursor=pointer]:
+                  - img [ref=e1293]
+          - generic [ref=e1295]:
+            - generic [ref=e1297]: NEW
+            - generic [ref=e1298]:
+              - heading "魚屋あらまさ 赤坂本店" [level=2] [ref=e1300]
+              - generic [ref=e1301]:
+                - link "魚屋あらまさ 赤坂本店 大切な人とのデート、 接待や会食などのビジネスシーンにも利用されている為 客層が良いのも自慢です♪" [ref=e1302] [cursor=pointer]:
+                  - /url: /cl-002260506418/job-134301143/
+                  - generic [ref=e1303]:
+                    - img "魚屋あらまさ 赤坂本店 大切な人とのデート、 接待や会食などのビジネスシーンにも利用されている為 客層が良いのも自慢です♪"
+                - heading "【ホール/キッチン】半個室多め！ムードのあるオトナな居酒屋さん♪週1～/1日3h～勤務OK◎" [level=3] [ref=e1304]:
+                  - link "【ホール/キッチン】半個室多め！ムードのあるオトナな居酒屋さん♪週1～/1日3h～勤務OK◎" [ref=e1305] [cursor=pointer]:
+                    - /url: /cl-002260506418/job-134301143/
+              - list [ref=e1306]:
+                - listitem [ref=e1307]:
+                  - generic [ref=e1308]: 給与
+                  - generic [ref=e1309]: 時給1400～1750円以上 ＋ 交通費全額支給
+                - listitem [ref=e1310]:
+                  - generic [ref=e1311]: 雇用形態
+                  - generic [ref=e1312]: アルバイト・パート
+                - listitem [ref=e1313]:
+                  - generic [ref=e1314]: シフト
+                  - generic [ref=e1315]: 週1日以上 1日3時間以上
+                - listitem [ref=e1316]:
+                  - generic [ref=e1317]: アクセス
+                  - generic [ref=e1318]:
+                    - paragraph [ref=e1319]: 溜池山王駅
+                    - paragraph [ref=e1320]: 徒歩1分
+              - generic [ref=e1321]:
+                - link "あらまさ食堂の求人一覧を見る" [ref=e1323] [cursor=pointer]:
+                  - /url: /cl-002260506418/
+                - button [ref=e1324] [cursor=pointer]:
+                  - img [ref=e1325]
+          - generic [ref=e1327]:
+            - generic [ref=e1329]: NEW
+            - generic [ref=e1330]:
+              - heading "TORIBA COFFEE 東京店" [level=2] [ref=e1332]
+              - generic [ref=e1333]:
+                - link "TORIBA COFFEE 東京店 ★未経験歓迎★ もちろん飲食経験ある方も大歓迎です★ 最初は食器下げや洗い物などできることから♪" [ref=e1334] [cursor=pointer]:
+                  - /url: /cl-002892805965/job-134232658/
+                  - generic [ref=e1335]:
+                    - img "TORIBA COFFEE 東京店 ★未経験歓迎★ もちろん飲食経験ある方も大歓迎です★ 最初は食器下げや洗い物などできることから♪"
+                - heading "【カフェスタッフ】東京駅直結のオシャレなカフェ♪柔軟シフトが魅力的★未経験歓迎！" [level=3] [ref=e1336]:
+                  - link "【カフェスタッフ】東京駅直結のオシャレなカフェ♪柔軟シフトが魅力的★未経験歓迎！" [ref=e1337] [cursor=pointer]:
+                    - /url: /cl-002892805965/job-134232658/
+              - list [ref=e1338]:
+                - listitem [ref=e1339]:
+                  - generic [ref=e1340]: 給与
+                  - generic [ref=e1341]: 時給1250円〜（平日朝・土日祝：時給1300円〜）＋交通費支給
+                - listitem [ref=e1342]:
+                  - generic [ref=e1343]: 雇用形態
+                  - generic [ref=e1344]: アルバイト・パート
+                - listitem [ref=e1345]:
+                  - generic [ref=e1346]: シフト
+                  - generic [ref=e1347]: 週1日以上 1日4時間以上
+                - listitem [ref=e1348]:
+                  - generic [ref=e1349]: アクセス
+                  - generic [ref=e1350]:
+                    - paragraph [ref=e1351]: 東京駅
+                    - paragraph [ref=e1352]: 徒歩7分
+              - generic [ref=e1353]:
+                - link "株式会社バードフェザー・ノブの求人一覧を見る" [ref=e1355] [cursor=pointer]:
+                  - /url: /cl-002892805965/
+                - button [ref=e1356] [cursor=pointer]:
+                  - img [ref=e1357]
+          - generic [ref=e1359]:
+            - generic [ref=e1361]: NEW
+            - generic [ref=e1362]:
+              - heading "モスバーガー池袋東店" [level=2] [ref=e1364]
+              - generic [ref=e1365]:
+                - link "モスバーガー池袋東店 未経験OK！初めてのアルバイトの学生さんから 主婦(夫)・フリーターまで幅広い方が活躍中 みんなで和気あいあいとした職場です♪" [ref=e1366] [cursor=pointer]:
+                  - /url: /cl-002085108916/job-134149415/
+                  - generic [ref=e1367]:
+                    - img "モスバーガー池袋東店 未経験OK！初めてのアルバイトの学生さんから 主婦(夫)・フリーターまで幅広い方が活躍中 みんなで和気あいあいとした職場です♪"
+                - heading "【モスバーガーSTAFF】<1日3h～>シフト超柔軟！初バイト＆家庭と両立して働きたい方歓迎" [level=3] [ref=e1368]:
+                  - link "【モスバーガーSTAFF】<1日3h～>シフト超柔軟！初バイト＆家庭と両立して働きたい方歓迎" [ref=e1369] [cursor=pointer]:
+                    - /url: /cl-002085108916/job-134149415/
+              - list [ref=e1370]:
+                - listitem [ref=e1371]:
+                  - generic [ref=e1372]: 給与
+                  - generic [ref=e1373]: 時給1300円以上（土日祝は＋50円） ※交通費支給
+                - listitem [ref=e1374]:
+                  - generic [ref=e1375]: 雇用形態
+                  - generic [ref=e1376]: アルバイト・パート
+                - listitem [ref=e1377]:
+                  - generic [ref=e1378]: シフト
+                  - generic [ref=e1379]: 週2日以上 1日3時間以上
+                - listitem [ref=e1380]:
+                  - generic [ref=e1381]: アクセス
+                  - generic [ref=e1382]:
+                    - paragraph [ref=e1383]: 池袋駅
+                    - paragraph [ref=e1384]: 徒歩9分
+              - generic [ref=e1385]:
+                - link "株式会社大興産業の求人一覧を見る" [ref=e1387] [cursor=pointer]:
+                  - /url: /cl-002085108916/
+                - button [ref=e1388] [cursor=pointer]:
+                  - img [ref=e1389]
+        - generic [ref=e1392]:
+          - link "前のページへ":
+            - /url: /tokyo/ss-1/
+            - text: 前のページへ
+          - list [ref=e1393]:
+            - listitem [ref=e1394]:
+              - link "1":
+                - /url: /tokyo/ss-1/
+            - listitem [ref=e1395]:
+              - link "2" [ref=e1396] [cursor=pointer]:
+                - /url: /tokyo/ss-1/?pageNo=2
+            - listitem [ref=e1397]:
+              - link "3" [ref=e1398] [cursor=pointer]:
+                - /url: /tokyo/ss-1/?pageNo=3
+            - listitem [ref=e1399]:
+              - link "4" [ref=e1400] [cursor=pointer]:
+                - /url: /tokyo/ss-1/?pageNo=4
+            - listitem [ref=e1401]:
+              - link "5" [ref=e1402] [cursor=pointer]:
+                - /url: /tokyo/ss-1/?pageNo=5
+          - link "次のページへ" [ref=e1403] [cursor=pointer]:
+            - /url: /tokyo/ss-1/?pageNo=2
+            - text: 次のページへ
+    - generic [ref=e1409]:
+      - paragraph [ref=e1410]: 東京都の飲食・フードの平均時給
+      - paragraph [ref=e1411]: 1321.7円
+      - paragraph [ref=e1412]: 本データは2026年05月29日時点で、マイナビバイトに掲載されている給与から平均時給を算出したものです。
+      - paragraph [ref=e1413]:
+        - link "バイトの時給の平均は？都道府県別の時給が気になる気になる方はこちら" [ref=e1414] [cursor=pointer]:
+          - /url: /times/baito/knowhow/20250502-31950/?utm_source=baito.mynavi&utm_medium=link-salary
+    - generic [ref=e1418]:
+      - heading "あなたの検索履歴からのおすすめ求人" [level=2] [ref=e1420]
+      - generic [ref=e1421] [cursor=pointer]: もっと見る
+      - generic [ref=e1422]:
+        - generic [ref=e1423]:
+          - generic [ref=e1424]:
+            - link "株式会社ドライブトライブ/DR:HS336-01-MY 【配送ドライバー】ブランクある方の復帰も歓迎♪履歴書不要⇒手ぶらで面接♪日払いも◎" [ref=e1426] [cursor=pointer]:
+              - /url: /cl-002403801957/job-134116979/
+              - heading "株式会社ドライブトライブ/DR:HS336-01-MY" [level=3] [ref=e1427]
+              - generic [ref=e1428]: 【配送ドライバー】ブランクある方の復帰も歓迎♪履歴書不要⇒手ぶらで面接♪日払いも◎
+            - generic [ref=e1429]:
+              - generic [ref=e1430]:
+                - generic:
+                  - img "求人イメージ"
+              - generic [ref=e1431]:
+                - paragraph [ref=e1432]:
+                  - img "最寄り駅" [ref=e1433]
+                  - text: 京浜東北線 蒲田駅
+                - paragraph [ref=e1434]:
+                  - img "給与" [ref=e1435]
+                  - text: 時給 1800円以上
+                - paragraph [ref=e1436]:
+                  - img "雇用形態" [ref=e1437]
+                  - text: 派遣社員
+                - paragraph [ref=e1438]:
+                  - img "所在地" [ref=e1439]
+                  - text: 東京都大田区
+          - generic [ref=e1442]:
+            - text: 応募終了日：
+            - paragraph [ref=e1443]: 6月13日
+        - generic [ref=e1444]:
+          - generic [ref=e1445]:
+            - link "株式会社TOKYO EYE SERVICE＿京王多摩センターエリア(警備) 【警備staff】最短3分で内定！即勤務＆即日払いOK◎面接で2000円支給！携帯＆バイク貸出有" [ref=e1447] [cursor=pointer]:
+              - /url: /cl-002300706804/job-134128955/
+              - heading "株式会社TOKYO EYE SERVICE＿京王多摩センターエリア(警備)" [level=3] [ref=e1448]
+              - generic [ref=e1449]: 【警備staff】最短3分で内定！即勤務＆即日払いOK◎面接で2000円支給！携帯＆バイク貸出有
+            - generic [ref=e1450]:
+              - generic [ref=e1451]:
+                - generic:
+                  - img "求人イメージ"
+              - generic [ref=e1452]:
+                - paragraph [ref=e1453]:
+                  - img "最寄り駅" [ref=e1454]
+                  - text: 京王相模原線 京王多摩センター駅
+                - paragraph [ref=e1455]:
+                  - img "給与" [ref=e1456]
+                  - text: 日給9900円～30700円＋交通費全額支給
+                - paragraph [ref=e1457]:
+                  - img "雇用形態" [ref=e1458]
+                  - text: アルバイト・パート
+                - paragraph [ref=e1459]:
+                  - img "所在地" [ref=e1460]
+                  - text: 東京都多摩市
+          - generic [ref=e1463]:
+            - text: 応募終了日：
+            - paragraph [ref=e1464]: 6月27日
+        - generic [ref=e1465]:
+          - generic [ref=e1466]:
+            - link "株式会社マイナビワークス(マイナビスタッフ)/341496Jm 【営業アシスタント】(週10H×週2～)大手インフラ！請求書作成や受発注＠大井町" [ref=e1468] [cursor=pointer]:
+              - /url: /cl-001739600802/job-134149879/
+              - heading "株式会社マイナビワークス(マイナビスタッフ)/341496Jm" [level=3] [ref=e1469]
+              - generic [ref=e1470]: 【営業アシスタント】(週10H×週2～)大手インフラ！請求書作成や受発注＠大井町
+            - generic [ref=e1471]:
+              - generic [ref=e1472]:
+                - generic:
+                  - img "求人イメージ"
+              - generic [ref=e1473]:
+                - paragraph [ref=e1474]:
+                  - img "最寄り駅" [ref=e1475]
+                  - text: 京浜東北線 大井町駅
+                - paragraph [ref=e1476]:
+                  - img "給与" [ref=e1477]
+                  - text: 時給1550～1600円
+                - paragraph [ref=e1478]:
+                  - img "雇用形態" [ref=e1479]
+                  - text: 派遣社員
+                - paragraph [ref=e1480]:
+                  - img "所在地" [ref=e1481]
+                  - text: 東京都品川区
+          - generic [ref=e1483]:
+            - text: 応募終了日：
+            - paragraph [ref=e1484]: 6月2日
+            - paragraph [ref=e1485]: あと3日
+            - paragraph
+        - generic [ref=e1486]:
+          - generic [ref=e1487]:
+            - link "株式会社ドゥファイン ※中野エリア/TGCDEA_中野 【スマホのプラン相談窓口】[登録制]大手×駅チカ×高時給の好待遇★未経験OK！週払い可◎" [ref=e1489] [cursor=pointer]:
+              - /url: /cl-002284207281/job-134065229/
+              - heading "株式会社ドゥファイン ※中野エリア/TGCDEA_中野" [level=3] [ref=e1490]
+              - generic [ref=e1491]: 【スマホのプラン相談窓口】[登録制]大手×駅チカ×高時給の好待遇★未経験OK！週払い可◎
+            - generic [ref=e1492]:
+              - generic [ref=e1493]:
+                - generic:
+                  - img "求人イメージ"
+              - generic [ref=e1494]:
+                - paragraph [ref=e1495]:
+                  - img "最寄り駅" [ref=e1496]
+                  - text: 東西線 中野駅
+                - paragraph [ref=e1497]:
+                  - img "給与" [ref=e1498]
+                  - text: 時給1840～2070円＋交通費支給
+                - paragraph [ref=e1499]:
+                  - img "雇用形態" [ref=e1500]
+                  - text: 派遣社員
+                - paragraph [ref=e1501]:
+                  - img "所在地" [ref=e1502]
+                  - text: 東京都中野区
+          - generic [ref=e1505]:
+            - text: 応募終了日：
+            - paragraph [ref=e1506]: 6月16日
+    - generic [ref=e1507]:
+      - generic [ref=e1509]:
+        - heading "東京都の飲食・フードの求人をエリアで絞り込む" [level=2] [ref=e1511]
+        - generic [ref=e1515] [cursor=pointer]: エリア
+      - generic [ref=e1518]:
+        - heading "東京都の求人情報を条件を追加して探す" [level=2] [ref=e1520]
+        - generic [ref=e1521]:
+          - generic [ref=e1524] [cursor=pointer]: 雇用形態
+          - generic [ref=e1528] [cursor=pointer]: 勤務期間・シフト
+          - generic [ref=e1532] [cursor=pointer]: 特徴
+    - generic [ref=e1535]:
+      - heading "よくあるご質問" [level=2] [ref=e1537]
+      - list [ref=e1539]:
+        - listitem [ref=e1540]:
+          - heading "Q. 東京都の飲食・フードのアルバイトの求人は今どれくらいありますか？" [level=3] [ref=e1541] [cursor=pointer]: Q. 東京都の飲食・フードのアルバイトの求人は今どれくらいありますか？
+        - listitem [ref=e1544]:
+          - heading "Q. 東京都の人気の職種と平均時給が知りたいです。" [level=3] [ref=e1545] [cursor=pointer]: Q. 東京都の人気の職種と平均時給が知りたいです。
+          - text: A.
+        - listitem [ref=e1548]:
+          - heading "Q. マイナビバイトに掲載されているお仕事はどのような特徴がありますか？" [level=3] [ref=e1549] [cursor=pointer]: Q. マイナビバイトに掲載されているお仕事はどのような特徴がありますか？
+          - text: A.
+    - link [ref=e1557] [cursor=pointer]:
+      - /url: https://app.adjust.com/1u19fchn_1ufisn4l
+    - list [ref=e1561]:
+      - listitem [ref=e1562]:
+        - img "ホーム" [ref=e1563]
+      - listitem [ref=e1564]:
+        - link "アルバイト探し・バイト求人TOP" [ref=e1565] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e1566]:
+        - link "東京都" [ref=e1567] [cursor=pointer]:
+          - /url: /tokyo/
+      - listitem [ref=e1568]:
+        - strong [ref=e1569]: 飲食・フードのバイト・アルバイト求人
+  - contentinfo

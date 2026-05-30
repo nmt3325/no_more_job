@@ -1,0 +1,18 @@
+[project]
+name = "mynavi-mcp"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.0",
+    "requests>=2.31",
+]
+
+[project.scripts]
+mynavi-mcp = "server:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["server", "api"]

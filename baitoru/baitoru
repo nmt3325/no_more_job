@@ -1,0 +1,4 @@
+#!/bin/bash
+# バイトル CLI ラッパー
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$SCRIPT_DIR/.venv/bin/python" "$SCRIPT_DIR/baitoru.py" "$@"

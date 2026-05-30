@@ -1,0 +1,1913 @@
+- generic [active] [ref=e1]:
+  - link [ref=e2] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e8]:
+        - complementary [ref=e10]:
+          - list [ref=e11]:
+            - listitem [ref=e12]: 更新日時 2026/5/29（金）23:00
+            - listitem [ref=e13]:
+              - text: 全国掲載件数
+              - emphasis [ref=e14]: 2,865,324
+              - text: 件
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "新規登録" [ref=e18] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e19]:
+              - link "ログイン" [ref=e21] [cursor=pointer]:
+                - /url: https://www.baitoru.com/noscreen/logineasycheck/
+            - listitem [ref=e22]:
+              - generic [ref=e23]:
+                - text: ｜
+                - link "【企業】求人広告の掲載相談" [ref=e24] [cursor=pointer]:
+                  - /url: https://www.baitoru.com/solution/baitoru/
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - paragraph [ref=e27]:
+              - link "ディップのバイト情報 バイトル" [ref=e28] [cursor=pointer]:
+                - /url: https://www.baitoru.com
+                - img "ディップのバイト情報 バイトル" [ref=e29]
+            - list [ref=e30]:
+              - listitem [ref=e31]:
+                - emphasis [ref=e32]: 関東
+                - link "変更" [ref=e33] [cursor=pointer]:
+                  - /url: "#"
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - emphasis [ref=e37]: バイトル
+            - listitem [ref=e38]:
+              - link "スポットバイトル" [ref=e39] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e40]:
+              - link "バイトルNEXT" [ref=e41] [cursor=pointer]:
+                - /url: /kanto/shain/
+          - generic [ref=e42]:
+            - list [ref=e43]:
+              - listitem [ref=e44]:
+                - link "キープリスト" [ref=e46] [cursor=pointer]:
+                  - /url: javascript:void(0);
+              - listitem [ref=e47]:
+                - link "検索履歴" [ref=e49] [cursor=pointer]:
+                  - /url: javascript:void(0);
+              - listitem [ref=e50]:
+                - link "保存した条件" [ref=e52] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - list [ref=e53]:
+              - listitem [ref=e54]:
+                - link "お知らせ" [ref=e55] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e56]:
+                - link "メニュー" [ref=e57] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=e60]:
+      - generic [ref=e62]:
+        - generic [ref=e65]:
+          - term [ref=e66]: お知らせ
+          - definition [ref=e67]:
+            - list [ref=e68]:
+              - listitem [ref=e69]:
+                - link "icloudをご利用の方へ" [ref=e70] [cursor=pointer]:
+                  - /url: /info/info_page/230927/
+              - listitem [ref=e71]:
+                - link "【重要】弊社サービスを装った不審なメールに関する注意喚起のお知らせ" [ref=e72] [cursor=pointer]:
+                  - /url: /info/info_page/231212/
+              - listitem [ref=e73]:
+                - link "【重要】当社を騙る不審なLINEアカウントにご注意ください" [ref=e74] [cursor=pointer]:
+                  - /url: /info/info_page/241021/
+              - listitem [ref=e75]:
+                - link "一部サービスにおける個人情報の取扱い改定のお知らせ" [ref=e76] [cursor=pointer]:
+                  - /url: /info/info_page/260330/
+              - listitem [ref=e77]:
+                - link "サイトリニューアル中止に伴うサイト復元お知らせ" [ref=e78] [cursor=pointer]:
+                  - /url: /info/info_page/260415/
+              - listitem [ref=e79]:
+                - link "【重要】ご登録メールアドレスに関するお知らせとお願い" [ref=e80] [cursor=pointer]:
+                  - /url: /info/info_page/260515/
+        - generic [ref=e83]:
+          - heading "関東の仕事情報から選ぶ、バイト/アルバイトの求人情報が満載のバイトルで仕事探し" [level=1] [ref=e84]
+          - paragraph [ref=e85]: バイトやパートに特化した求人情報サイト、バイトルへようこそ！バイトルでは、みなさんがアルバイト・バイトを選ぶときの「希望」や「条件」を考えて、いろいろな仕事探しの方法をご用意しています。
+        - generic [ref=e87]:
+          - list [ref=e89]:
+            - listitem [ref=e90]:
+              - list [ref=e91]:
+                - listitem [ref=e92]:
+                  - link "スポットバイトル" [ref=e93] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                    - img "スポットバイトル" [ref=e94]
+            - listitem [ref=e95]:
+              - list [ref=e96]:
+                - listitem [ref=e97]:
+                  - link "大谷翔平×dip" [ref=e98] [cursor=pointer]:
+                    - /url: https://lp.dip.ai/ohtani_dip/?utm_medium=referral&utm_source=baweb&utm_campaign=bnr_dipaiLP_hantop_big
+                    - img "大谷翔平×dip" [ref=e99]
+            - listitem [ref=e100]:
+              - list [ref=e101]:
+                - listitem [ref=e102]:
+                  - link "dip AI AGENTバナー" [ref=e103] [cursor=pointer]:
+                    - /url: https://chat.dip.ai/?from=baitoru_web&page=all_top
+                    - img "dip AI AGENTバナー" [ref=e104]
+            - listitem [ref=e105]:
+              - list [ref=e106]:
+                - listitem [ref=e107]:
+                  - link "ZPJ" [ref=e108] [cursor=pointer]:
+                    - /url: https://www.baitoru.com/chat/?pname=ba_region_click_messagebanner_1
+                    - img "ZPJ" [ref=e109]
+            - listitem [ref=e110]:
+              - list [ref=e111]:
+                - listitem [ref=e112]:
+                  - img "職場体験見学" [ref=e113]
+                  - generic:
+                    - link:
+                      - /url: /about/taiken_kengaku/?pname=big
+                    - link:
+                      - /url: /kanto/jlist/mrt72?pname=big
+          - generic:
+            - list:
+              - listitem:
+                - link [ref=e114] [cursor=pointer]:
+                  - /url: "#"
+              - listitem:
+                - link [ref=e115] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=e118]:
+          - heading "オススメの求人" [level=2] [ref=e120]
+          - generic [ref=e121]:
+            - list [ref=e122]:
+              - listitem [ref=e123]:
+                - paragraph [ref=e124]:
+                  - link [ref=e125] [cursor=pointer]:
+                    - /url: /kanto/jlist/gumma/takasakishi/job159325295/?pname=recom_top_b_1_30
+                - list [ref=e126]:
+                  - listitem [ref=e127]:
+                    - link "株式会社フルキャスト" [ref=e128] [cursor=pointer]:
+                      - /url: /kanto/jlist/gumma/takasakishi/job159325295/?pname=recom_top_b_1_30
+                  - listitem [ref=e129]: 高崎市 / 高崎駅 徒歩3分
+                  - listitem [ref=e130]: 時給1,400円～
+                  - listitem [ref=e131]:
+                    - link "詳しく見る" [ref=e132] [cursor=pointer]:
+                      - /url: /kanto/jlist/gumma/takasakishi/job159325295/?pname=recom_top_b_1_30
+              - listitem [ref=e133]:
+                - paragraph [ref=e134]:
+                  - link [ref=e135] [cursor=pointer]:
+                    - /url: /kanto/jlist/saitama/saitamashiigai/irumashi/job159283171/?pname=recom_top_b_2_30
+                - list [ref=e136]:
+                  - listitem [ref=e137]:
+                    - link "株式会社マイワーク所沢営業所【mw】" [ref=e138] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/irumashi/job159283171/?pname=recom_top_b_2_30
+                  - listitem [ref=e139]: 入間市 / 入間市駅
+                  - listitem [ref=e140]: 時給1,500円～
+                  - listitem [ref=e141]:
+                    - link "詳しく見る" [ref=e142] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/irumashi/job159283171/?pname=recom_top_b_2_30
+              - listitem [ref=e143]:
+                - paragraph [ref=e144]:
+                  - link [ref=e145] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/shibuyaku/job155801895/?pname=recom_top_b_3_30
+                - list [ref=e146]:
+                  - listitem [ref=e147]:
+                    - link "株式会社OHZORA採用" [ref=e148] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/shibuyaku/job155801895/?pname=recom_top_b_3_30
+                  - listitem [ref=e149]: 渋谷区 / 代々木駅
+                  - listitem [ref=e150]: 日給40,163円～
+                  - listitem [ref=e151]:
+                    - link "詳しく見る" [ref=e152] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/shibuyaku/job155801895/?pname=recom_top_b_3_30
+              - listitem [ref=e153]:
+                - paragraph [ref=e154]:
+                  - link [ref=e155] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashiigai/kamakurashi/job158498740/?pname=recom_top_b_4_30
+                - list [ref=e156]:
+                  - listitem [ref=e157]:
+                    - link "サモエドcafe・チャウチャウランド" [ref=e158] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/kamakurashi/job158498740/?pname=recom_top_b_4_30
+                  - listitem [ref=e159]: 鎌倉市 / 鎌倉駅 徒歩7分
+                  - listitem [ref=e160]: 時給1,400円～
+                  - listitem [ref=e161]:
+                    - link "詳しく見る" [ref=e162] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/kamakurashi/job158498740/?pname=recom_top_b_4_30
+              - listitem [ref=e163]:
+                - paragraph [ref=e164]:
+                  - link [ref=e165] [cursor=pointer]:
+                    - /url: /kanto/jlist/ibaraki/mitoshi/job158715604/?pname=recom_top_b_5_30
+                - list [ref=e166]:
+                  - listitem [ref=e167]:
+                    - link "株式会社バイトレ" [ref=e168] [cursor=pointer]:
+                      - /url: /kanto/jlist/ibaraki/mitoshi/job158715604/?pname=recom_top_b_5_30
+                  - listitem [ref=e169]: 水戸市 / 赤塚駅
+                  - listitem [ref=e170]: 時給1,500円～1,875円
+                  - listitem [ref=e171]:
+                    - link "詳しく見る" [ref=e172] [cursor=pointer]:
+                      - /url: /kanto/jlist/ibaraki/mitoshi/job158715604/?pname=recom_top_b_5_30
+              - listitem [ref=e173]:
+                - paragraph [ref=e174]:
+                  - link [ref=e175] [cursor=pointer]:
+                    - /url: /kanto/jlist/saitama/saitamashiigai/kawaguchishi/job132246235/?pname=recom_top_b_6_30
+                - list [ref=e176]:
+                  - listitem [ref=e177]:
+                    - link "株式会社フルキャスト 埼玉支社" [ref=e178] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/kawaguchishi/job132246235/?pname=recom_top_b_6_30
+                  - listitem [ref=e179]: 川口市 / 鳩ヶ谷駅
+                  - listitem [ref=e180]: 時給1,450円～1,813円
+                  - listitem [ref=e181]:
+                    - link "詳しく見る" [ref=e182] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/kawaguchishi/job132246235/?pname=recom_top_b_6_30
+              - listitem [ref=e183]:
+                - paragraph [ref=e184]:
+                  - link [ref=e185] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job160163901/?pname=recom_top_b_7_30
+                - list [ref=e186]:
+                  - listitem [ref=e187]:
+                    - link "ガールズラウンジ｜ChouChou(シュシュ) 秋葉原店" [ref=e188] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job160163901/?pname=recom_top_b_7_30
+                  - listitem [ref=e189]: 千代田区 / 秋葉原駅 徒歩2分
+                  - listitem [ref=e190]: 時給5,000円～15,000円
+                  - listitem [ref=e191]:
+                    - link "詳しく見る" [ref=e192] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job160163901/?pname=recom_top_b_7_30
+              - listitem [ref=e193]:
+                - paragraph [ref=e194]:
+                  - link [ref=e195] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashi/yokohamashinakaku/job133585779/?pname=recom_top_b_8_30
+                - list [ref=e196]:
+                  - listitem [ref=e197]:
+                    - link "エボルカ 採用担当" [ref=e198] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashi/yokohamashinakaku/job133585779/?pname=recom_top_b_8_30
+                  - listitem [ref=e199]: 横浜市中区 / 横浜駅 徒歩5分
+                  - listitem [ref=e200]: 時給1,700円～1,900円
+                  - listitem [ref=e201]:
+                    - link "詳しく見る" [ref=e202] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashi/yokohamashinakaku/job133585779/?pname=recom_top_b_8_30
+              - listitem [ref=e203]:
+                - paragraph [ref=e204]:
+                  - link [ref=e205] [cursor=pointer]:
+                    - /url: /kanto/jlist/saitama/saitamashiigai/tokorozawashi/job144858803/?pname=recom_top_b_9_30
+                - list [ref=e206]:
+                  - listitem [ref=e207]:
+                    - link "株式会社グラスト 池袋オフィス" [ref=e208] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/tokorozawashi/job144858803/?pname=recom_top_b_9_30
+                  - listitem [ref=e209]: 所沢市 / 所沢駅
+                  - listitem [ref=e210]: 時給1,900円～2,100円
+                  - listitem [ref=e211]:
+                    - link "詳しく見る" [ref=e212] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/tokorozawashi/job144858803/?pname=recom_top_b_9_30
+              - listitem [ref=e213]:
+                - paragraph [ref=e214]:
+                  - link [ref=e215] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/minatoku/job105558659/?pname=recom_top_b_10_30
+                - list [ref=e216]:
+                  - listitem [ref=e217]:
+                    - link "株式会社スミカ" [ref=e218] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/minatoku/job105558659/?pname=recom_top_b_10_30
+                  - listitem [ref=e219]: 港区 / 浜松町駅
+                  - listitem [ref=e220]: 完全出来高制
+                  - listitem [ref=e221]:
+                    - link "詳しく見る" [ref=e222] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/minatoku/job105558659/?pname=recom_top_b_10_30
+              - listitem [ref=e223]:
+                - paragraph [ref=e224]:
+                  - link [ref=e225] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/sagamiharashi/sagamiharashichuoku/job159392937/?pname=recom_top_b_11_30
+                - list [ref=e226]:
+                  - listitem [ref=e227]:
+                    - link "株式会社サンエー" [ref=e228] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/sagamiharashi/sagamiharashichuoku/job159392937/?pname=recom_top_b_11_30
+                  - listitem [ref=e229]: 相模原市中央区 / 淵野辺駅 徒歩3分
+                  - listitem [ref=e230]: 時給1,250円～
+                  - listitem [ref=e231]:
+                    - link "詳しく見る" [ref=e232] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/sagamiharashi/sagamiharashichuoku/job159392937/?pname=recom_top_b_11_30
+              - listitem [ref=e233]:
+                - paragraph [ref=e234]:
+                  - link [ref=e235] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job159607210/?pname=recom_top_b_12_30
+                - list [ref=e236]:
+                  - listitem [ref=e237]:
+                    - link "合同会社モソロ" [ref=e238] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job159607210/?pname=recom_top_b_12_30
+                  - listitem [ref=e239]: 千代田区 / 秋葉原駅 徒歩5分
+                  - listitem [ref=e240]: 月給25万円～38万円
+                  - listitem [ref=e241]:
+                    - link "詳しく見る" [ref=e242] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job159607210/?pname=recom_top_b_12_30
+              - listitem [ref=e243]:
+                - paragraph [ref=e244]:
+                  - link [ref=e245] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/shibuyaku/ebisu/job142483615/?pname=recom_top_b_13_30
+                - list [ref=e246]:
+                  - listitem [ref=e247]:
+                    - link "ECコンサルティング株式会社" [ref=e248] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/shibuyaku/ebisu/job142483615/?pname=recom_top_b_13_30
+                  - listitem [ref=e249]: 渋谷区 / 恵比寿駅 徒歩1分
+                  - listitem [ref=e250]: 完全出来高制
+                  - listitem [ref=e251]:
+                    - link "詳しく見る" [ref=e252] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/shibuyaku/ebisu/job142483615/?pname=recom_top_b_13_30
+              - listitem [ref=e253]:
+                - paragraph [ref=e254]:
+                  - link [ref=e255] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/chuoku/ginza/job159581972/?pname=recom_top_b_14_30
+                - list [ref=e256]:
+                  - listitem [ref=e257]:
+                    - link "ラウンジ ＳＥＥＤ シード" [ref=e258] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chuoku/ginza/job159581972/?pname=recom_top_b_14_30
+                  - listitem [ref=e259]: 中央区 / 銀座駅 徒歩2分
+                  - listitem [ref=e260]: 時給3,000円～
+                  - listitem [ref=e261]:
+                    - link "詳しく見る" [ref=e262] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chuoku/ginza/job159581972/?pname=recom_top_b_14_30
+              - listitem [ref=e263]:
+                - paragraph [ref=e264]:
+                  - link [ref=e265] [cursor=pointer]:
+                    - /url: /kanto/jlist/chiba/chibashiigai/urayasushi/job158848508/?pname=recom_top_b_15_30
+                - list [ref=e266]:
+                  - listitem [ref=e267]:
+                    - link "株式会社MBM" [ref=e268] [cursor=pointer]:
+                      - /url: /kanto/jlist/chiba/chibashiigai/urayasushi/job158848508/?pname=recom_top_b_15_30
+                  - listitem [ref=e269]: 浦安市 / 舞浜駅 徒歩5分
+                  - listitem [ref=e270]: 時給1,350円～1,888円
+                  - listitem [ref=e271]:
+                    - link "詳しく見る" [ref=e272] [cursor=pointer]:
+                      - /url: /kanto/jlist/chiba/chibashiigai/urayasushi/job158848508/?pname=recom_top_b_15_30
+              - listitem [ref=e273]:
+                - paragraph [ref=e274]:
+                  - link [ref=e275] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/toshimaku/mejiro/job158627676/?pname=recom_top_b_16_30
+                - list [ref=e276]:
+                  - listitem [ref=e277]:
+                    - link "HOTEL APERTO 大塚" [ref=e278] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/toshimaku/mejiro/job158627676/?pname=recom_top_b_16_30
+                  - listitem [ref=e279]: 豊島区 / 大塚駅前駅 徒歩1分
+                  - listitem [ref=e280]: 時給1,350円～1,688円
+                  - listitem [ref=e281]:
+                    - link "詳しく見る" [ref=e282] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/toshimaku/mejiro/job158627676/?pname=recom_top_b_16_30
+              - listitem [ref=e283]:
+                - paragraph [ref=e284]:
+                  - link [ref=e285] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashiigai/kamakurashi/job159449098/?pname=recom_top_b_17_30
+                - list [ref=e286]:
+                  - listitem [ref=e287]:
+                    - link "東横INN大船駅西口★オープニング募集★" [ref=e288] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/kamakurashi/job159449098/?pname=recom_top_b_17_30
+                  - listitem [ref=e289]: 鎌倉市 / 大船駅 徒歩1分
+                  - listitem [ref=e290]: 時給1,410円～
+                  - listitem [ref=e291]:
+                    - link "詳しく見る" [ref=e292] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/kamakurashi/job159449098/?pname=recom_top_b_17_30
+              - listitem [ref=e293]:
+                - paragraph [ref=e294]:
+                  - link [ref=e295] [cursor=pointer]:
+                    - /url: /kanto/jlist/saitama/saitamashiigai/kumagayashi/job145115148/?pname=recom_top_b_18_30
+                - list [ref=e296]:
+                  - listitem [ref=e297]:
+                    - link "株式会社ケイ・エム・エス" [ref=e298] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/kumagayashi/job145115148/?pname=recom_top_b_18_30
+                  - listitem [ref=e299]: 熊谷市 / 熊谷駅 車15分
+                  - listitem [ref=e300]: 完全出来高制
+                  - listitem [ref=e301]:
+                    - link "詳しく見る" [ref=e302] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/kumagayashi/job145115148/?pname=recom_top_b_18_30
+              - listitem [ref=e303]:
+                - paragraph [ref=e304]:
+                  - link [ref=e305] [cursor=pointer]:
+                    - /url: /kanto/jlist/saitama/saitamashiigai/kawaguchishi/job154967452/?pname=recom_top_b_19_30
+                - list [ref=e306]:
+                  - listitem [ref=e307]:
+                    - link "株式会社kotrio品川第一支店●SW-H1-1834846" [ref=e308] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/kawaguchishi/job154967452/?pname=recom_top_b_19_30
+                  - listitem [ref=e309]: 川口市 / 東川口駅
+                  - listitem [ref=e310]: 時給1,550円～2,312円
+                  - listitem [ref=e311]:
+                    - link "詳しく見る" [ref=e312] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashiigai/kawaguchishi/job154967452/?pname=recom_top_b_19_30
+              - listitem [ref=e313]:
+                - paragraph [ref=e314]:
+                  - link [ref=e315] [cursor=pointer]:
+                    - /url: /kanto/jlist/ibaraki/hitachinakashi/job159456789/?pname=recom_top_b_20_30
+                - list [ref=e316]:
+                  - listitem [ref=e317]:
+                    - link "株式会社ドリームメイクスタッフ" [ref=e318] [cursor=pointer]:
+                      - /url: /kanto/jlist/ibaraki/hitachinakashi/job159456789/?pname=recom_top_b_20_30
+                  - listitem [ref=e319]: ひたちなか市 / 勝田駅
+                  - listitem [ref=e320]: 時給1,200円～
+                  - listitem [ref=e321]:
+                    - link "詳しく見る" [ref=e322] [cursor=pointer]:
+                      - /url: /kanto/jlist/ibaraki/hitachinakashi/job159456789/?pname=recom_top_b_20_30
+              - listitem [ref=e323]:
+                - paragraph [ref=e324]:
+                  - link [ref=e325] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashiigai/fujisawashi/job158818690/?pname=recom_top_b_21_30
+                - list [ref=e326]:
+                  - listitem [ref=e327]:
+                    - link "Shonan Tea Luv." [ref=e328] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/fujisawashi/job158818690/?pname=recom_top_b_21_30
+                  - listitem [ref=e329]: 藤沢市 / 藤沢駅 車5分
+                  - listitem [ref=e330]: 時給1,300円～
+                  - listitem [ref=e331]:
+                    - link "詳しく見る" [ref=e332] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/fujisawashi/job158818690/?pname=recom_top_b_21_30
+              - listitem [ref=e333]:
+                - paragraph [ref=e334]:
+                  - link [ref=e335] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashiigai/ebinashi/job141947913/?pname=recom_top_b_22_30
+                - list [ref=e336]:
+                  - listitem [ref=e337]:
+                    - link "株式会社エントリー横浜支店" [ref=e338] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/ebinashi/job141947913/?pname=recom_top_b_22_30
+                  - listitem [ref=e339]: 海老名市 / かしわ台駅
+                  - listitem [ref=e340]: 時給1,500円～1,750円
+                  - listitem [ref=e341]:
+                    - link "詳しく見る" [ref=e342] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/ebinashi/job141947913/?pname=recom_top_b_22_30
+              - listitem [ref=e343]:
+                - paragraph [ref=e344]:
+                  - link [ref=e345] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashiigai/kozagun/job55573258/?pname=recom_top_b_23_30
+                - list [ref=e346]:
+                  - listitem [ref=e347]:
+                    - link "株式会社テクノ・サービス湘南営業所" [ref=e348] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/kozagun/job55573258/?pname=recom_top_b_23_30
+                  - listitem [ref=e349]: 高座郡寒川町 / 寒川駅
+                  - listitem [ref=e350]: 時給1,300円～1,550円
+                  - listitem [ref=e351]:
+                    - link "詳しく見る" [ref=e352] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/kozagun/job55573258/?pname=recom_top_b_23_30
+              - listitem [ref=e353]:
+                - paragraph [ref=e354]:
+                  - link [ref=e355] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashiigai/atsugishi/job149648088/?pname=recom_top_b_24_30
+                - list [ref=e356]:
+                  - listitem [ref=e357]:
+                    - link "HOTEL verace" [ref=e358] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/atsugishi/job149648088/?pname=recom_top_b_24_30
+                  - listitem [ref=e359]: 厚木市 / 本厚木駅 徒歩15分
+                  - listitem [ref=e360]: 時給1,263円～
+                  - listitem [ref=e361]:
+                    - link "詳しく見る" [ref=e362] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/atsugishi/job149648088/?pname=recom_top_b_24_30
+              - listitem [ref=e363]:
+                - paragraph [ref=e364]:
+                  - link [ref=e365] [cursor=pointer]:
+                    - /url: /kanto/jlist/saitama/saitamashi/saitamashiiwatsukiku/job159401226/?pname=recom_top_b_25_30
+                - list [ref=e366]:
+                  - listitem [ref=e367]:
+                    - link "内職市場 さいたま岩槻店" [ref=e368] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashi/saitamashiiwatsukiku/job159401226/?pname=recom_top_b_25_30
+                  - listitem [ref=e369]: さいたま市岩槻区 / 北越谷駅
+                  - listitem [ref=e370]: 完全出来高制
+                  - listitem [ref=e371]:
+                    - link "詳しく見る" [ref=e372] [cursor=pointer]:
+                      - /url: /kanto/jlist/saitama/saitamashi/saitamashiiwatsukiku/job159401226/?pname=recom_top_b_25_30
+              - listitem [ref=e373]:
+                - paragraph [ref=e374]:
+                  - link [ref=e375] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashi/yokohamashinakaku/job118711824/?pname=recom_top_b_26_30
+                - list [ref=e376]:
+                  - listitem [ref=e377]:
+                    - link "ホテルニューグランド(ASANO GROUP)" [ref=e378] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashi/yokohamashinakaku/job118711824/?pname=recom_top_b_26_30
+                  - listitem [ref=e379]: 横浜市中区 / 元町・中華街駅 徒歩2分
+                  - listitem [ref=e380]: 時給1,600円～2,000円
+                  - listitem [ref=e381]:
+                    - link "詳しく見る" [ref=e382] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashi/yokohamashinakaku/job118711824/?pname=recom_top_b_26_30
+              - listitem [ref=e383]:
+                - paragraph [ref=e384]:
+                  - link [ref=e385] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/toshimaku/mejiro/job159084816/?pname=recom_top_b_27_30
+                - list [ref=e386]:
+                  - listitem [ref=e387]:
+                    - link "オフショアワークス" [ref=e388] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/toshimaku/mejiro/job159084816/?pname=recom_top_b_27_30
+                  - listitem [ref=e389]: 豊島区 / 大塚駅 徒歩14分
+                  - listitem [ref=e390]: 時給1,250円～
+                  - listitem [ref=e391]:
+                    - link "詳しく見る" [ref=e392] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/toshimaku/mejiro/job159084816/?pname=recom_top_b_27_30
+              - listitem [ref=e393]:
+                - paragraph [ref=e394]:
+                  - link [ref=e395] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/shibuyaku/ebisu/job159537144/?pname=recom_top_b_28_30
+                - list [ref=e396]:
+                  - listitem [ref=e397]:
+                    - link "Anjin ～アンジン～" [ref=e398] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/shibuyaku/ebisu/job159537144/?pname=recom_top_b_28_30
+                  - listitem [ref=e399]: 渋谷区 / 代官山駅 徒歩5分
+                  - listitem [ref=e400]: 時給1,500円～
+                  - listitem [ref=e401]:
+                    - link "詳しく見る" [ref=e402] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/shibuyaku/ebisu/job159537144/?pname=recom_top_b_28_30
+              - listitem [ref=e403]:
+                - paragraph [ref=e404]:
+                  - link [ref=e405] [cursor=pointer]:
+                    - /url: /kanto/jlist/kanagawa/yokohamashiigai/hiratsukashi/job159384007/?pname=recom_top_b_29_30
+                - list [ref=e406]:
+                  - listitem [ref=e407]:
+                    - link "内職市場 湘南平塚店" [ref=e408] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/hiratsukashi/job159384007/?pname=recom_top_b_29_30
+                  - listitem [ref=e409]: 平塚市 / 平塚駅 車12分
+                  - listitem [ref=e410]: 完全出来高制
+                  - listitem [ref=e411]:
+                    - link "詳しく見る" [ref=e412] [cursor=pointer]:
+                      - /url: /kanto/jlist/kanagawa/yokohamashiigai/hiratsukashi/job159384007/?pname=recom_top_b_29_30
+              - listitem [ref=e413]:
+                - paragraph [ref=e414]:
+                  - link [ref=e415] [cursor=pointer]:
+                    - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job158921237/?pname=recom_top_b_30_30
+                - list [ref=e416]:
+                  - listitem [ref=e417]:
+                    - link "株式会社堀内カラー 神田" [ref=e418] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job158921237/?pname=recom_top_b_30_30
+                  - listitem [ref=e419]: 千代田区 / 御茶ノ水駅 徒歩7分
+                  - listitem [ref=e420]: 時給1,250円
+                  - listitem [ref=e421]:
+                    - link "詳しく見る" [ref=e422] [cursor=pointer]:
+                      - /url: /kanto/jlist/tokyo/23ku/chiyodaku/kanda/job158921237/?pname=recom_top_b_30_30
+            - list:
+              - listitem [ref=e423]:
+                - link "前へ" [ref=e424] [cursor=pointer]:
+                  - /url: "#"
+                  - img "前へ" [ref=e425]
+              - listitem [ref=e426]:
+                - link "次へ" [ref=e427] [cursor=pointer]:
+                  - /url: "#"
+                  - img "次へ" [ref=e428]
+        - generic [ref=e430]:
+          - generic [ref=e431]:
+            - heading "エリアor沿線から選ぶ" [level=3] [ref=e432]:
+              - link "エリアor沿線から選ぶ" [ref=e433] [cursor=pointer]:
+                - /url: "#"
+            - heading "職種から選ぶ" [level=3] [ref=e434]:
+              - link "職種から選ぶ" [ref=e435] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e436]:
+            - generic [ref=e437]:
+              - paragraph [ref=e438]:
+                - generic [ref=e439]:
+                  - text: エリアまたは沿線を
+                  - text: 選択してください
+              - list [ref=e440]:
+                - listitem [ref=e441]:
+                  - heading "東京都" [level=4] [ref=e442]
+                  - list:
+                    - listitem [ref=e443]:
+                      - link "エリア" [ref=e444] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e445]:
+                      - link "沿線" [ref=e446] [cursor=pointer]:
+                        - /url: "#"
+                - listitem [ref=e447]:
+                  - heading "神奈川県" [level=4] [ref=e448]
+                  - list:
+                    - listitem [ref=e449]:
+                      - link "エリア" [ref=e450] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e451]:
+                      - link "沿線" [ref=e452] [cursor=pointer]:
+                        - /url: "#"
+                - listitem [ref=e453]:
+                  - heading "千葉県" [level=4] [ref=e454]
+                  - list:
+                    - listitem [ref=e455]:
+                      - link "エリア" [ref=e456] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e457]:
+                      - link "沿線" [ref=e458] [cursor=pointer]:
+                        - /url: "#"
+                - listitem [ref=e459]:
+                  - heading "埼玉県" [level=4] [ref=e460]
+                  - list:
+                    - listitem [ref=e461]:
+                      - link "エリア" [ref=e462] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e463]:
+                      - link "沿線" [ref=e464] [cursor=pointer]:
+                        - /url: "#"
+                - listitem [ref=e465]:
+                  - heading "茨城県" [level=4] [ref=e466]
+                  - list:
+                    - listitem [ref=e467]:
+                      - link "エリア" [ref=e468] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e469]:
+                      - link "沿線" [ref=e470] [cursor=pointer]:
+                        - /url: "#"
+                - listitem [ref=e471]:
+                  - heading "栃木県" [level=4] [ref=e472]
+                  - list:
+                    - listitem [ref=e473]:
+                      - link "エリア" [ref=e474] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e475]:
+                      - link "沿線" [ref=e476] [cursor=pointer]:
+                        - /url: "#"
+                - listitem [ref=e477]:
+                  - heading "群馬県" [level=4] [ref=e478]
+                  - list:
+                    - listitem [ref=e479]:
+                      - link "エリア" [ref=e480] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=e481]:
+                      - link "沿線" [ref=e482] [cursor=pointer]:
+                        - /url: "#"
+            - generic [ref=e483]:
+              - generic [ref=e484]:
+                - generic [ref=e485]:
+                  - term [ref=e486]:
+                    - link "東京都" [ref=e488] [cursor=pointer]:
+                      - /url: /area/tokyo/
+                  - definition [ref=e489]:
+                    - list [ref=e490]:
+                      - listitem [ref=e491]:
+                        - link "新宿区" [ref=e493] [cursor=pointer]:
+                          - /url: /kanto/jlist/tokyo/23ku/shinjukuku/
+                      - listitem [ref=e494]:
+                        - link "渋谷区" [ref=e496] [cursor=pointer]:
+                          - /url: /kanto/jlist/tokyo/23ku/shibuyaku/
+                      - listitem [ref=e497]:
+                        - link "港区" [ref=e499] [cursor=pointer]:
+                          - /url: /kanto/jlist/tokyo/23ku/minatoku/
+                      - listitem [ref=e500]:
+                        - link "足立区" [ref=e502] [cursor=pointer]:
+                          - /url: /kanto/jlist/tokyo/23ku/adachiku/
+                      - listitem [ref=e503]:
+                        - link "立川市" [ref=e505] [cursor=pointer]:
+                          - /url: /kanto/jlist/tokyo/23kuigai/tachikawashi/
+                      - listitem [ref=e506]:
+                        - link "八王子市" [ref=e508] [cursor=pointer]:
+                          - /url: /kanto/jlist/tokyo/23kuigai/hachiojishi/
+                    - list [ref=e509]:
+                      - listitem [ref=e510]:
+                        - link "東京駅" [ref=e512] [cursor=pointer]:
+                          - /url: /kanto/jlist/2172tokyoeki/
+                      - listitem [ref=e513]:
+                        - link "池袋駅" [ref=e515] [cursor=pointer]:
+                          - /url: /kanto/jlist/2172ikebukuroeki/
+                      - listitem [ref=e516]:
+                        - link "八王子駅" [ref=e518] [cursor=pointer]:
+                          - /url: /kanto/jlist/2184hachiojieki/
+                      - listitem [ref=e519]:
+                        - link "新宿駅" [ref=e521] [cursor=pointer]:
+                          - /url: /kanto/jlist/2172shinjukueki/
+                      - listitem [ref=e522]:
+                        - link "立川駅" [ref=e524] [cursor=pointer]:
+                          - /url: /kanto/jlist/2184tachikawaeki/
+                      - listitem [ref=e525]:
+                        - link "町田駅" [ref=e527] [cursor=pointer]:
+                          - /url: /kanto/jlist/2177machidaeki/
+                - generic [ref=e528]:
+                  - term [ref=e529]:
+                    - link "神奈川県" [ref=e531] [cursor=pointer]:
+                      - /url: /area/kanagawa/
+                  - definition [ref=e532]:
+                    - list [ref=e533]:
+                      - listitem [ref=e534]:
+                        - link "横浜市" [ref=e536] [cursor=pointer]:
+                          - /url: /kanto/jlist/kanagawa/yokohamashi/
+                      - listitem [ref=e537]:
+                        - link "川崎市" [ref=e539] [cursor=pointer]:
+                          - /url: /kanto/jlist/kanagawa/kawasakishi/
+                      - listitem [ref=e540]:
+                        - link "相模原市" [ref=e542] [cursor=pointer]:
+                          - /url: /kanto/jlist/kanagawa/sagamiharashi/
+                      - listitem [ref=e543]:
+                        - link "横須賀市" [ref=e545] [cursor=pointer]:
+                          - /url: /kanto/jlist/kanagawa/yokohamashiigai/yokosukashi/
+                      - listitem [ref=e546]:
+                        - link "大和市" [ref=e548] [cursor=pointer]:
+                          - /url: /kanto/jlist/kanagawa/yokohamashiigai/yamatoshi/
+                      - listitem [ref=e549]:
+                        - link "平塚市" [ref=e551] [cursor=pointer]:
+                          - /url: /kanto/jlist/kanagawa/yokohamashiigai/hiratsukashi/
+                    - list [ref=e552]:
+                      - listitem [ref=e553]:
+                        - link "横浜駅" [ref=e555] [cursor=pointer]:
+                          - /url: /kanto/jlist/2196yokohamaeki/
+                      - listitem [ref=e556]:
+                        - link "川崎駅" [ref=e558] [cursor=pointer]:
+                          - /url: /kanto/jlist/2196kawasakieki/
+                      - listitem [ref=e559]:
+                        - link "本厚木駅" [ref=e561] [cursor=pointer]:
+                          - /url: /kanto/jlist/2311honatsugieki/
+                      - listitem [ref=e562]:
+                        - link "平塚駅" [ref=e564] [cursor=pointer]:
+                          - /url: /kanto/jlist/2171hiratsukaeki/
+                      - listitem [ref=e565]:
+                        - link "藤沢駅" [ref=e567] [cursor=pointer]:
+                          - /url: /kanto/jlist/2171fujisawaeki/
+                      - listitem [ref=e568]:
+                        - link "橋本駅" [ref=e570] [cursor=pointer]:
+                          - /url: /kanto/jlist/2177hashimotoeki/
+                - generic [ref=e571]:
+                  - term [ref=e572]:
+                    - link "千葉県" [ref=e574] [cursor=pointer]:
+                      - /url: /area/chiba/
+                  - definition [ref=e575]:
+                    - list [ref=e576]:
+                      - listitem [ref=e577]:
+                        - link "千葉市" [ref=e579] [cursor=pointer]:
+                          - /url: /kanto/jlist/chiba/chibashi/
+                      - listitem [ref=e580]:
+                        - link "船橋市" [ref=e582] [cursor=pointer]:
+                          - /url: /kanto/jlist/chiba/chibashiigai/funabashishi/
+                      - listitem [ref=e583]:
+                        - link "成田市" [ref=e585] [cursor=pointer]:
+                          - /url: /kanto/jlist/chiba/chibashiigai/naritashi/
+                      - listitem [ref=e586]:
+                        - link "柏市" [ref=e588] [cursor=pointer]:
+                          - /url: /kanto/jlist/chiba/chibashiigai/kashiwashi/
+                      - listitem [ref=e589]:
+                        - link "松戸市" [ref=e591] [cursor=pointer]:
+                          - /url: /kanto/jlist/chiba/chibashiigai/matsudoshi/
+                      - listitem [ref=e592]:
+                        - link "浦安市" [ref=e594] [cursor=pointer]:
+                          - /url: /kanto/jlist/chiba/chibashiigai/urayasushi/
+                    - list [ref=e595]:
+                      - listitem [ref=e596]:
+                        - link "柏駅" [ref=e598] [cursor=pointer]:
+                          - /url: /kanto/jlist/2102kashiwaeki/
+                      - listitem [ref=e599]:
+                        - link "千葉駅" [ref=e601] [cursor=pointer]:
+                          - /url: /kanto/jlist/2199chibaeki/
+                      - listitem [ref=e602]:
+                        - link "船橋駅" [ref=e604] [cursor=pointer]:
+                          - /url: /kanto/jlist/2199funabashieki/
+                      - listitem [ref=e605]:
+                        - link "松戸駅" [ref=e607] [cursor=pointer]:
+                          - /url: /kanto/jlist/2102matsudoeki/
+                      - listitem [ref=e608]:
+                        - link "海浜幕張駅" [ref=e610] [cursor=pointer]:
+                          - /url: /kanto/jlist/2164kaihimmakuharieki/
+                      - listitem [ref=e611]:
+                        - link "津田沼駅" [ref=e613] [cursor=pointer]:
+                          - /url: /kanto/jlist/2199tsudanumaeki/
+                - generic [ref=e614]:
+                  - term [ref=e615]:
+                    - link "埼玉県" [ref=e617] [cursor=pointer]:
+                      - /url: /area/saitama/
+                  - definition [ref=e618]:
+                    - list [ref=e619]:
+                      - listitem [ref=e620]:
+                        - link "さいたま市" [ref=e622] [cursor=pointer]:
+                          - /url: /kanto/jlist/saitama/saitamashi/
+                      - listitem [ref=e623]:
+                        - link "深谷市" [ref=e625] [cursor=pointer]:
+                          - /url: /kanto/jlist/saitama/saitamashiigai/fukayashi/
+                      - listitem [ref=e626]:
+                        - link "熊谷市" [ref=e628] [cursor=pointer]:
+                          - /url: /kanto/jlist/saitama/saitamashiigai/kumagayashi/
+                      - listitem [ref=e629]:
+                        - link "入間市" [ref=e631] [cursor=pointer]:
+                          - /url: /kanto/jlist/saitama/saitamashiigai/irumashi/
+                      - listitem [ref=e632]:
+                        - link "加須市" [ref=e634] [cursor=pointer]:
+                          - /url: /kanto/jlist/saitama/saitamashiigai/kazoshi/
+                      - listitem [ref=e635]:
+                        - link "川口市" [ref=e637] [cursor=pointer]:
+                          - /url: /kanto/jlist/saitama/saitamashiigai/kawaguchishi/
+                    - list [ref=e638]:
+                      - listitem [ref=e639]:
+                        - link "大宮駅" [ref=e641] [cursor=pointer]:
+                          - /url: /kanto/jlist/2196omiyaeki/
+                      - listitem [ref=e642]:
+                        - link "川口駅" [ref=e644] [cursor=pointer]:
+                          - /url: /kanto/jlist/2196kawaguchieki/
+                      - listitem [ref=e645]:
+                        - link "川越駅" [ref=e647] [cursor=pointer]:
+                          - /url: /kanto/jlist/2104kawagoeeki/
+                      - listitem [ref=e648]:
+                        - link "浦和駅" [ref=e650] [cursor=pointer]:
+                          - /url: /kanto/jlist/2196urawaeki/
+                      - listitem [ref=e651]:
+                        - link "久喜駅" [ref=e653] [cursor=pointer]:
+                          - /url: /kanto/jlist/2101kukieki/
+                      - listitem [ref=e654]:
+                        - link "春日部駅" [ref=e656] [cursor=pointer]:
+                          - /url: /kanto/jlist/2261kasukabeeki/
+              - generic [ref=e657]:
+                - generic [ref=e658]:
+                  - term [ref=e659]:
+                    - link "茨城県" [ref=e661] [cursor=pointer]:
+                      - /url: /area/ibaraki/
+                  - definition [ref=e662]:
+                    - list [ref=e663]:
+                      - listitem [ref=e664]:
+                        - link "神栖市" [ref=e666] [cursor=pointer]:
+                          - /url: /kanto/jlist/ibaraki/kamisushi/
+                      - listitem [ref=e667]:
+                        - link "日立市" [ref=e669] [cursor=pointer]:
+                          - /url: /kanto/jlist/ibaraki/hitachishi/
+                      - listitem [ref=e670]:
+                        - link "水戸市" [ref=e672] [cursor=pointer]:
+                          - /url: /kanto/jlist/ibaraki/mitoshi/
+                      - listitem [ref=e673]:
+                        - link "つくば市" [ref=e675] [cursor=pointer]:
+                          - /url: /kanto/jlist/ibaraki/tsukubashi/
+                      - listitem [ref=e676]:
+                        - link "古河市" [ref=e678] [cursor=pointer]:
+                          - /url: /kanto/jlist/ibaraki/kogashi08/
+                      - listitem [ref=e679]:
+                        - link "ひたちなか市" [ref=e681] [cursor=pointer]:
+                          - /url: /kanto/jlist/ibaraki/hitachinakashi/
+                    - list [ref=e682]:
+                      - listitem [ref=e683]:
+                        - link "水戸駅" [ref=e685] [cursor=pointer]:
+                          - /url: /kanto/jlist/2102mitoeki/
+                      - listitem [ref=e686]:
+                        - link "つくば駅" [ref=e688] [cursor=pointer]:
+                          - /url: /kanto/jlist/2246tsukubaeki/
+                      - listitem [ref=e689]:
+                        - link "日立駅" [ref=e691] [cursor=pointer]:
+                          - /url: /kanto/jlist/2102hitachieki/
+                      - listitem [ref=e692]:
+                        - link "土浦駅" [ref=e694] [cursor=pointer]:
+                          - /url: /kanto/jlist/2102tsuchiuraeki/
+                      - listitem [ref=e695]:
+                        - link "守谷駅" [ref=e697] [cursor=pointer]:
+                          - /url: /kanto/jlist/2246moriyaeki/
+                      - listitem [ref=e698]:
+                        - link "古河駅" [ref=e700] [cursor=pointer]:
+                          - /url: /kanto/jlist/2101kogaeki/
+                - generic [ref=e701]:
+                  - term [ref=e702]:
+                    - link "栃木県" [ref=e704] [cursor=pointer]:
+                      - /url: /area/tochigi/
+                  - definition [ref=e705]:
+                    - list [ref=e706]:
+                      - listitem [ref=e707]:
+                        - link "小山市" [ref=e709] [cursor=pointer]:
+                          - /url: /kanto/jlist/tochigi/oyamashi/
+                      - listitem [ref=e710]:
+                        - link "栃木市" [ref=e712] [cursor=pointer]:
+                          - /url: /kanto/jlist/tochigi/tochigishi/
+                      - listitem [ref=e713]:
+                        - link "佐野市" [ref=e715] [cursor=pointer]:
+                          - /url: /kanto/jlist/tochigi/sanoshi/
+                      - listitem [ref=e716]:
+                        - link "那須塩原市" [ref=e718] [cursor=pointer]:
+                          - /url: /kanto/jlist/tochigi/nasushiobarashi/
+                      - listitem [ref=e719]:
+                        - link "宇都宮市" [ref=e721] [cursor=pointer]:
+                          - /url: /kanto/jlist/tochigi/utsunomiyashi/
+                      - listitem [ref=e722]:
+                        - link "足利市" [ref=e724] [cursor=pointer]:
+                          - /url: /kanto/jlist/tochigi/ashikagashi/
+                    - list [ref=e725]:
+                      - listitem [ref=e726]:
+                        - link "宇都宮駅" [ref=e728] [cursor=pointer]:
+                          - /url: /kanto/jlist/2113utsunomiyaeki/
+                      - listitem [ref=e729]:
+                        - link "栃木駅" [ref=e731] [cursor=pointer]:
+                          - /url: /kanto/jlist/2108tochigieki/
+                      - listitem [ref=e732]:
+                        - link "佐野市駅" [ref=e734] [cursor=pointer]:
+                          - /url: /kanto/jlist/2265sanoshieki/
+                      - listitem [ref=e735]:
+                        - link "足利市駅" [ref=e737] [cursor=pointer]:
+                          - /url: /kanto/jlist/2261ashikagashieki/
+                      - listitem [ref=e738]:
+                        - link "足利駅" [ref=e740] [cursor=pointer]:
+                          - /url: /kanto/jlist/2108ashikagaeki/
+                      - listitem [ref=e741]:
+                        - link "那須塩原駅" [ref=e743] [cursor=pointer]:
+                          - /url: /kanto/jlist/2101nasushiobaraeki/
+                - generic [ref=e744]:
+                  - term [ref=e745]:
+                    - link "群馬県" [ref=e747] [cursor=pointer]:
+                      - /url: /area/gumma/
+                  - definition [ref=e748]:
+                    - list [ref=e749]:
+                      - listitem [ref=e750]:
+                        - link "高崎市" [ref=e752] [cursor=pointer]:
+                          - /url: /kanto/jlist/gumma/takasakishi/
+                      - listitem [ref=e753]:
+                        - link "太田市" [ref=e755] [cursor=pointer]:
+                          - /url: /kanto/jlist/gumma/otashi/
+                      - listitem [ref=e756]:
+                        - link "前橋市" [ref=e758] [cursor=pointer]:
+                          - /url: /kanto/jlist/gumma/maebashishi/
+                      - listitem [ref=e759]:
+                        - link "伊勢崎市" [ref=e761] [cursor=pointer]:
+                          - /url: /kanto/jlist/gumma/isesakishi/
+                      - listitem [ref=e762]:
+                        - link "沼田市" [ref=e764] [cursor=pointer]:
+                          - /url: /kanto/jlist/gumma/numatashi/
+                      - listitem [ref=e765]:
+                        - link "桐生市" [ref=e767] [cursor=pointer]:
+                          - /url: /kanto/jlist/gumma/kiryushi/
+                    - list [ref=e768]:
+                      - listitem [ref=e769]:
+                        - link "高崎駅" [ref=e771] [cursor=pointer]:
+                          - /url: /kanto/jlist/2151takasakieki/
+                      - listitem [ref=e772]:
+                        - link "前橋駅" [ref=e774] [cursor=pointer]:
+                          - /url: /kanto/jlist/2108maebashieki/
+                      - listitem [ref=e775]:
+                        - link "伊勢崎駅" [ref=e777] [cursor=pointer]:
+                          - /url: /kanto/jlist/2108isesakieki/
+                      - listitem [ref=e778]:
+                        - link "館林駅" [ref=e780] [cursor=pointer]:
+                          - /url: /kanto/jlist/2261tatebayashieki/
+                      - listitem [ref=e781]:
+                        - link "中野駅" [ref=e783] [cursor=pointer]:
+                          - /url: /kanto/jlist/2109nakanoeki/
+                      - listitem [ref=e784]:
+                        - link "桐生駅" [ref=e786] [cursor=pointer]:
+                          - /url: /kanto/jlist/2108kiryueki/
+        - generic [ref=e790]:
+          - heading "カンタン検索" [level=2] [ref=e792]
+          - generic [ref=e793]:
+            - list [ref=e795]:
+              - listitem [ref=e796]:
+                - combobox [ref=e797]:
+                  - option "エリアを選択" [selected]
+                  - option "東京都"
+                  - option "神奈川県"
+                  - option "千葉県"
+                  - option "埼玉県"
+                  - option "茨城県"
+                  - option "栃木県"
+                  - option "群馬県"
+              - listitem [ref=e798]:
+                - combobox [ref=e799]:
+                  - option "市区町村を選択" [selected]
+            - generic [ref=e800]:
+              - img "×" [ref=e802]
+              - paragraph [ref=e803]:
+                - combobox [ref=e804]:
+                  - option "職種を選択" [selected]
+                  - option "販売"
+                  - option "フード・飲食"
+                  - option "サービス"
+                  - option "イベント"
+                  - option "軽作業・物流"
+                  - option "工場・製造"
+                  - option "建築・土木"
+                  - option "営業"
+                  - option "オフィス"
+                  - option "IT・クリエイティブ/クリエイター"
+                  - option "教育"
+                  - option "医療・介護・福祉"
+                  - option "美容・理容・サロン"
+                  - option "調査・モニター"
+                  - option "専門職、その他"
+                  - option "ガールズバー・キャバクラ・スナック"
+            - generic [ref=e805]:
+              - img "×" [ref=e807]
+              - paragraph [ref=e808]:
+                - combobox [ref=e809]:
+                  - option "こだわらない" [selected]
+                  - option "800円以上"
+                  - option "850円以上"
+                  - option "900円以上"
+                  - option "950円以上"
+                  - option "1,000円以上"
+                  - option "1,050円以上"
+                  - option "1,100円以上"
+                  - option "1,200円以上"
+                  - option "1,300円以上"
+                  - option "1,400円以上"
+                  - option "1,500円以上"
+                  - option "1,800円以上"
+                  - option "2,000円以上"
+                  - option "2,200円以上"
+                  - option "2,500円以上"
+                  - option "6,500円未満"
+                  - option "6,500円以上"
+                  - option "7,000円以上"
+                  - option "7,500円以上"
+                  - option "8,000円以上"
+                  - option "9,000円以上"
+                  - option "10,000円以上"
+                  - option "11,000円以上"
+                  - option "12,000円以上"
+                  - option "15,000円以上"
+                  - option "20,000円以上"
+                  - option "15万円未満"
+                  - option "15万円以上"
+                  - option "18万円以上"
+                  - option "21万円以上"
+                  - option "22万円以上"
+                  - option "23万円以上"
+                  - option "24万円以上"
+                  - option "25万円以上"
+                  - option "26万円以上"
+                  - option "27万円以上"
+                  - option "28万円以上"
+                  - option "29万円以上"
+                  - option "30万円以上"
+                  - option "150万円未満"
+                  - option "150万円以上"
+                  - option "180万円以上"
+                  - option "200万円以上"
+                  - option "250万円以上"
+                  - option "300万円以上"
+                  - option "350万円以上"
+                  - option "400万円以上"
+                  - option "450万円以上"
+                  - option "500万円以上"
+                  - option "完全出来高制"
+          - generic [ref=e810]:
+            - list:
+              - listitem [ref=e811]:
+                - generic [ref=e812]:
+                  - checkbox "未経験OK"
+                  - emphasis [ref=e813]: 未経験OK
+              - listitem [ref=e814]:
+                - generic [ref=e815]:
+                  - checkbox "シフト相談"
+                  - emphasis [ref=e816]: シフト相談
+              - listitem [ref=e817]:
+                - generic [ref=e818]:
+                  - checkbox "週1〜OK"
+                  - emphasis [ref=e819]: 週1〜OK
+              - listitem [ref=e820]:
+                - generic [ref=e821]:
+                  - checkbox "週2・3〜OK"
+                  - emphasis [ref=e822]: 週2・3〜OK
+          - generic [ref=e823]:
+            - generic [ref=e825]:
+              - term [ref=e826]: 平均時給
+              - definition [ref=e827]:
+                - emphasis [ref=e828]: 1,504
+                - text: 円
+            - link "592,473件 この条件で選ぶ" [ref=e830] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - generic [ref=e831]:
+                - term [ref=e832]: 592,473件
+                - definition [ref=e833]: この条件で選ぶ
+        - generic [ref=e836]:
+          - heading "短期の仕事" [level=2] [ref=e838]
+          - generic [ref=e839]:
+            - list:
+              - listitem [ref=e840]:
+                - link "短期 57,013件" [ref=e842] [cursor=pointer]:
+                  - /url: /kanto/jlist/trm2-trm3-trm4/
+                  - emphasis [ref=e843]: 短期
+                  - generic [ref=e844]: 57,013件
+              - listitem [ref=e845]:
+                - link "1ヶ月以内 11,532件" [ref=e847] [cursor=pointer]:
+                  - /url: /kanto/jlist/trm3/
+                  - emphasis [ref=e848]: 1ヶ月
+                  - text: 以内
+                  - generic [ref=e849]: 11,532件
+              - listitem [ref=e850]:
+                - link "1週間以内 718件" [ref=e852] [cursor=pointer]:
+                  - /url: /kanto/jlist/trm2/
+                  - emphasis [ref=e853]: 1週間
+                  - text: 以内
+                  - generic [ref=e854]: 718件
+              - listitem [ref=e855]:
+                - link "1日以内 25,824件" [ref=e857] [cursor=pointer]:
+                  - /url: /kanto/jlist/trm1/
+                  - emphasis [ref=e858]: 1日
+                  - text: 以内
+                  - generic [ref=e859]: 25,824件
+              - listitem [ref=e860]:
+                - link "日払い 117,555件" [ref=e862] [cursor=pointer]:
+                  - /url: /kanto/jlist/mrt7/
+                  - emphasis [ref=e863]: 日払い
+                  - generic [ref=e864]: 117,555件
+        - generic [ref=e867]:
+          - heading "条件で選ぶ" [level=2] [ref=e869]
+          - generic [ref=e870]:
+            - list:
+              - listitem [ref=e871]:
+                - link "高校生 歓迎" [ref=e873] [cursor=pointer]:
+                  - /url: /kanto/jlist/mrt1/
+                  - emphasis [ref=e874]:
+                    - text: 高校生
+                    - generic [ref=e875]: 歓迎
+              - listitem [ref=e876]:
+                - link "学生歓迎" [ref=e878] [cursor=pointer]:
+                  - /url: /kanto/jlist/mrt2/
+                  - emphasis [ref=e879]: 学生歓迎
+              - listitem [ref=e880]:
+                - link "主婦（夫） 歓迎" [ref=e882] [cursor=pointer]:
+                  - /url: /kanto/jlist/mrt3/
+                  - emphasis [ref=e883]:
+                    - text: 主婦（夫）
+                    - generic [ref=e884]: 歓迎
+              - listitem [ref=e885]:
+                - link "Happy ボーナス" [ref=e887] [cursor=pointer]:
+                  - /url: /kanto/jlist/hb/
+                  - emphasis [ref=e888]:
+                    - text: Happy
+                    - generic [ref=e889]: ボーナス
+        - generic [ref=e894]:
+          - term [ref=e895]: もっとこだわって選びたい！
+          - definition [ref=e896]:
+            - link "こだわり検索へ" [ref=e897] [cursor=pointer]:
+              - /url: /kanto/multi/
+        - generic [ref=e901]:
+          - heading "仲間で選ぶ バイト先で仲間を見つけよう！" [level=2] [ref=e903]
+          - generic [ref=e904]:
+            - generic [ref=e905]:
+              - term [ref=e906]: 多い年齢層（複数可）
+              - definition [ref=e907]:
+                - list [ref=e908]:
+                  - listitem:
+                    - generic [ref=e909]:
+                      - checkbox "10代"
+                      - emphasis [ref=e910]: 10代
+                  - listitem:
+                    - generic [ref=e911]:
+                      - checkbox "20代"
+                      - emphasis [ref=e912]: 20代
+                  - listitem:
+                    - generic [ref=e913]:
+                      - checkbox "30代"
+                      - emphasis [ref=e914]: 30代
+                  - listitem:
+                    - generic [ref=e915]:
+                      - checkbox "40代"
+                      - emphasis [ref=e916]: 40代
+                  - listitem:
+                    - generic [ref=e917]:
+                      - checkbox "50代～"
+                      - emphasis [ref=e918]: 50代～
+            - generic [ref=e919]:
+              - term [ref=e920]: 男女の割合
+              - definition [ref=e921]:
+                - list [ref=e922]:
+                  - listitem [ref=e923]:
+                    - generic [ref=e924]:
+                      - radio "男性が多め"
+                      - text: 男性が多め
+                  - listitem:
+                    - generic [ref=e925]:
+                      - radio "半々ぐらい" [checked]
+                      - text: 半々ぐらい
+                  - listitem [ref=e926]:
+                    - generic [ref=e927]:
+                      - radio "女性が多め"
+                      - text: 女性が多め
+            - generic [ref=e928]:
+              - term [ref=e929]: 仕事の仕方
+              - definition [ref=e930]:
+                - list [ref=e931]:
+                  - listitem [ref=e932]:
+                    - generic [ref=e933]:
+                      - radio "一人で"
+                      - text: 一人で
+                  - listitem:
+                    - generic [ref=e934]:
+                      - radio "どちらともいえない" [checked]
+                      - text: どちらともいえない
+                  - listitem [ref=e935]:
+                    - generic [ref=e936]:
+                      - radio "大勢で"
+                      - text: 大勢で
+            - generic [ref=e937]:
+              - term [ref=e938]: 職場の様子
+              - definition [ref=e939]:
+                - list [ref=e940]:
+                  - listitem [ref=e941]:
+                    - generic [ref=e942]:
+                      - radio "しずか"
+                      - text: しずか
+                  - listitem:
+                    - generic [ref=e943]:
+                      - radio "どちらともいえない" [checked]
+                      - text: どちらともいえない
+                  - listitem [ref=e944]:
+                    - generic [ref=e945]:
+                      - radio "にぎやか"
+                      - text: にぎやか
+          - link "183,791件 この条件で選ぶ" [ref=e947] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - list [ref=e948]:
+              - listitem [ref=e949]:
+                - emphasis [ref=e950]: 183,791
+                - text: 件
+              - listitem [ref=e951]: この条件で選ぶ
+        - generic [ref=e953]:
+          - heading "フリーワードで選ぶ" [level=2] [ref=e955]
+          - list [ref=e958]:
+            - listitem [ref=e959]:
+              - paragraph [ref=e960]:
+                - searchbox "例：店名、ゴールデンウィーク" [ref=e961]
+            - listitem [ref=e962]:
+              - button "検索する" [ref=e963]
+        - generic [ref=e966]:
+          - heading "関東の新着の求人" [level=2] [ref=e968]
+          - list [ref=e970]:
+            - listitem [ref=e971]:
+              - link "NEW 【高時給】6月上旬OPEN予定！銀座デパ地下のお弁当・総菜販売 銀座駅徒歩1分" [ref=e973] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23ku/chuoku/ginza/job159428055/
+                - generic [ref=e974]: NEW
+                - paragraph [ref=e975]: 【高時給】6月上旬OPEN予定！銀座デパ地下のお弁当・総菜販売
+                - emphasis [ref=e976]: 銀座駅徒歩1分
+            - listitem [ref=e977]:
+              - link "NEW オープニングSTAFF◆みんな一緒のStart！週1～／ランチ積極採用 武蔵浦和駅徒歩3分" [ref=e979] [cursor=pointer]:
+                - /url: /kanto/jlist/saitama/saitamashi/saitamashiminamiku/job160053836/
+                - generic [ref=e980]: NEW
+                - paragraph [ref=e981]: オープニングSTAFF◆みんな一緒のStart！週1～／ランチ積極採用
+                - emphasis [ref=e982]: 武蔵浦和駅徒歩3分
+            - listitem [ref=e983]:
+              - link "NEW 予定に合わせてシフトが組める！昇給あり◎WワークOK♪ 溝の口駅徒歩1分" [ref=e985] [cursor=pointer]:
+                - /url: /kanto/jlist/kanagawa/kawasakishi/kawasakishitakatsuku/job159966268/
+                - generic [ref=e986]: NEW
+                - paragraph [ref=e987]: 予定に合わせてシフトが組める！昇給あり◎WワークOK♪
+                - emphasis [ref=e988]: 溝の口駅徒歩1分
+            - listitem [ref=e989]:
+              - link "NEW 日給9,３90円！日払いOK＆1日のみ歓迎！ゲームカードの検品作業 柏駅" [ref=e991] [cursor=pointer]:
+                - /url: /kanto/jlist/chiba/chibashiigai/nodashi/job160091520/
+                - generic [ref=e992]: NEW
+                - paragraph [ref=e993]: 日給9,３90円！日払いOK＆1日のみ歓迎！ゲームカードの検品作業
+                - emphasis [ref=e994]: 柏駅
+            - listitem [ref=e995]:
+              - link "NEW ＼主ふさん大歓迎♪／平日だけでもOK◎お昼の時間大募集！ 西八王子駅車9分" [ref=e997] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23kuigai/hachiojishi/job160124654/
+                - generic [ref=e998]: NEW
+                - paragraph [ref=e999]: ＼主ふさん大歓迎♪／平日だけでもOK◎お昼の時間大募集！
+                - emphasis [ref=e1000]: 西八王子駅車9分
+            - listitem [ref=e1001]:
+              - link "NEW 【駅チカ】ガッツリ働いて安定収入★コスメ好きを仕事に/販売 志木駅徒歩2分" [ref=e1003] [cursor=pointer]:
+                - /url: /kanto/jlist/saitama/saitamashiigai/shikishi/job160024824/
+                - generic [ref=e1004]: NEW
+                - paragraph [ref=e1005]: 【駅チカ】ガッツリ働いて安定収入★コスメ好きを仕事に/販売
+                - emphasis [ref=e1006]: 志木駅徒歩2分
+            - listitem [ref=e1007]:
+              - link "NEW ＼6月スタート／★短期8/31まで★【バターサンドの接客販売】 品川駅" [ref=e1009] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23ku/minatoku/shimbashi/job160011090/
+                - generic [ref=e1010]: NEW
+                - paragraph [ref=e1011]: ＼6月スタート／★短期8/31まで★【バターサンドの接客販売】
+                - emphasis [ref=e1012]: 品川駅
+            - listitem [ref=e1013]:
+              - link "NEW 時給1400円◆11時～15時半、子育ての合間にサクッと稼ご◎ホール 土浦駅バス25分" [ref=e1015] [cursor=pointer]:
+                - /url: /kanto/jlist/ibaraki/tsuchiurashi/job82489206/
+                - generic [ref=e1016]: NEW
+                - paragraph [ref=e1017]: 時給1400円◆11時～15時半、子育ての合間にサクッと稼ご◎ホール
+                - emphasis [ref=e1018]: 土浦駅バス25分
+            - listitem [ref=e1019]:
+              - link "NEW 【月27万円以上】スピードより丁寧さ重視♪かんたん洗浄＠駅チカ 北品川駅徒歩9分" [ref=e1021] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23ku/shinagawaku/job160148933/
+                - generic [ref=e1022]: NEW
+                - paragraph [ref=e1023]: 【月27万円以上】スピードより丁寧さ重視♪かんたん洗浄＠駅チカ
+                - emphasis [ref=e1024]: 北品川駅徒歩9分
+            - listitem [ref=e1025]:
+              - link "NEW ☆\"超\"激レアの高時給バイト☆7/4・7/5限定の試験監督員【単発】 稲毛駅" [ref=e1027] [cursor=pointer]:
+                - /url: /kanto/jlist/chiba/chibashiigai/funabashishi/job160097176/
+                - generic [ref=e1028]: NEW
+                - paragraph [ref=e1029]: ☆"超"激レアの高時給バイト☆7/4・7/5限定の試験監督員【単発】
+                - emphasis [ref=e1030]: 稲毛駅
+            - listitem [ref=e1031]:
+              - link "NEW 『楽しい』が仕事になる。新宿三丁目のビアガーデンスタッフ♪ 新宿三丁目駅徒歩1分" [ref=e1033] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23ku/shinjukuku/job160080482/
+                - generic [ref=e1034]: NEW
+                - paragraph [ref=e1035]: 『楽しい』が仕事になる。新宿三丁目のビアガーデンスタッフ♪
+                - emphasis [ref=e1036]: 新宿三丁目駅徒歩1分
+            - listitem [ref=e1037]:
+              - link "NEW データ入力など選べる＠オフィスワーク★週3～＊最大時給2060円 都庁前駅徒歩3分" [ref=e1039] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23ku/shinjukuku/job160062973/
+                - generic [ref=e1040]: NEW
+                - paragraph [ref=e1041]: データ入力など選べる＠オフィスワーク★週3～＊最大時給2060円
+                - emphasis [ref=e1042]: 都庁前駅徒歩3分
+            - listitem [ref=e1043]:
+              - link "NEW 【17時定時！週3でOK】電気に関する問合せ 水戸駅" [ref=e1045] [cursor=pointer]:
+                - /url: /kanto/jlist/ibaraki/mitoshi/job160039630/
+                - generic [ref=e1046]: NEW
+                - paragraph [ref=e1047]: 【17時定時！週3でOK】電気に関する問合せ
+                - emphasis [ref=e1048]: 水戸駅
+            - listitem [ref=e1049]:
+              - link "NEW 深夜は1625円～！週1日~/1日3h~OK！髪色髪型自由|夜だけOK 荻窪駅徒歩2分" [ref=e1051] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23ku/suginamiku/job160038399/
+                - generic [ref=e1052]: NEW
+                - paragraph [ref=e1053]: 深夜は1625円～！週1日~/1日3h~OK！髪色髪型自由|夜だけOK
+                - emphasis [ref=e1054]: 荻窪駅徒歩2分
+            - listitem [ref=e1055]:
+              - link "NEW カレー専門店★週1日～／メニュー数少なくて覚えやすい◎接客 池袋駅徒歩3分" [ref=e1057] [cursor=pointer]:
+                - /url: /kanto/jlist/tokyo/23ku/toshimaku/ikebukuronishiguchi/job93546456/
+                - generic [ref=e1058]: NEW
+                - paragraph [ref=e1059]: カレー専門店★週1日～／メニュー数少なくて覚えやすい◎接客
+                - emphasis [ref=e1060]: 池袋駅徒歩3分
+        - generic [ref=e1065]:
+          - heading "人気の企業一覧" [level=2] [ref=e1066]
+          - link "人気の企業一覧へ" [ref=e1067] [cursor=pointer]:
+            - /url: /contents/tieup/
+        - generic [ref=e1069]:
+          - heading "バイトルマガジンお役立ち情報" [level=3] [ref=e1070]:
+            - link "バイトルマガジン" [ref=e1071] [cursor=pointer]:
+              - /url: /contents/
+              - img "バイトルマガジン" [ref=e1072]
+            - text: お役立ち情報
+          - paragraph [ref=e1073]:
+            - link "もっと見る" [ref=e1074] [cursor=pointer]:
+              - /url: /contents/
+          - paragraph [ref=e1075]:
+            - link "バイトGET完全マニュアル5つのSTEPでキミのバイト応募をサポート！Pickup" [ref=e1076] [cursor=pointer]:
+              - /url: /contents/get/
+          - generic [ref=e1077]:
+            - paragraph [ref=e1078]: その他おすすめ記事
+            - list [ref=e1079]:
+              - listitem [ref=e1080]:
+                - link "【税理士監修】103万円と130万円、どっちが得？" [ref=e1081] [cursor=pointer]:
+                  - /url: /contents/tax/2669.html
+              - listitem [ref=e1082]:
+                - link "履歴書の書き方がすべてわかる！完全ノウハウまとめ" [ref=e1083] [cursor=pointer]:
+                  - /url: /contents/list/ohbo_mensetsu/resume/
+              - listitem [ref=e1084]:
+                - link "面接ノウハウ徹底ガイド2024" [ref=e1085] [cursor=pointer]:
+                  - /url: /contents/list/ohbo_mensetsu/mensetsu/
+              - listitem [ref=e1086]:
+                - link "社員・転職の面接ノウハウまとめ" [ref=e1087] [cursor=pointer]:
+                  - /url: /contents/list/ohbo_mensetsu/mensetsu/shine/
+        - generic [ref=e1088]:
+          - heading "掲載をお考えの企業様へ" [level=2] [ref=e1090]
+          - generic [ref=e1091]:
+            - paragraph [ref=e1093]:
+              - text: バイトルは、アルバイトやパート、社員など全ての雇用形態がカバーできる、日本最大級のアルバイト求人情報サイトです。
+              - generic [ref=e1094]: 取引実績15万社以上のノウハウを活かした安心のサポート体制で、企業様にも支持いただいています。
+              - generic [ref=e1095]: ご掲載をお考えの方、ご掲載についてお問い合わせの方は、右記よりお問い合わせください。
+            - link "WEBフォームからの お問合せ" [ref=e1097] [cursor=pointer]:
+              - /url: https://www.baitoru.com/solution/baitoru/contact/
+              - text: WEBフォームからの
+              - generic [ref=e1098]: お問合せ
+        - generic [ref=e1102]:
+          - heading "人気の条件からアルバイト求人を探す" [level=2] [ref=e1103]
+          - link:
+            - /url: ""
+          - list [ref=e1104]:
+            - listitem [ref=e1105]:
+              - link "コンビニ" [ref=e1107] [cursor=pointer]:
+                - /url: /lp/conveni/
+            - listitem [ref=e1108]:
+              - link "カフェ" [ref=e1110] [cursor=pointer]:
+                - /url: /lp/cafe/
+            - listitem [ref=e1111]:
+              - link "家庭教師" [ref=e1113] [cursor=pointer]:
+                - /url: /lp/tutor/
+            - listitem [ref=e1114]:
+              - link "アパレル" [ref=e1116] [cursor=pointer]:
+                - /url: /lp/apparel/
+            - listitem [ref=e1117]:
+              - link "コールセンター" [ref=e1119] [cursor=pointer]:
+                - /url: /lp/callcenter/
+            - listitem [ref=e1120]:
+              - link "短期" [ref=e1122] [cursor=pointer]:
+                - /url: /lp/short/
+            - listitem [ref=e1123]:
+              - link "日払い" [ref=e1125] [cursor=pointer]:
+                - /url: /lp/day_payment/
+            - listitem [ref=e1126]:
+              - link "高校生" [ref=e1128] [cursor=pointer]:
+                - /url: /lp/student/
+            - listitem [ref=e1129]:
+              - link "高収入" [ref=e1131] [cursor=pointer]:
+                - /url: /lp/high_income/
+            - listitem [ref=e1132]:
+              - link "リゾート" [ref=e1134] [cursor=pointer]:
+                - /url: /lp/resort/
+            - listitem [ref=e1135]:
+              - link "在宅ワーク" [ref=e1137] [cursor=pointer]:
+                - /url: /lp/homeoffice/
+            - listitem [ref=e1138]:
+              - link "派遣" [ref=e1140] [cursor=pointer]:
+                - /url: /lp/registration/
+        - generic [ref=e1144]:
+          - heading "関東で人気の職種からアルバイト求人を探す 職種一覧" [level=2] [ref=e1145]:
+            - text: 関東で人気の職種からアルバイト求人を探す
+            - link "職種一覧" [ref=e1146] [cursor=pointer]:
+              - /url: /lp/jobcategory/
+          - list [ref=e1147]:
+            - listitem [ref=e1148]:
+              - link "仕分け・シール貼り" [ref=e1150] [cursor=pointer]:
+                - /url: /kanto/jlist/sorting/
+            - listitem [ref=e1151]:
+              - link "施設内介護・看護" [ref=e1153] [cursor=pointer]:
+                - /url: /kanto/jlist/facilitycare/
+            - listitem [ref=e1154]:
+              - link "キッチンスタッフ" [ref=e1156] [cursor=pointer]:
+                - /url: /kanto/jlist/kitchen/
+            - listitem [ref=e1157]:
+              - link "品出し(ピッキング)" [ref=e1159] [cursor=pointer]:
+                - /url: /kanto/jlist/picking/
+            - listitem [ref=e1160]:
+              - link "ホールスタッフ(配膳)" [ref=e1162] [cursor=pointer]:
+                - /url: /kanto/jlist/hallstaff/
+            - listitem [ref=e1163]:
+              - link "製造スタッフ(組立・加工等)" [ref=e1165] [cursor=pointer]:
+                - /url: /kanto/jlist/productionstaff/
+            - listitem [ref=e1166]:
+              - link "検品" [ref=e1168] [cursor=pointer]:
+                - /url: /kanto/jlist/inspection/
+            - listitem [ref=e1169]:
+              - link "データ入力、タイピング(PC・パソコン・インターネット)" [ref=e1171] [cursor=pointer]:
+                - /url: /kanto/jlist/dataentry/
+        - generic [ref=e1175]:
+          - heading "人気の沿線からアルバイト求人を探す 沿線一覧" [level=2] [ref=e1176]:
+            - text: 人気の沿線からアルバイト求人を探す
+            - link "沿線一覧" [ref=e1177] [cursor=pointer]:
+              - /url: /kanto/railway/
+          - list [ref=e1178]:
+            - listitem [ref=e1179]:
+              - link "京浜東北・根岸線" [ref=e1181] [cursor=pointer]:
+                - /url: /kanto/jlist/kehintohokunegishisen/
+            - listitem [ref=e1182]:
+              - link "湘南新宿ライン(高崎・東海道線)" [ref=e1184] [cursor=pointer]:
+                - /url: /kanto/jlist/shonanshinjukukokaisen/
+            - listitem [ref=e1185]:
+              - link "湘南新宿ライン(宇都宮・横須賀線)" [ref=e1187] [cursor=pointer]:
+                - /url: /kanto/jlist/shonanshinjukuususen/
+            - listitem [ref=e1188]:
+              - link "山手線" [ref=e1190] [cursor=pointer]:
+                - /url: /kanto/jlist/yamanotesen/
+            - listitem [ref=e1191]:
+              - link "中央・総武各駅停車" [ref=e1193] [cursor=pointer]:
+                - /url: /kanto/jlist/chuosobukakuekiteshasen/
+            - listitem [ref=e1194]:
+              - link "埼京線" [ref=e1196] [cursor=pointer]:
+                - /url: /kanto/jlist/saikyosen/
+            - listitem [ref=e1197]:
+              - link "東北本線" [ref=e1199] [cursor=pointer]:
+                - /url: /kanto/jlist/tohokuhonsen/
+            - listitem [ref=e1200]:
+              - link "小田急小田原線" [ref=e1202] [cursor=pointer]:
+                - /url: /kanto/jlist/odakyuodawarasen/
+        - generic [ref=e1206]:
+          - heading "都道府県から給与情報を探す 給与TOP" [level=2] [ref=e1207]:
+            - text: 都道府県から給与情報を探す
+            - link "給与TOP" [ref=e1208] [cursor=pointer]:
+              - /url: /salary/
+          - list [ref=e1209]:
+            - listitem [ref=e1210]:
+              - link "東京都" [ref=e1212] [cursor=pointer]:
+                - /url: /salary/tokyo/
+            - listitem [ref=e1213]:
+              - link "神奈川県" [ref=e1215] [cursor=pointer]:
+                - /url: /salary/kanagawa/
+            - listitem [ref=e1216]:
+              - link "千葉県" [ref=e1218] [cursor=pointer]:
+                - /url: /salary/chiba/
+            - listitem [ref=e1219]:
+              - link "埼玉県" [ref=e1221] [cursor=pointer]:
+                - /url: /salary/saitama/
+            - listitem [ref=e1222]:
+              - link "茨城県" [ref=e1224] [cursor=pointer]:
+                - /url: /salary/ibaraki/
+            - listitem [ref=e1225]:
+              - link "栃木県" [ref=e1227] [cursor=pointer]:
+                - /url: /salary/tochigi/
+            - listitem [ref=e1228]:
+              - link "群馬県" [ref=e1230] [cursor=pointer]:
+                - /url: /salary/gumma/
+        - generic [ref=e1234]:
+          - heading "人気の特徴からアルバイト求人を探す" [level=2] [ref=e1235]
+          - list [ref=e1236]:
+            - listitem [ref=e1237]:
+              - generic [ref=e1238]:
+                - term [ref=e1239]: シフト
+                - definition [ref=e1240]:
+                  - list [ref=e1241]:
+                    - listitem [ref=e1242]:
+                      - link "シフト自由・相談OK" [ref=e1244] [cursor=pointer]:
+                        - /url: /kanto/jlist/sft1/
+                    - listitem [ref=e1245]:
+                      - link "シフト提出(月毎)" [ref=e1247] [cursor=pointer]:
+                        - /url: /kanto/jlist/sft3/
+                    - listitem [ref=e1248]:
+                      - link "シフト提出(1~2週毎)" [ref=e1250] [cursor=pointer]:
+                        - /url: /kanto/jlist/sft2/
+                    - listitem [ref=e1251]:
+                      - link "時間固定シフト制" [ref=e1253] [cursor=pointer]:
+                        - /url: /kanto/jlist/sft4/
+            - listitem [ref=e1254]:
+              - generic [ref=e1255]:
+                - term [ref=e1256]: シフトの特徴
+                - definition [ref=e1257]:
+                  - list [ref=e1258]:
+                    - listitem [ref=e1259]:
+                      - link "家庭や子供の用事でお休み調整可" [ref=e1261] [cursor=pointer]:
+                        - /url: /kanto/jlist/smr1/
+                    - listitem [ref=e1262]:
+                      - link "土日祝(週末)のみOK" [ref=e1264] [cursor=pointer]:
+                        - /url: /kanto/jlist/smr4/
+                    - listitem [ref=e1265]:
+                      - link "土日祝休み" [ref=e1267] [cursor=pointer]:
+                        - /url: /kanto/jlist/smr5/
+                    - listitem [ref=e1268]:
+                      - link "完全週休二日制" [ref=e1270] [cursor=pointer]:
+                        - /url: /kanto/jlist/smr2/
+                    - listitem [ref=e1271]:
+                      - link "春休み・夏休み・冬休み期間限定" [ref=e1273] [cursor=pointer]:
+                        - /url: /kanto/jlist/smr3/
+            - listitem [ref=e1274]:
+              - generic [ref=e1275]:
+                - term [ref=e1276]: 働く期間
+                - definition [ref=e1277]:
+                  - list [ref=e1278]:
+                    - listitem [ref=e1279]:
+                      - link "1ヵ月以内" [ref=e1281] [cursor=pointer]:
+                        - /url: /kanto/jlist/trm3/
+                    - listitem [ref=e1282]:
+                      - link "1週間以内" [ref=e1284] [cursor=pointer]:
+                        - /url: /kanto/jlist/trm2/
+                    - listitem [ref=e1285]:
+                      - link "3ヵ月以内" [ref=e1287] [cursor=pointer]:
+                        - /url: /kanto/jlist/trm4/
+                    - listitem [ref=e1288]:
+                      - link "単発(1日のみ)" [ref=e1290] [cursor=pointer]:
+                        - /url: /kanto/jlist/trm1/
+                    - listitem [ref=e1291]:
+                      - link "長期" [ref=e1293] [cursor=pointer]:
+                        - /url: /kanto/jlist/trm5/
+            - listitem [ref=e1294]:
+              - generic [ref=e1295]:
+                - term [ref=e1296]: 働く時間帯
+                - definition [ref=e1297]:
+                  - list [ref=e1298]:
+                    - listitem [ref=e1299]:
+                      - link "深夜" [ref=e1301] [cursor=pointer]:
+                        - /url: /kanto/jlist/tst5/
+                    - listitem [ref=e1302]:
+                      - link "早朝" [ref=e1304] [cursor=pointer]:
+                        - /url: /kanto/jlist/tst1/
+                    - listitem [ref=e1305]:
+                      - link "昼" [ref=e1307] [cursor=pointer]:
+                        - /url: /kanto/jlist/tst3/
+                    - listitem [ref=e1308]:
+                      - link "朝" [ref=e1310] [cursor=pointer]:
+                        - /url: /kanto/jlist/tst2/
+                    - listitem [ref=e1311]:
+                      - link "夜" [ref=e1313] [cursor=pointer]:
+                        - /url: /kanto/jlist/tst6/
+                    - listitem [ref=e1314]:
+                      - link "夕方" [ref=e1316] [cursor=pointer]:
+                        - /url: /kanto/jlist/tst4/
+            - listitem [ref=e1317]:
+              - generic [ref=e1318]:
+                - term [ref=e1319]: ～な方を歓迎
+                - definition [ref=e1320]:
+                  - list [ref=e1321]:
+                    - listitem [ref=e1322]:
+                      - link "フリーター歓迎" [ref=e1324] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt34/
+                    - listitem [ref=e1325]:
+                      - link "未経験・初心者歓迎" [ref=e1327] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt4/
+                    - listitem [ref=e1328]:
+                      - link "ブランク有OK" [ref=e1330] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt50/
+                    - listitem [ref=e1331]:
+                      - link "主婦(ママ)・主夫歓迎" [ref=e1333] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt3/
+                    - listitem [ref=e1334]:
+                      - link "ミドル(40代～)活躍中" [ref=e1336] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt65/
+                    - listitem [ref=e1337]:
+                      - link "学歴(中卒・高卒)不問" [ref=e1339] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt49/
+                    - listitem [ref=e1340]:
+                      - link "経験者優遇" [ref=e1342] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt16/
+                    - listitem [ref=e1343]:
+                      - link "新卒・第二新卒歓迎" [ref=e1345] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt70/
+            - listitem [ref=e1346]:
+              - generic [ref=e1347]:
+                - term [ref=e1348]: 応募時のメリット
+                - definition [ref=e1349]:
+                  - list [ref=e1350]:
+                    - listitem [ref=e1351]:
+                      - link "履歴書不要" [ref=e1353] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt55/
+                    - listitem [ref=e1354]:
+                      - link "友達と一緒に応募OK" [ref=e1356] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt60/
+                    - listitem [ref=e1357]:
+                      - link "WEB登録OK" [ref=e1359] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt85/
+                    - listitem [ref=e1360]:
+                      - link "WEB選考完結OK" [ref=e1362] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt84/
+                    - listitem [ref=e1363]:
+                      - link "Happyボーナスあり(お祝い金)" [ref=e1365] [cursor=pointer]:
+                        - /url: /kanto/jlist/hb/
+                    - listitem [ref=e1366]:
+                      - link "即日勤務開始OK" [ref=e1368] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt51/
+                    - listitem [ref=e1369]:
+                      - link "しごと体験応募・職場見学応募OK" [ref=e1371] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt72/
+            - listitem [ref=e1372]:
+              - generic [ref=e1373]:
+                - term [ref=e1374]: 稼ぎ方
+                - definition [ref=e1375]:
+                  - list [ref=e1376]:
+                    - listitem [ref=e1377]:
+                      - link "昇給あり" [ref=e1379] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt57/
+                    - listitem [ref=e1380]:
+                      - link "給与UP" [ref=e1382] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt64/
+                    - listitem [ref=e1383]:
+                      - link "扶養控除内OK" [ref=e1385] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt67/
+                    - listitem [ref=e1386]:
+                      - link "日払いOK" [ref=e1388] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt7/
+                    - listitem [ref=e1389]:
+                      - link "高収入・高額・高給" [ref=e1391] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt8/
+                    - listitem [ref=e1392]:
+                      - link "週払いOK" [ref=e1394] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt76/
+                    - listitem [ref=e1395]:
+                      - link "給与前払いOK" [ref=e1397] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt20/
+                    - listitem [ref=e1398]:
+                      - link "在宅ワーク・内職" [ref=e1400] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt53/
+            - listitem [ref=e1401]:
+              - generic [ref=e1402]:
+                - term [ref=e1403]: 自分らしい恰好
+                - definition [ref=e1404]:
+                  - list [ref=e1405]:
+                    - listitem [ref=e1406]:
+                      - link "髪型・髪色自由" [ref=e1408] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt25/
+                    - listitem [ref=e1409]:
+                      - link "ピアスOK" [ref=e1411] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt78/
+                    - listitem [ref=e1412]:
+                      - link "ネイルOK" [ref=e1414] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt26/
+                    - listitem [ref=e1415]:
+                      - link "服装自由" [ref=e1417] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt47/
+                    - listitem [ref=e1418]:
+                      - link "髭(ひげ)OK" [ref=e1420] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt77/
+            - listitem [ref=e1421]:
+              - generic [ref=e1422]:
+                - term [ref=e1423]: 職場環境
+                - definition [ref=e1424]:
+                  - list [ref=e1425]:
+                    - listitem [ref=e1426]:
+                      - link "禁煙・分煙" [ref=e1428] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt83/
+                    - listitem [ref=e1429]:
+                      - link "駅から徒歩5分以内" [ref=e1431] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt30/
+                    - listitem [ref=e1432]:
+                      - link "車通勤OK" [ref=e1434] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt28/
+                    - listitem [ref=e1435]:
+                      - link "バイク通勤OK" [ref=e1437] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt79/
+                    - listitem [ref=e1438]:
+                      - link "産休・育休取得実績あり" [ref=e1440] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt71/
+                    - listitem [ref=e1441]:
+                      - link "オープニングスタッフ" [ref=e1443] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt21/
+                    - listitem [ref=e1444]:
+                      - link "リゾート" [ref=e1446] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt24/
+            - listitem [ref=e1447]:
+              - generic [ref=e1448]:
+                - term [ref=e1449]: 魅力的な待遇
+                - definition [ref=e1450]:
+                  - list [ref=e1451]:
+                    - listitem [ref=e1452]:
+                      - link "交通費支給" [ref=e1454] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt5/
+                    - listitem [ref=e1455]:
+                      - link "社会保険制度あり" [ref=e1457] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt15/
+                    - listitem [ref=e1458]:
+                      - link "研修制度あり" [ref=e1460] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt56/
+                    - listitem [ref=e1461]:
+                      - link "資格取得支援制度あり" [ref=e1463] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt81/
+                    - listitem [ref=e1464]:
+                      - link "まかない・食事補助" [ref=e1466] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt13/
+                    - listitem [ref=e1467]:
+                      - link "寮・社宅あり(住み込み)" [ref=e1469] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt18/
+                    - listitem [ref=e1470]:
+                      - link "託児所あり" [ref=e1472] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt19/
+                    - listitem [ref=e1473]:
+                      - link "社員登用あり" [ref=e1475] [cursor=pointer]:
+                        - /url: /kanto/jlist/mrt17/
+        - generic [ref=e1478]:
+          - heading "よくあるご質問" [level=2] [ref=e1480]
+          - list [ref=e1482]:
+            - listitem [ref=e1483]:
+              - paragraph [ref=e1484] [cursor=pointer]: Q. 関東ではどんな求人が人気ですか？
+              - text: A.
+            - listitem [ref=e1485]:
+              - paragraph [ref=e1486] [cursor=pointer]: Q. この条件のお仕事は、平均時給いくらですか？できるだけ時給の高い求人を探したいです。
+              - text: A.
+            - listitem [ref=e1487]:
+              - paragraph [ref=e1488] [cursor=pointer]: Q. この条件の求人はたくさんありますか？求人件数や応募状況を知りたいです。
+              - text: A.
+      - generic [ref=e1489]:
+        - heading "オススメ情報" [level=2] [ref=e1493]
+        - list [ref=e1495]:
+          - listitem [ref=e1496]:
+            - link "スポットバイトル" [ref=e1497] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "スポットバイトル" [ref=e1498]
+          - listitem [ref=e1499]:
+            - link "大谷翔平×dip" [ref=e1500] [cursor=pointer]:
+              - /url: https://lp.dip.ai/ohtani_dip/?utm_medium=referral&utm_source=baweb&utm_campaign=bnr_dipaiLP_hantop_sgst
+              - img "大谷翔平×dip" [ref=e1501]
+          - listitem [ref=e1502]:
+            - link "dip AI AGENTバナー" [ref=e1503] [cursor=pointer]:
+              - /url: https://chat.dip.ai/?from=baitoru_web&page=all_top
+              - img "dip AI AGENTバナー" [ref=e1504]
+          - listitem [ref=e1505]:
+            - link "ZPJ" [ref=e1506] [cursor=pointer]:
+              - /url: https://www.baitoru.com/chat/?pname=ba_region_click_messagebanner_2
+              - img "ZPJ" [ref=e1507]
+          - listitem [ref=e1508]:
+            - link "闇バイト応募防止バナー" [ref=e1509] [cursor=pointer]:
+              - /url: /contents/list/detail/id=3525?pname=big
+              - img "闇バイト応募防止バナー" [ref=e1510]
+          - listitem [ref=e1511]:
+            - link "2027新卒採用" [ref=e1512] [cursor=pointer]:
+              - /url: https://dip.snar.jp/entry.aspx?entryid=09acc7ab-401d-40cf-a435-a9b89662421f
+              - img "2027新卒採用" [ref=e1513]
+          - listitem [ref=e1514]:
+            - link "バイトGETマニュアル" [ref=e1515] [cursor=pointer]:
+              - /url: /contents/get/?pname=big
+              - img "バイトGETマニュアル" [ref=e1516]
+          - listitem [ref=e1517]:
+            - link "mybest" [ref=e1518] [cursor=pointer]:
+              - /url: https://my-best.com/4924?pname=big
+              - img "mybest" [ref=e1519]
+          - listitem [ref=e1520]:
+            - link "介護ではたらこCM訴求" [ref=e1521] [cursor=pointer]:
+              - /url: https://www.hatarako.net/agent/kaigo/form2/pt0001/?utm_medium=owned&utm_source=bt&utm_campaign=bnr_kaigo
+              - img "介護ではたらこCM訴求" [ref=e1522]
+        - generic [ref=e1525]:
+          - heading "キープ中の求人 0 件" [level=2] [ref=e1527]:
+            - text: キープ中の求人
+            - emphasis [ref=e1528]: "0"
+            - text: 件
+          - paragraph [ref=e1530]:
+            - emphasis [ref=e1531]: 現在、キープ中の求人はありません。
+            - text: 登録不要で、すぐに使えます！
+            - text: 気になった求人をキープすることで、後から簡単に見ることができます。
+        - generic [ref=e1534]:
+          - heading "保存した検索条件 (0)" [level=2] [ref=e1536]:
+            - text: 保存した検索条件
+            - emphasis [ref=e1537]: (0)
+          - paragraph [ref=e1539]:
+            - emphasis [ref=e1540]: 現在、保存した検索条件はありません。
+        - generic [ref=e1543]:
+          - heading "最近検索した条件 (0)" [level=2] [ref=e1545]:
+            - text: 最近検索した条件
+            - emphasis [ref=e1546]: (0)
+          - paragraph [ref=e1548]:
+            - emphasis [ref=e1549]: 現在、最近検索した条件はありません。
+        - generic [ref=e1552]:
+          - heading "最近見た求人 (0)" [level=2] [ref=e1554]:
+            - text: 最近見た求人
+            - emphasis [ref=e1555]: (0)
+          - paragraph [ref=e1557]:
+            - emphasis [ref=e1558]: 現在、最近見た求人はありません。
+        - heading "いろいろなお知らせ" [level=2] [ref=e1562]
+        - list [ref=e1565]:
+          - listitem [ref=e1566]:
+            - link "バイトル公式facebookファンページ" [ref=e1567] [cursor=pointer]:
+              - /url: https://www.facebook.com/baitoru
+              - img "バイトル公式facebookファンページ" [ref=e1568]
+          - listitem [ref=e1569]:
+            - link "バイトル公式twitterアカウント" [ref=e1570] [cursor=pointer]:
+              - /url: https://twitter.com/baitoru_com
+              - img "バイトル公式twitterアカウント" [ref=e1571]
+          - listitem [ref=e1572]:
+            - link "@baitoru_comさんのツイート" [ref=e1573] [cursor=pointer]:
+              - /url: https://twitter.com/baitoru_com
+          - listitem [ref=e1574]:
+            - link "掲載希望企業問い合わせLP" [ref=e1575] [cursor=pointer]:
+              - /url: /form/sales/contact.html?pname=big
+              - img "掲載希望企業問い合わせLP" [ref=e1576]
+          - listitem [ref=e1577]:
+            - link "代理店募集" [ref=e1578] [cursor=pointer]:
+              - /url: /about/dairiten/?pname=big
+              - img "代理店募集" [ref=e1579]
+          - listitem [ref=e1580]:
+            - link "ハロワ・全求協系リンク" [ref=e1581] [cursor=pointer]:
+              - /url: /about/customer.html?pname=big
+              - img "ハロワ・全求協系リンク" [ref=e1582]
+        - list [ref=e1585]:
+          - listitem [ref=e1586]:
+            - link "ディップ株式会社は国際規格｢ISO27001｣及びその国内規格｢JIS Q 27001｣認証取得企業です" [ref=e1587] [cursor=pointer]:
+              - /url: https://www.dip-net.co.jp/iso27001.html
+              - img "ディップ株式会社は国際規格｢ISO27001｣及びその国内規格｢JIS Q 27001｣認証取得企業です" [ref=e1588]
+          - listitem [ref=e1589]:
+            - link "ディップ株式会社はプライバシーマーク取得企業です" [ref=e1590] [cursor=pointer]:
+              - /url: https://privacymark.jp/
+              - img "ディップ株式会社はプライバシーマーク取得企業です" [ref=e1591]
+    - contentinfo [ref=e1592]:
+      - generic [ref=e1598]:
+        - generic [ref=e1599]:
+          - paragraph [ref=e1600]: アルバイト・バイト・求人を選ぶ
+          - list:
+            - listitem [ref=e1601]:
+              - link "職種から選ぶ" [ref=e1602] [cursor=pointer]:
+                - /url: https://www.baitoru.com/lp/jobcategory/
+            - listitem [ref=e1603]:
+              - link "特徴から選ぶ" [ref=e1604] [cursor=pointer]:
+                - /url: https://www.baitoru.com/lp/characteristics/
+            - listitem [ref=e1605]:
+              - link "オススメキーワードから選ぶ" [ref=e1606] [cursor=pointer]:
+                - /url: https://www.baitoru.com/kw/
+            - listitem [ref=e1607]:
+              - link "ハローワーク求人" [ref=e1608] [cursor=pointer]:
+                - /url: /hw/
+        - generic [ref=e1609]:
+          - link "ディップ株式会社" [ref=e1611] [cursor=pointer]:
+            - /url: https://www.dip-net.co.jp/
+            - img "ディップ株式会社" [ref=e1612]
+          - list [ref=e1614]:
+            - listitem [ref=e1615]:
+              - link "ヘルプ＆お問い合わせ" [ref=e1616] [cursor=pointer]:
+                - /url: https://www.baitoru.com/about/ask/
+              - text: ｜
+            - listitem [ref=e1617]:
+              - link "プライバシーポリシー" [ref=e1618] [cursor=pointer]:
+                - /url: https://www.baitoru.com/about/privacy.html
+              - text: ｜
+            - listitem [ref=e1619]:
+              - link "個人情報の取扱いについて" [ref=e1620] [cursor=pointer]:
+                - /url: https://www.baitoru.com/about/personal_information.html
+              - text: ｜
+            - listitem [ref=e1621]:
+              - link "利用者情報の外部送信について" [ref=e1622] [cursor=pointer]:
+                - /url: https://www.baitoru.com/about/behavior_analysis.html
+              - text: ｜
+            - listitem [ref=e1623]:
+              - link "利用規約" [ref=e1624] [cursor=pointer]:
+                - /url: https://www.baitoru.com/about/kiyaku.html
+              - text: ｜
+            - listitem [ref=e1625]:
+              - link "掲載規定" [ref=e1626] [cursor=pointer]:
+                - /url: https://www.baitoru.com/info/rule/
+              - text: ｜
+            - listitem [ref=e1627]:
+              - link "バイトルについて" [ref=e1628] [cursor=pointer]:
+                - /url: https://www.baitoru.com/about/
+              - text: ｜
+            - listitem [ref=e1629]:
+              - link "【企業】求人広告の掲載相談" [ref=e1630] [cursor=pointer]:
+                - /url: https://www.baitoru.com/solution/baitoru/
+        - generic [ref=e1631]:
+          - list [ref=e1632]:
+            - listitem [ref=e1633]:
+              - link "スポットバイトル" [ref=e1634] [cursor=pointer]:
+                - /url: https://spot.baitoru.com/fjlist
+            - listitem [ref=e1635]:
+              - link "バイトルNEXT" [ref=e1636] [cursor=pointer]:
+                - /url: /shain/
+            - listitem [ref=e1637]:
+              - link "dip AI" [ref=e1638] [cursor=pointer]:
+                - /url: https://dip.ai/aiagent/
+            - listitem [ref=e1639]:
+              - link "バイトルマガジン" [ref=e1640] [cursor=pointer]:
+                - /url: /contents/
+            - listitem [ref=e1641]:
+              - link "バイトルPRO" [ref=e1642] [cursor=pointer]:
+                - /url: https://www.baitorupro.com/
+            - listitem [ref=e1643]:
+              - link "はたらこねっと" [ref=e1644] [cursor=pointer]:
+                - /url: https://www.hatarako.net/
+            - listitem [ref=e1645]:
+              - link "ナースではたらこ" [ref=e1646] [cursor=pointer]:
+                - /url: https://www.hatarako.net/agent/nurse/index.html
+            - listitem [ref=e1647]:
+              - link "介護ではたらこ" [ref=e1648] [cursor=pointer]:
+                - /url: https://www.hatarako.net/agent/kaigo
+          - list [ref=e1649]:
+            - listitem [ref=e1650]:
+              - link "X（旧Twitter）" [ref=e1651] [cursor=pointer]:
+                - /url: https://twitter.com/baitoru_com/
+            - listitem [ref=e1652]:
+              - link "Instagram" [ref=e1653] [cursor=pointer]:
+                - /url: https://www.instagram.com/baitoru_official/
+            - listitem [ref=e1654]:
+              - link "Facebook" [ref=e1655] [cursor=pointer]:
+                - /url: https://www.facebook.com/baitoru/
+            - listitem [ref=e1656]:
+              - link "YouTube" [ref=e1657] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCPDamdPpvBfQH_tGZWByHKA/
+            - listitem [ref=e1658]:
+              - link "Tiktok" [ref=e1659] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@baitoru_official/
+            - listitem [ref=e1660]:
+              - link "App Store" [ref=e1661] [cursor=pointer]:
+                - /url: https://apps.apple.com/jp/app/%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97-%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88%E9%81%B8%E3%81%B3%E3%81%AF%E3%83%90%E3%82%A4%E3%83%88%E3%83%AB/id387320095/
+            - listitem [ref=e1662]:
+              - link "Google Play" [ref=e1663] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.dip.baitoru&hl=ja&gl=US
+        - paragraph [ref=e1665]: © dip Corporation. 各社のロゴマークは関係各社の商標または登録商標です。

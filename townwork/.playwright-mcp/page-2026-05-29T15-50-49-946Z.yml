@@ -1,0 +1,155 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - heading "アルバイト/バイトやパートの仕事/求人なら【タウンワーク】" [level=1] [ref=e5]
+        - generic [ref=e6]:
+          - link "タウンワーク(TOWNWORK)" [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "タウンワーク(TOWNWORK)" [ref=e8]
+          - img "joboob" [ref=e9]
+    - main [ref=e11]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - paragraph [ref=e15]: エリアを選択してください
+          - navigation [ref=e16]:
+            - list [ref=e17]:
+              - listitem [ref=e18]:
+                - link "北海道" [ref=e19] [cursor=pointer]:
+                  - /url: /prefectures/hokkaidou/
+                  - paragraph [ref=e20]: 北海道
+              - listitem [ref=e21] [cursor=pointer]:
+                - paragraph [ref=e22]: 東北
+              - listitem [ref=e23] [cursor=pointer]:
+                - paragraph [ref=e24]: 関東
+              - listitem [ref=e25] [cursor=pointer]:
+                - paragraph [ref=e26]: 甲信越
+              - listitem [ref=e27] [cursor=pointer]:
+                - paragraph [ref=e28]: 東海
+              - listitem [ref=e29] [cursor=pointer]:
+                - paragraph [ref=e30]: 関西
+              - listitem [ref=e31] [cursor=pointer]:
+                - paragraph [ref=e32]: 中国・四国
+              - listitem [ref=e33] [cursor=pointer]:
+                - paragraph [ref=e34]: 九州・沖縄
+          - navigation [ref=e36]
+        - generic [ref=e38]:
+          - paragraph [ref=e39]: 人気のエリア
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - link "新宿区" [ref=e42] [cursor=pointer]:
+                - /url: /prefectures/tokyo/job_search/ma-013001/sa-013001004/
+            - listitem [ref=e43]:
+              - link "渋谷区" [ref=e44] [cursor=pointer]:
+                - /url: /prefectures/tokyo/job_search/ma-013001/sa-013001013/
+            - listitem [ref=e45]:
+              - link "横浜市" [ref=e46] [cursor=pointer]:
+                - /url: /prefectures/kanagawa/job_search/ma-014001/
+            - listitem [ref=e47]:
+              - link "大阪市" [ref=e48] [cursor=pointer]:
+                - /url: /prefectures/oosaka/job_search/ma-027001/
+            - listitem [ref=e49]:
+              - link "神戸市" [ref=e50] [cursor=pointer]:
+                - /url: /prefectures/hyogo/job_search/ma-028001/
+            - listitem [ref=e51]:
+              - link "名古屋市" [ref=e52] [cursor=pointer]:
+                - /url: /prefectures/aichi/job_search/ma-023001/
+            - listitem [ref=e53]:
+              - link "仙台市" [ref=e54] [cursor=pointer]:
+                - /url: /prefectures/miyagi/job_search/ma-004001/
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - generic [ref=e57]:
+            - paragraph [ref=e58]: 最新のお仕事ニュース
+            - link "TOWNWORKマガジン" [ref=e59] [cursor=pointer]:
+              - /url: /magazine/
+              - img "TOWNWORKマガジン" [ref=e60]
+          - paragraph [ref=e62]: バイトノウハウ
+          - generic [ref=e63]:
+            - link "バイト探し・職種ランキング" [ref=e64] [cursor=pointer]:
+              - /url: /magazine/knowhow/search/baito_search/
+              - paragraph [ref=e65]: バイト探し・職種ランキング
+            - link "バイト応募・電話の掛け方" [ref=e66] [cursor=pointer]:
+              - /url: /magazine/knowhow/ohbo/baito_ohbo/
+              - paragraph [ref=e67]: バイト応募・電話の掛け方
+            - link "バイト履歴書の書き方" [ref=e68] [cursor=pointer]:
+              - /url: /magazine/knowhow/resume/baito_resume/
+              - paragraph [ref=e69]: バイト履歴書の書き方
+            - link "バイト面接のノウハウ" [ref=e70] [cursor=pointer]:
+              - /url: /magazine/knowhow/mensetsu/baito_mst/
+              - paragraph [ref=e71]: バイト面接のノウハウ
+            - link "バイトの辞め方" [ref=e72] [cursor=pointer]:
+              - /url: /magazine/knowhow/taishoku/baito_taishoku/
+              - paragraph [ref=e73]: バイトの辞め方
+            - link "バイトでのマナー" [ref=e74] [cursor=pointer]:
+              - /url: /magazine/knowhow/manners/baito_manners/
+              - paragraph [ref=e75]: バイトでのマナー
+            - link "仕事と法律" [ref=e76] [cursor=pointer]:
+              - /url: /magazine/knowhow/low/
+              - paragraph [ref=e77]: 仕事と法律
+            - link "仕事と税金" [ref=e78] [cursor=pointer]:
+              - /url: /magazine/knowhow/taxes/
+              - paragraph [ref=e79]: 仕事と税金
+            - link "社会保険・労働保険" [ref=e80] [cursor=pointer]:
+              - /url: /magazine/knowhow/sinsurance/
+              - paragraph [ref=e81]: 社会保険・労働保険
+          - paragraph [ref=e83]: バイト・仕事コラム
+          - generic [ref=e84]:
+            - link "仕事白書" [ref=e85] [cursor=pointer]:
+              - /url: /magazine/job_wpaper/
+              - paragraph [ref=e86]: 仕事白書
+            - link "仕事・働く" [ref=e87] [cursor=pointer]:
+              - /url: /magazine/job/
+              - paragraph [ref=e88]: 仕事・働く
+            - link "スキル・マナー" [ref=e89] [cursor=pointer]:
+              - /url: /magazine/skill/
+              - paragraph [ref=e90]: スキル・マナー
+            - link "ライフ・エンタメ" [ref=e91] [cursor=pointer]:
+              - /url: /magazine/life/
+              - paragraph [ref=e92]: ライフ・エンタメ
+          - paragraph [ref=e94]: 転職ノウハウ
+          - generic [ref=e95]:
+            - link "転職｜履歴書の書き方" [ref=e96] [cursor=pointer]:
+              - /url: /magazine/knowhow/resume/t_resume/
+              - paragraph [ref=e97]: 転職｜履歴書の書き方
+            - link "転職｜面接準備・対策" [ref=e98] [cursor=pointer]:
+              - /url: /magazine/knowhow/mensetsu/t_mst/
+              - paragraph [ref=e99]: 転職｜面接準備・対策
+        - generic [ref=e100]:
+          - heading "お知らせ" [level=2] [ref=e101]
+          - list [ref=e102]:
+            - listitem [ref=e103]:
+              - text: ・
+              - link "違法・有害と疑われる求人にご注意ください" [ref=e104] [cursor=pointer]:
+                - /url: /assets/notice/notice_0002.pdf
+            - listitem [ref=e105]:
+              - text: ・
+              - link "注意喚起：安全な仕事探しのために" [ref=e106] [cursor=pointer]:
+                - /url: /assets/notice/notice_0003.pdf
+            - listitem [ref=e107]:
+              - text: ・
+              - link "当サイトを名乗る偽サイトについて" [ref=e108] [cursor=pointer]:
+                - /url: /assets/notice/notice_0005.pdf
+      - generic [ref=e109]:
+        - link "キーワード一覧" [ref=e110] [cursor=pointer]:
+          - /url: /job_search/kw/
+          - generic [ref=e111]: キーワード一覧
+        - button "都道府県から検索" [ref=e114] [cursor=pointer]:
+          - paragraph [ref=e115]: 都道府県から検索
+        - button "リクルートグループの関連サービス" [ref=e117] [cursor=pointer]:
+          - paragraph [ref=e119]: リクルートグループの関連サービス
+    - contentinfo [ref=e120]:
+      - list [ref=e121]:
+        - listitem [ref=e122]:
+          - link "ヘルプ・お問い合わせ" [ref=e123] [cursor=pointer]:
+            - /url: https://help.townwork.net/
+        - listitem [ref=e124]:
+          - link "サイトマップ" [ref=e125] [cursor=pointer]:
+            - /url: /sitemap/
+        - listitem [ref=e126]:
+          - link "利用規約・プライバシーポリシー" [ref=e127] [cursor=pointer]:
+            - /url: https://help.townwork.net/s/article/000028280
+        - listitem [ref=e128]:
+          - link "[企業]求人広告の掲載相談" [ref=e129] [cursor=pointer]:
+            - /url: /assets/twc/jobpost/gatepage/index.html?vos=dtwotwnpt18070504
+  - alert [ref=e130]

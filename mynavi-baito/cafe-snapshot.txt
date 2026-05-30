@@ -1,0 +1,25 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "好きをバイトにマイナビバイト" [ref=e3] [cursor=pointer]:
+      - /url: /
+      - img "好きをバイトにマイナビバイト" [ref=e4]
+    - heading "カフェのバイト・アルバイト求人特集" [level=1] [ref=e5]
+  - img "カフェのバイト・アルバイト求人特集" [ref=e7]
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - figure [ref=e10]
+      - generic [ref=e12]
+    - generic [ref=e138]:
+      - heading "CONDITIONS カフェバイトを人気条件から探す" [level=2] [ref=e139]
+      - list [ref=e142]
+  - contentinfo [ref=e167]:
+    - generic [ref=e169]:
+      - list [ref=e170]
+      - link "カフェのバイト・アルバイト特集" [ref=e177] [cursor=pointer]:
+        - /url: https://baito.mynavi.jp/shokushu/cafe/
+    - generic [ref=e179]:
+      - img "マイナビバイト" [ref=e180]
+      - generic [ref=e181]
+      - link [ref=e190] [cursor=pointer]:
+        - /url: https://privacymark.jp/
+  - text: × × × ×

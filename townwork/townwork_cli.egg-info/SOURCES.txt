@@ -1,0 +1,10 @@
+pyproject.toml
+townwork/__init__.py
+townwork/api.py
+townwork/cli.py
+townwork_cli.egg-info/PKG-INFO
+townwork_cli.egg-info/SOURCES.txt
+townwork_cli.egg-info/dependency_links.txt
+townwork_cli.egg-info/entry_points.txt
+townwork_cli.egg-info/requires.txt
+townwork_cli.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+api.py
+pyproject.toml
+server.py
+mynavi_mcp.egg-info/PKG-INFO
+mynavi_mcp.egg-info/SOURCES.txt
+mynavi_mcp.egg-info/dependency_links.txt
+mynavi_mcp.egg-info/entry_points.txt
+mynavi_mcp.egg-info/requires.txt
+mynavi_mcp.egg-info/top_level.txt

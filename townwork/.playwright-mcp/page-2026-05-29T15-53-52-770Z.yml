@@ -1,0 +1,44 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link "タウンワーク(TOWNWORK)" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "タウンワーク(TOWNWORK)" [ref=e6]
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "favorites list マイリスト" [ref=e9] [cursor=pointer]:
+            - /url: /favorite_jobs/
+            - img "favorites list" [ref=e10]
+            - paragraph [ref=e11]: マイリスト
+        - listitem [ref=e12]:
+          - link "message list メッセージ" [ref=e13] [cursor=pointer]:
+            - /url: /message/list/
+            - img "message list" [ref=e14]
+            - paragraph [ref=e15]: メッセージ
+        - listitem [ref=e16]:
+          - link "my page マイページ" [ref=e17] [cursor=pointer]:
+            - /url: /my_page/
+            - img "my page" [ref=e18]
+            - paragraph [ref=e19]: マイページ
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - heading "ページが表示できませんでした" [level=1] [ref=e24]
+        - paragraph [ref=e25]: お手数をおかけしますが、しばらく時間をおいてから再度アクセスをしてください。
+      - img "img-err" [ref=e26]
+      - link "トップページへ" [ref=e27] [cursor=pointer]:
+        - /url: /
+    - contentinfo [ref=e28]:
+      - list [ref=e29]:
+        - listitem [ref=e30]:
+          - link "ヘルプ・お問い合わせ" [ref=e31] [cursor=pointer]:
+            - /url: https://help.townwork.net/
+        - listitem [ref=e32]:
+          - link "サイトマップ" [ref=e33] [cursor=pointer]:
+            - /url: /sitemap/
+        - listitem [ref=e34]:
+          - link "利用規約・プライバシーポリシー" [ref=e35] [cursor=pointer]:
+            - /url: https://help.townwork.net/s/article/000028280
+        - listitem [ref=e36]:
+          - link "[企業]求人広告の掲載相談" [ref=e37] [cursor=pointer]:
+            - /url: /assets/twc/jobpost/gatepage/index.html?vos=dtwotwnpt18070504
+  - alert [ref=e38]

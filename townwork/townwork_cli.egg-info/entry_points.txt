@@ -1,0 +1,2 @@
+[console_scripts]
+tw = townwork.cli:main

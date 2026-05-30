@@ -1,0 +1,303 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - heading "好きを、バイトに。マイナビバイト" [level=1] [ref=e8]:
+      - img "好きを、バイトに。マイナビバイト" [ref=e10] [cursor=pointer]
+  - generic [ref=e12]:
+    - paragraph [ref=e13]:
+      - text: 404 Not Found
+      - text: お探しのページが見つかりません。
+    - generic [ref=e14]:
+      - img "おじぎバスキー" [ref=e15]
+      - paragraph [ref=e16]: 当サイト「マイナビ」をご利用いただきありがとうございます。
+      - paragraph [ref=e17]: お探しのページは削除されたか、URLが変更されたか、または一時的にご利用できない可能性があります。
+      - paragraph [ref=e18]:
+        - text: ご不明の点がある場合「
+        - link "お問い合わせ" [ref=e19] [cursor=pointer]:
+          - /url: /support/UserSupportInput.do
+        - text: 」よりお尋ねください。
+      - link "トップページへ" [ref=e22] [cursor=pointer]:
+        - /url: /
+    - generic [ref=e25]:
+      - generic [ref=e26]: アルバイト探しコンテンツ
+      - generic [ref=e27]:
+        - paragraph [ref=e30]: エリアから探す
+        - paragraph [ref=e34]: 職種から探す
+      - generic [ref=e35]:
+        - list [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e38]: 関東
+            - generic [ref=e39]:
+              - link "東京" [ref=e41] [cursor=pointer]:
+                - /url: /tokyo/
+              - generic [ref=e42]: ｜
+              - link "神奈川" [ref=e44] [cursor=pointer]:
+                - /url: /kanagawa/
+              - generic [ref=e45]: ｜
+              - link "千葉" [ref=e47] [cursor=pointer]:
+                - /url: /chiba/
+              - generic [ref=e48]: ｜
+              - link "埼玉" [ref=e50] [cursor=pointer]:
+                - /url: /saitama/
+              - generic [ref=e51]: ｜
+              - link "茨城" [ref=e53] [cursor=pointer]:
+                - /url: /ibaraki/
+              - generic [ref=e54]: ｜
+              - link "栃木" [ref=e56] [cursor=pointer]:
+                - /url: /tochigi/
+              - generic [ref=e57]: ｜
+              - link "群馬" [ref=e59] [cursor=pointer]:
+                - /url: /gunma/
+          - generic [ref=e60]:
+            - generic [ref=e61]: 関西
+            - generic [ref=e62]:
+              - link "大阪" [ref=e64] [cursor=pointer]:
+                - /url: /osaka/
+              - generic [ref=e65]: ｜
+              - link "京都" [ref=e67] [cursor=pointer]:
+                - /url: /kyoto/
+              - generic [ref=e68]: ｜
+              - link "兵庫" [ref=e70] [cursor=pointer]:
+                - /url: /hyogo/
+              - generic [ref=e71]: ｜
+              - link "奈良" [ref=e73] [cursor=pointer]:
+                - /url: /nara/
+              - generic [ref=e74]: ｜
+              - link "滋賀" [ref=e76] [cursor=pointer]:
+                - /url: /shiga/
+              - generic [ref=e77]: ｜
+              - link "和歌山" [ref=e79] [cursor=pointer]:
+                - /url: /wakayama/
+          - generic [ref=e80]:
+            - generic [ref=e81]: 東海
+            - generic [ref=e82]:
+              - link "愛知" [ref=e84] [cursor=pointer]:
+                - /url: /aichi/
+              - generic [ref=e85]: ｜
+              - link "岐阜" [ref=e87] [cursor=pointer]:
+                - /url: /gifu/
+              - generic [ref=e88]: ｜
+              - link "静岡" [ref=e90] [cursor=pointer]:
+                - /url: /shizuoka/
+              - generic [ref=e91]: ｜
+              - link "三重" [ref=e93] [cursor=pointer]:
+                - /url: /mie/
+          - generic [ref=e94]:
+            - generic [ref=e95]: 北海道・東北
+            - generic [ref=e96]:
+              - link "北海道" [ref=e98] [cursor=pointer]:
+                - /url: /hokkaido/
+              - generic [ref=e99]: ｜
+              - link "青森" [ref=e101] [cursor=pointer]:
+                - /url: /aomori/
+              - generic [ref=e102]: ｜
+              - link "岩手" [ref=e104] [cursor=pointer]:
+                - /url: /iwate/
+              - generic [ref=e105]: ｜
+              - link "宮城" [ref=e107] [cursor=pointer]:
+                - /url: /miyagi/
+              - generic [ref=e108]: ｜
+              - link "秋田" [ref=e110] [cursor=pointer]:
+                - /url: /akita/
+              - generic [ref=e111]: ｜
+              - link "山形" [ref=e113] [cursor=pointer]:
+                - /url: /yamagata/
+              - generic [ref=e114]: ｜
+              - link "福島" [ref=e116] [cursor=pointer]:
+                - /url: /fukushima/
+          - generic [ref=e117]:
+            - generic [ref=e118]: 甲信越・北陸
+            - generic [ref=e119]:
+              - link "新潟" [ref=e121] [cursor=pointer]:
+                - /url: /niigata/
+              - generic [ref=e122]: ｜
+              - link "富山" [ref=e124] [cursor=pointer]:
+                - /url: /toyama/
+              - generic [ref=e125]: ｜
+              - link "石川" [ref=e127] [cursor=pointer]:
+                - /url: /ishikawa/
+              - generic [ref=e128]: ｜
+              - link "福井" [ref=e130] [cursor=pointer]:
+                - /url: /fukui/
+              - generic [ref=e131]: ｜
+              - link "長野" [ref=e133] [cursor=pointer]:
+                - /url: /nagano/
+              - generic [ref=e134]: ｜
+              - link "山梨" [ref=e136] [cursor=pointer]:
+                - /url: /yamanashi/
+          - generic [ref=e137]:
+            - generic [ref=e138]: 中国・四国
+            - generic [ref=e139]:
+              - link "鳥取" [ref=e141] [cursor=pointer]:
+                - /url: /tottori/
+              - generic [ref=e142]: ｜
+              - link "島根" [ref=e144] [cursor=pointer]:
+                - /url: /shimane/
+              - generic [ref=e145]: ｜
+              - link "岡山" [ref=e147] [cursor=pointer]:
+                - /url: /okayama/
+              - generic [ref=e148]: ｜
+              - link "広島" [ref=e150] [cursor=pointer]:
+                - /url: /hiroshima/
+              - generic [ref=e151]: ｜
+              - link "山口" [ref=e153] [cursor=pointer]:
+                - /url: /yamaguchi/
+              - generic [ref=e154]: ｜
+              - link "徳島" [ref=e156] [cursor=pointer]:
+                - /url: /tokushima/
+              - generic [ref=e157]: ｜
+              - link "香川" [ref=e159] [cursor=pointer]:
+                - /url: /kagawa/
+              - generic [ref=e160]: ｜
+              - link "愛媛" [ref=e162] [cursor=pointer]:
+                - /url: /ehime/
+              - generic [ref=e163]: ｜
+              - link "高知" [ref=e165] [cursor=pointer]:
+                - /url: /kochi/
+          - generic [ref=e166]:
+            - generic [ref=e167]: 九州・沖縄
+            - generic [ref=e168]:
+              - link "福岡" [ref=e170] [cursor=pointer]:
+                - /url: /fukuoka/
+              - generic [ref=e171]: ｜
+              - link "佐賀" [ref=e173] [cursor=pointer]:
+                - /url: /saga/
+              - generic [ref=e174]: ｜
+              - link "長崎" [ref=e176] [cursor=pointer]:
+                - /url: /nagasaki/
+              - generic [ref=e177]: ｜
+              - link "熊本" [ref=e179] [cursor=pointer]:
+                - /url: /kumamoto/
+              - generic [ref=e180]: ｜
+              - link "大分" [ref=e182] [cursor=pointer]:
+                - /url: /oita/
+              - generic [ref=e183]: ｜
+              - link "宮崎" [ref=e185] [cursor=pointer]:
+                - /url: /miyazaki/
+              - generic [ref=e186]: ｜
+              - link "鹿児島" [ref=e188] [cursor=pointer]:
+                - /url: /kagoshima/
+              - generic [ref=e189]: ｜
+              - link "沖縄" [ref=e191] [cursor=pointer]:
+                - /url: /okinawa/
+        - generic [ref=e192]:
+          - listitem [ref=e193]:
+            - link "事務・データ入力・受付" [ref=e194] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/jimu/
+          - listitem [ref=e195]:
+            - link "梱包・検品・仕分・商品管理" [ref=e196] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/shiwake/
+          - listitem [ref=e197]:
+            - link "コールセンター" [ref=e198] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/telma/
+          - listitem [ref=e199]:
+            - link "レストラン・専門料理店" [ref=e200] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/restaurant/
+          - listitem [ref=e201]:
+            - link "居酒屋・バー" [ref=e202] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/izakaya/
+          - listitem [ref=e203]:
+            - link "イベント企画・運営" [ref=e204] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/event/
+          - listitem [ref=e205]:
+            - link "試験監督・採点・アドバイザー" [ref=e206] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/examiner/
+          - listitem [ref=e207]:
+            - link "カフェ" [ref=e208] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/cafe/
+          - listitem [ref=e209]:
+            - link "アンケート・調査・企画" [ref=e210] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/powerful/
+          - listitem [ref=e211]:
+            - link "コンビニ・スーパー" [ref=e212] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/shokushu/conveni/
+      - generic [ref=e213]:
+        - paragraph [ref=e216]: 条件から探す
+        - paragraph [ref=e220]: マイナビバイトの厳選コンテンツ
+      - generic [ref=e221]:
+        - generic [ref=e222]:
+          - listitem [ref=e223]:
+            - link "単発(1日)" [ref=e225] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/tanpatsu/
+            - generic [ref=e226]: ｜
+            - link "日払い／週払い" [ref=e228] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/hibarai/
+            - generic [ref=e229]: ｜
+            - link "高校生歓迎" [ref=e231] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/kokosei/
+          - listitem [ref=e232]:
+            - link "短期（1ヶ月以内）" [ref=e234] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/tanki/
+            - generic [ref=e235]: ｜
+            - link "ネイル可" [ref=e237] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/nail/
+          - listitem [ref=e238]:
+            - link "髪色自由" [ref=e240] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/kamigatajiyu/
+            - generic [ref=e241]: ｜
+            - link "夜勤" [ref=e243] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/yakin/
+            - generic [ref=e244]: ｜
+            - link "在宅ワーク・内職" [ref=e246] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/zaitaku/
+            - generic [ref=e247]: ｜
+            - link "交通費支給" [ref=e249] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/koutsuuhi/
+          - listitem [ref=e250]:
+            - link "大学生歓迎" [ref=e252] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/daigakusei/
+            - generic [ref=e253]: ｜
+            - link "短期（1週間以内）" [ref=e255] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/tanki/
+            - generic [ref=e256]: ｜
+            - link "高収入" [ref=e258] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/kodawari/koushunyu/
+        - generic [ref=e260]:
+          - listitem [ref=e261]:
+            - link "お役立ちコンテンツ一覧" [ref=e262] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/contents/
+          - listitem [ref=e263]:
+            - link "採用担当者に聞いた「こんな人欲しい！」" [ref=e264] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/contents/saiyotanto/
+          - listitem [ref=e265]:
+            - link "アルバイト完全ガイド" [ref=e266] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/contents/oyakudachi/guide/
+          - listitem [ref=e267]:
+            - link "突撃！マイナビバイト調査隊" [ref=e268] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/contents/chousatai/
+          - listitem [ref=e269]:
+            - link "アイゾメ" [ref=e270] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/aizome/
+          - listitem [ref=e271]:
+            - link "Hello!バスキー" [ref=e272] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/campaign/basky/
+          - listitem [ref=e273]:
+            - link "マイナビバイトLINE公式アカウント" [ref=e274] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/pr/line_basky/
+      - generic [ref=e275]:
+        - paragraph [ref=e278]: ヘルプ
+        - paragraph [ref=e282]: その他
+      - generic [ref=e283]:
+        - generic [ref=e284]:
+          - listitem [ref=e285]:
+            - link "よくある質問" [ref=e286] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/user/html/helptop.html
+          - listitem [ref=e287]:
+            - link "会員についての質問" [ref=e288] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/user/html/helptop.html
+          - listitem [ref=e289]:
+            - link "お問い合わせ" [ref=e290] [cursor=pointer]:
+              - /url: /support/UserSupportInput.do
+        - generic [ref=e292]:
+          - listitem [ref=e293]:
+            - link "お知らせ" [ref=e294] [cursor=pointer]:
+              - /url: /info/NewsList.do
+          - listitem [ref=e295]:
+            - link "利用規約" [ref=e296] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/user/html/kiyaku.html
+          - listitem [ref=e297]:
+            - link "個人情報の取り扱いについて" [ref=e298] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/user/html/privacy.html
+          - listitem [ref=e299]:
+            - link "推奨環境" [ref=e300] [cursor=pointer]:
+              - /url: https://baito.mynavi.jp/user/html/suisho.html
+  - contentinfo

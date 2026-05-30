@@ -1,0 +1,249 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "好きをバイトにマイナビバイト" [ref=e3] [cursor=pointer]:
+      - /url: /
+      - img "好きをバイトにマイナビバイト" [ref=e4]
+    - heading "カフェのバイト・アルバイト求人特集" [level=1] [ref=e5]
+  - img "カフェのバイト・アルバイト求人特集" [ref=e7]
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - figure [ref=e10]:
+        - img "cafefoods" [ref=e11]
+      - generic [ref=e12]:
+        - heading "LOCATIONS カフェバイトを都道府県から探す" [level=2] [ref=e13]:
+          - text: LOCATIONS
+          - generic [ref=e14]: カフェバイトを都道府県から探す
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - term [ref=e17]: 関東
+            - definition [ref=e18]:
+              - list [ref=e19]:
+                - listitem [ref=e20]:
+                  - link "東京都" [ref=e21] [cursor=pointer]:
+                    - /url: /tokyo/ss-1/ssm-1/
+                - listitem [ref=e22]:
+                  - link "神奈川県" [ref=e23] [cursor=pointer]:
+                    - /url: /kanagawa/ss-1/ssm-1/
+                - listitem [ref=e24]:
+                  - link "千葉県" [ref=e25] [cursor=pointer]:
+                    - /url: /chiba/ss-1/ssm-1/
+                - listitem [ref=e26]:
+                  - link "埼玉県" [ref=e27] [cursor=pointer]:
+                    - /url: /saitama/ss-1/ssm-1/
+                - listitem [ref=e28]:
+                  - link "群馬県" [ref=e29] [cursor=pointer]:
+                    - /url: /gunma/ss-1/ssm-1/
+                - listitem [ref=e30]:
+                  - link "栃木県" [ref=e31] [cursor=pointer]:
+                    - /url: /tochigi/ss-1/ssm-1/
+                - listitem [ref=e32]:
+                  - link "茨城県" [ref=e33] [cursor=pointer]:
+                    - /url: /ibaraki/ss-1/ssm-1/
+          - generic [ref=e34]:
+            - term [ref=e35]: 関西
+            - definition [ref=e36]:
+              - list [ref=e37]:
+                - listitem [ref=e38]:
+                  - link "大阪府" [ref=e39] [cursor=pointer]:
+                    - /url: /osaka/ss-1/ssm-1/
+                - listitem [ref=e40]:
+                  - link "京都府" [ref=e41] [cursor=pointer]:
+                    - /url: /kyoto/ss-1/ssm-1/
+                - listitem [ref=e42]:
+                  - link "兵庫県" [ref=e43] [cursor=pointer]:
+                    - /url: /hyogo/ss-1/ssm-1/
+                - listitem [ref=e44]:
+                  - link "奈良県" [ref=e45] [cursor=pointer]:
+                    - /url: /nara/ss-1/ssm-1/
+                - listitem [ref=e46]:
+                  - link "滋賀県" [ref=e47] [cursor=pointer]:
+                    - /url: /shiga/ss-1/ssm-1/
+                - listitem [ref=e48]:
+                  - link "和歌山県" [ref=e49] [cursor=pointer]:
+                    - /url: /wakayama/ss-1/ssm-1/
+          - generic [ref=e50]:
+            - term [ref=e51]: 東海
+            - definition [ref=e52]:
+              - list [ref=e53]:
+                - listitem [ref=e54]:
+                  - link "愛知県" [ref=e55] [cursor=pointer]:
+                    - /url: /aichi/ss-1/ssm-1/
+                - listitem [ref=e56]:
+                  - link "静岡県" [ref=e57] [cursor=pointer]:
+                    - /url: /shizuoka/ss-1/ssm-1/
+                - listitem [ref=e58]:
+                  - link "三重県" [ref=e59] [cursor=pointer]:
+                    - /url: /mie/ss-1/ssm-1/
+                - listitem [ref=e60]:
+                  - link "岐阜県" [ref=e61] [cursor=pointer]:
+                    - /url: /gifu/ss-1/ssm-1/
+          - generic [ref=e62]:
+            - term [ref=e63]: 北海道・東北
+            - definition [ref=e64]:
+              - list [ref=e65]:
+                - listitem [ref=e66]:
+                  - link "北海道" [ref=e67] [cursor=pointer]:
+                    - /url: /hokkaido/ss-1/ssm-1/
+                - listitem [ref=e68]:
+                  - link "青森県" [ref=e69] [cursor=pointer]:
+                    - /url: /aomori/ss-1/ssm-1/
+                - listitem [ref=e70]:
+                  - link "秋田県" [ref=e71] [cursor=pointer]:
+                    - /url: /akita/ss-1/ssm-1/
+                - listitem [ref=e72]:
+                  - link "岩手県" [ref=e73] [cursor=pointer]:
+                    - /url: /iwate/ss-1/ssm-1/
+                - listitem [ref=e74]:
+                  - link "山形県" [ref=e75] [cursor=pointer]:
+                    - /url: /yamagata/ss-1/ssm-1/
+                - listitem [ref=e76]:
+                  - link "宮城県" [ref=e77] [cursor=pointer]:
+                    - /url: /miyagi/ss-1/ssm-1/
+                - listitem [ref=e78]:
+                  - link "福島県" [ref=e79] [cursor=pointer]:
+                    - /url: /fukushima/ss-1/ssm-1/
+          - generic [ref=e80]:
+            - term [ref=e81]: 甲信越・北陸
+            - definition [ref=e82]:
+              - list [ref=e83]:
+                - listitem [ref=e84]:
+                  - link "長野県" [ref=e85] [cursor=pointer]:
+                    - /url: /nagano/ss-1/ssm-1/
+                - listitem [ref=e86]:
+                  - link "新潟県" [ref=e87] [cursor=pointer]:
+                    - /url: /niigata/ss-1/ssm-1/
+                - listitem [ref=e88]:
+                  - link "山梨県" [ref=e89] [cursor=pointer]:
+                    - /url: /yamanashi/ss-1/ssm-1/
+                - listitem [ref=e90]:
+                  - link "石川県" [ref=e91] [cursor=pointer]:
+                    - /url: /ishikawa/ss-1/ssm-1/
+                - listitem [ref=e92]:
+                  - link "富山県" [ref=e93] [cursor=pointer]:
+                    - /url: /toyama/ss-1/ssm-1/
+                - listitem [ref=e94]:
+                  - link "福井県" [ref=e95] [cursor=pointer]:
+                    - /url: /fukui/ss-1/ssm-1/
+          - generic [ref=e96]:
+            - term [ref=e97]: 中国・四国
+            - definition [ref=e98]:
+              - list [ref=e99]:
+                - listitem [ref=e100]:
+                  - link "広島県" [ref=e101] [cursor=pointer]:
+                    - /url: /hiroshima/ss-1/ssm-1/
+                - listitem [ref=e102]:
+                  - link "岡山県" [ref=e103] [cursor=pointer]:
+                    - /url: /okayama/ss-1/ssm-1/
+                - listitem [ref=e104]:
+                  - link "鳥取県" [ref=e105] [cursor=pointer]:
+                    - /url: /tottori/ss-1/ssm-1/
+                - listitem [ref=e106]:
+                  - link "島根県" [ref=e107] [cursor=pointer]:
+                    - /url: /shimane/ss-1/ssm-1/
+                - listitem [ref=e108]:
+                  - link "山口県" [ref=e109] [cursor=pointer]:
+                    - /url: /yamaguchi/ss-1/ssm-1/
+                - listitem [ref=e110]:
+                  - link "愛媛県" [ref=e111] [cursor=pointer]:
+                    - /url: /ehime/ss-1/ssm-1/
+                - listitem [ref=e112]:
+                  - link "香川県" [ref=e113] [cursor=pointer]:
+                    - /url: /kagawa/ss-1/ssm-1/
+                - listitem [ref=e114]:
+                  - link "徳島県" [ref=e115] [cursor=pointer]:
+                    - /url: /tokushima/ss-1/ssm-1/
+                - listitem [ref=e116]:
+                  - link "高知県" [ref=e117] [cursor=pointer]:
+                    - /url: /kochi/ss-1/ssm-1/
+          - generic [ref=e118]:
+            - term [ref=e119]: 九州・沖縄
+            - definition [ref=e120]:
+              - list [ref=e121]:
+                - listitem [ref=e122]:
+                  - link "福岡県" [ref=e123] [cursor=pointer]:
+                    - /url: /fukuoka/ss-1/ssm-1/
+                - listitem [ref=e124]:
+                  - link "佐賀県" [ref=e125] [cursor=pointer]:
+                    - /url: /saga/ss-1/ssm-1/
+                - listitem [ref=e126]:
+                  - link "長崎県" [ref=e127] [cursor=pointer]:
+                    - /url: /nagasaki/ss-1/ssm-1/
+                - listitem [ref=e128]:
+                  - link "熊本県" [ref=e129] [cursor=pointer]:
+                    - /url: /kumamoto/ss-1/ssm-1/
+                - listitem [ref=e130]:
+                  - link "大分県" [ref=e131] [cursor=pointer]:
+                    - /url: /oita/ss-1/ssm-1/
+                - listitem [ref=e132]:
+                  - link "宮崎県" [ref=e133] [cursor=pointer]:
+                    - /url: /miyazaki/ss-1/ssm-1/
+                - listitem [ref=e134]:
+                  - link "鹿児島県" [ref=e135] [cursor=pointer]:
+                    - /url: /kagoshima/ss-1/ssm-1/
+                - listitem [ref=e136]:
+                  - link "沖縄県" [ref=e137] [cursor=pointer]:
+                    - /url: /okinawa/ss-1/ssm-1/
+    - generic [ref=e138]:
+      - heading "CONDITIONS カフェバイトを人気条件から探す" [level=2] [ref=e139]:
+        - text: CONDITIONS
+        - generic [ref=e140]: カフェバイトを人気条件から探す
+      - list [ref=e142]:
+        - listitem [ref=e143]:
+          - generic [ref=e144]:
+            - term [ref=e145]:
+              - img "日払い" [ref=e146]
+            - definition [ref=e147]:
+              - link "大学生歓迎" [ref=e148] [cursor=pointer]:
+                - /url: "#modal1"
+        - listitem [ref=e149]:
+          - generic [ref=e150]:
+            - term [ref=e151]:
+              - img "おしゃれOK" [ref=e152]
+            - definition [ref=e153]:
+              - link "おしゃれOK" [ref=e154] [cursor=pointer]:
+                - /url: "#modal2"
+        - listitem [ref=e155]:
+          - generic [ref=e156]:
+            - term [ref=e157]:
+              - img "シフト自由" [ref=e158]
+            - definition [ref=e159]:
+              - link "シフト自由" [ref=e160] [cursor=pointer]:
+                - /url: "#modal3"
+        - listitem [ref=e161]:
+          - generic [ref=e162]:
+            - term [ref=e163]:
+              - img "オープニングスタッフ" [ref=e164]
+            - definition [ref=e165]:
+              - link "高校生歓迎" [ref=e166] [cursor=pointer]:
+                - /url: "#modal4"
+  - contentinfo [ref=e167]:
+    - generic [ref=e169]:
+      - list [ref=e170]:
+        - listitem [ref=e171]:
+          - img "ホームアイコン" [ref=e172]
+        - listitem [ref=e173]:
+          - link "アルバイト探し・バイト求人トップ" [ref=e174] [cursor=pointer]:
+            - /url: https://baito.mynavi.jp/
+      - link "カフェのバイト・アルバイト特集" [ref=e177] [cursor=pointer]:
+        - /url: https://baito.mynavi.jp/shokushu/cafe/
+    - generic [ref=e179]:
+      - img "マイナビバイト" [ref=e180]
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - link "企業情報|" [ref=e183] [cursor=pointer]:
+            - /url: https://www.mynavi.jp/company/
+          - link "事業所案内|" [ref=e184] [cursor=pointer]:
+            - /url: https://www.mynavi.jp/company/office.html
+          - link "社会的な取り組み|" [ref=e185] [cursor=pointer]:
+            - /url: https://www.mynavi.jp/company/social.html
+          - link "採用情報|" [ref=e186] [cursor=pointer]:
+            - /url: https://www.mynavi.jp/recruit/
+          - link "グループ会社|" [ref=e187] [cursor=pointer]:
+            - /url: https://www.mynavi.jp/group/
+          - link "個人情報保護方針" [ref=e188] [cursor=pointer]:
+            - /url: https://www.mynavi.jp/privacy/
+        - paragraph [ref=e189]: Copyright © Mynavi Corporation
+      - link [ref=e190] [cursor=pointer]:
+        - /url: https://privacymark.jp/
+        - img [ref=e191]
+  - text: × × × ×

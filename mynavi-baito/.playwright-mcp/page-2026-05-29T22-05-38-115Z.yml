@@ -1,0 +1,6 @@
+- generic [active] [ref=e1]:
+  - heading "Gone" [level=1] [ref=e2]
+  - paragraph [ref=e3]:
+    - text: The requested resource
+    - text: /kw/ã‚«ãƒ•ã‚§/
+    - text: is no longer available on this server and there is no forwarding address. Please remove all references to this resource.

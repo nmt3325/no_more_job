@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: townwork-cli
+Version: 1.0.0
+Summary: タウンワーク求人サイトのCLIツール
+Requires-Python: >=3.11
+Requires-Dist: click>=8.0
+Requires-Dist: httpx>=0.25
+Requires-Dist: rich>=13.0
