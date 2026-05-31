@@ -1,14 +1,8 @@
 # バイト求人 統合 MCP サーバーを単一コンテナ・単一ポートで起動する。
 #   http://localhost:8000/mcp
-#
-# ローカルビルドで使う場合:   docker compose up --build
-# 公開イメージを使う場合:      IMAGE=ghcr.io/<owner>/<repo>:latest docker compose up
 services:
   baito-mcp:
-    image: ${IMAGE:-baito-mcp:local}
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: ghcr.io/nmt3325/no_more_job:latest
     ports:
       - "${PORT:-8000}:8000"
     restart: unless-stopped

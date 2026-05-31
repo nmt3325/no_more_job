@@ -1,6 +1,6 @@
 name: Build and Push MCP Image
 
-# mcp/ 配下のゲートウェイイメージを ghcr.io にビルド&push する。
+# mcp/ 配下の統合 MCP イメージを ghcr.io にビルド&push する。
 # 認証は GITHUB_TOKEN を使うため追加 secret は不要。
 on:
   push:

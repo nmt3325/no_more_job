@@ -60,7 +60,7 @@ playwright install chromium   # タウンワーク (Playwright) 用
 
 ```bash
 cd mcp
-docker compose up --build      # ビルドして起動
+docker compose up      # ghcr.io/nmt3325/no_more_job:latest を使って起動
 # ポート変更:  PORT=9000 docker compose up
 ```
 
@@ -69,12 +69,6 @@ docker compose up --build      # ビルドして起動
 ```
 http://localhost:8000/mcp      # MCP (Streamable HTTP)
 http://localhost:8000/health   # ヘルスチェック
-```
-
-### 公開イメージを使う（GitHub Actions が ghcr.io にビルド済み）
-
-```bash
-IMAGE=ghcr.io/<owner>/<repo>:latest docker compose up
 ```
 
 ### Claude Desktop から HTTP で使う
