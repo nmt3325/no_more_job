@@ -18,7 +18,11 @@ AIがバイト求人サイト（バイトル・マイナビバイト・タウン
 
 ### ✅ 決定済み
 - MCPとして実装（CLIは参考実装として残す）
-- **3サーバー分割**: `baitoru-mcp / mynavi-mcp / townwork-mcp`（タウンワークのPlaywright依存を隔離、障害の局所化、Claude Desktopに3つ登録）
+- **統合1サーバー**: `baito_mcp`（単一の FastMCP インスタンス `baito` に全ツールを登録）。
+  - 当初は3サーバー分割（baitoru/mynavi/townwork）だったが、個人利用ツールには過剰設計だったため統合した。
+  - ツール名はサイト接頭辞で区別: `baitoru_search` / `mynavi_search` / `townwork_search` など。
+  - Claude Desktop への登録は1エントリのみ。Docker も単一ポート（`/mcp`）で公開。
+  - タウンワークの Playwright がクラッシュした場合はサーバープロセスごと再起動すればよい（個人利用ではサービス継続性は不要と判断）。
 - サイト間の重複排除は実装しない
 - 駅検索: `search_station(名前)` → 候補選択の2ステップ固定
 - 対応サイト: バイトル・マイナビバイト・タウンワーク
@@ -140,48 +144,47 @@ no_more_job/
 ├── mynavi-baito/     # 調査用CLIツール（削除・改変自由）
 ├── townwork/         # 調査用CLIツール（削除・改変自由）
 └── mcp/
-    ├── baitoru/
-    │   ├── server.py      # fastmcp エントリーポイント
-    │   ├── api.py         # baitoru/baitoru.py から抽出
-    │   ├── adapters.py    # 正規化・変換ロジック
-    │   └── pyproject.toml
-    ├── mynavi/
-    │   ├── server.py
-    │   ├── api.py         # mynavi-baito/api.py から抽出
-    │   ├── adapters.py
-    │   └── pyproject.toml
-    └── townwork/
-        ├── server.py
-        ├── api.py         # townwork/townwork/api.py から抽出
-        ├── adapters.py
-        └── pyproject.toml
+    ├── baito_mcp/         # 統合 MCP サーバー（パッケージ）
+    │   ├── server.py        # fastmcp エントリーポイント（全ツールを登録, stdio）
+    │   ├── web.py           # Streamable HTTP アプリ（Docker/uvicorn 用）
+    │   ├── baitoru_api.py   # 各サイトの API クライアント（調査用CLIから抽出）
+    │   ├── baitoru_tools.py # register(mcp) でツールを登録
+    │   ├── mynavi_api.py
+    │   ├── mynavi_tools.py
+    │   ├── townwork_api.py
+    │   └── townwork_tools.py
+    ├── pyproject.toml    # 単一パッケージ baito-mcp
+    ├── Dockerfile
+    └── docker-compose.yml
 ```
 
-### 各MCPサーバーのツール一覧
+各サイトの `*_tools.py` は `register(mcp)` 関数を公開し、`server.py` が
+1つの `FastMCP("baito")` に全ツールを登録する。ツール名はサイト接頭辞で衝突を回避する。
 
-#### baitoru-mcp
+### ツール一覧（全て統合サーバー `baito` に属する）
+
+#### バイトル (`baitoru_*`)
 | ツール | 説明 |
 |---|---|
-| `search` | キーワード・フィルターで求人検索 |
-| `get_detail` | 求人詳細取得（job_id指定） |
-| `search_station` | 駅名でフィルタリング（起動時キャッシュ済みデータから検索） |
-| `get_job_count` | 検索条件に合う件数取得 |
+| `baitoru_search` | キーワード・フィルターで求人検索 |
+| `baitoru_search_with_station` | 駅名指定で検索（駅検索と求人検索を一括, 推奨） |
+| `baitoru_search_station` | 駅名で `eki_codes` を検索（キャッシュ済みHTMLデータから） |
 
-#### mynavi-mcp
+#### マイナビバイト (`mynavi_*`)
 | ツール | 説明 |
 |---|---|
-| `search` | 求人検索（最も高機能） |
-| `get_detail` | 求人詳細取得 |
-| `search_station` | 駅名サジェスト（`/api/suggest/list`） |
-| `get_filters` | 利用可能フィルター一覧（こだわり条件含む） |
+| `mynavi_search` | 求人検索（最も高機能） |
+| `mynavi_get_detail` | 求人詳細取得 |
+| `mynavi_search_station` | 駅名で路線/駅IDを検索 |
+| `mynavi_get_filters` | 利用可能フィルター一覧（こだわり条件含む） |
 
-#### townwork-mcp
+#### タウンワーク (`townwork_*`)
 | ツール | 説明 |
 |---|---|
-| `search` | 求人検索（Playwright経由） |
-| `get_detail` | 求人詳細（詳細ページが必要な場合のみ） |
-| `search_station` | 駅名サジェスト（`KeywordAutoCompletePf`） |
-| `get_job_count` | 件数取得 |
+| `townwork_search` | 求人検索（Playwright経由） |
+| `townwork_search_with_station` | 駅名指定で検索（推奨） |
+| `townwork_search_station` | 駅を検索 |
+| `townwork_get_job_count` | 件数取得 |
 
 ### 実装優先順序
 1. **マイナビ MCP** — JSON APIのみ、既存コードが完成度高い
@@ -194,8 +197,8 @@ no_more_job/
 
 - [x] バイトルの駅名サジェストAPIの有無 → **存在しない**（詳細は項目8参照）
 - [x] タウンワークのPlaywrightブラウザをMCPサーバーとして起動する際のセッション管理仕様 → **グローバル変数で保持、`_get_page()`で切断時に再起動**
-- [x] fastmcpのバージョン・インストール方法の確認 → **`fastmcp>=2.0`、各サーバーのpyproject.tomlに記載**
-- [x] Claude Desktopへの3サーバー同時登録方法の確認 → **mcp/README.md参照**
+- [x] fastmcpのバージョン・インストール方法の確認 → **`fastmcp>=2.0`、`mcp/pyproject.toml` に記載**
+- [x] Claude Desktopへの登録方法の確認 → **統合1サーバーを1エントリ登録。mcp/README.md参照**
 - [x] タウンワークのget_detailは必要か → **不要。検索結果（`__NEXT_DATA__`）に仕事内容・給与・アクセスが含まれる**
 
 > **注意**: 上記の調査済み項目も含め、既存CLIツールやAPI仕様ドキュメントの内容は調査途中のものであり不完全な可能性がある。実装時に実際の挙動と異なる点が見つかれば、Playwright MCPで通信を再解析して仕様を確認・修正すること。
@@ -206,7 +209,7 @@ no_more_job/
 
 | Notionの記述 | 意見 |
 |---|---|
-| 「横断検索より個別サイトをAIに操作させる方が良い」 | ✅ 同意。MCPを3つ別々に実装する方針と一致 |
+| 「横断検索より個別サイトをAIに操作させる方が良い」 | ✅ 同意。サイトごとにツールを分け、AIに個別操作させる（1サーバー内でサイト接頭辞付きツールとして提供） |
 | 「フィルターは公式と同じものだけ」 | ✅ ただしUI階層（駅の4段階）はAI向けに平坦化を推奨 |
 | 「サイトUIと同じフィルターを作っても効率的でない」 | ✅ 同意。AIには値リストより自然言語→変換の方が使いやすい |
 | 「レートリミットに気をつける」 | ✅ タウンワークは特に注意。Playwrightセッションの再利用が必須 |

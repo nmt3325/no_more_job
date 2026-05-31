@@ -11,13 +11,11 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt \
     && playwright install --with-deps chromium
 
-# 各サイトの実装（server.py / api.py のみ。.venv 等は持ち込まない）
-COPY baitoru/server.py baitoru/api.py ./baitoru/
-COPY mynavi/server.py mynavi/api.py ./mynavi/
-COPY townwork/server.py townwork/api.py ./townwork/
-COPY gateway/gateway.py ./gateway/
+# 統合パッケージ
+COPY baito_mcp ./baito_mcp
 
 EXPOSE 8000
 
-CMD ["uvicorn", "gateway.gateway:app", \
+# 単一サーバーを Streamable HTTP で公開（エンドポイント: /mcp）
+CMD ["uvicorn", "baito_mcp.web:app", \
      "--app-dir", "/app", "--host", "0.0.0.0", "--port", "8000"]

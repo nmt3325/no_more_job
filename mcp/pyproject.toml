@@ -1,19 +1,21 @@
 [project]
-name = "baitoru-mcp"
-version = "0.1.0"
+name = "baito-mcp"
+version = "0.2.0"
+description = "バイトル・マイナビバイト・タウンワークを横断検索する統合 MCP サーバー"
 requires-python = ">=3.11"
 dependencies = [
     "fastmcp>=2.0",
     "requests>=2.31",
     "beautifulsoup4>=4.12",
+    "playwright>=1.40",
 ]
 
 [project.scripts]
-baitoru-mcp = "server:main"
+baito-mcp = "baito_mcp.server:main"
 
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-py-modules = ["server", "api"]
+packages = ["baito_mcp"]

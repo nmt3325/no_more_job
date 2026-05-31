@@ -1,13 +1,11 @@
-# 3つのMCPサーバー(baitoru/mynavi/townwork)を単一コンテナ・単一ポートで起動する。
-#   http://localhost:8000/baitoru/mcp
-#   http://localhost:8000/mynavi/mcp
-#   http://localhost:8000/townwork/mcp
+# バイト求人 統合 MCP サーバーを単一コンテナ・単一ポートで起動する。
+#   http://localhost:8000/mcp
 #
 # ローカルビルドで使う場合:   docker compose up --build
 # 公開イメージを使う場合:      IMAGE=ghcr.io/<owner>/<repo>:latest docker compose up
 services:
   baito-mcp:
-    image: ${IMAGE:-baito-mcp-gateway:local}
+    image: ${IMAGE:-baito-mcp:local}
     build:
       context: .
       dockerfile: Dockerfile

@@ -1,2 +1,0 @@
-[console_scripts]
-mynavi-mcp = server:main

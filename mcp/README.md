@@ -1,37 +1,62 @@
 # バイト求人 MCP サーバー
 
-バイトル・マイナビバイト・タウンワークをAIが自然言語で検索できる MCP サーバー群。
+バイトル・マイナビバイト・タウンワークをAIが自然言語で検索できる**統合 MCP サーバー**。
 
 ## 構成
 
 ```
 mcp/
-├── mynavi/     # マイナビバイト (JSON API)
-├── baitoru/    # バイトル (HTML スクレイピング)
-└── townwork/   # タウンワーク (Playwright)
+└── baito_mcp/          # 単一の FastMCP サーバー
+    ├── server.py        # エントリーポイント（stdio）
+    ├── web.py           # Streamable HTTP アプリ（Docker/uvicorn 用）
+    ├── baitoru_api.py   /  baitoru_tools.py    # バイトル (HTML スクレイピング)
+    ├── mynavi_api.py    /  mynavi_tools.py     # マイナビバイト (JSON API)
+    └── townwork_api.py  /  townwork_tools.py   # タウンワーク (Playwright)
 ```
 
-各サーバーは独立した仮想環境で動作する。
+3サイトのツールを1つの FastMCP インスタンス (`baito`) にまとめている。
+ツール名はサイト接頭辞で区別する（`baitoru_search`, `mynavi_search`, `townwork_search` …）。
 
 利用方法は2通り:
 
-- **ローカル (stdio)** — Claude Desktop に各 `server.py` を直接登録する（後述）
-- **Docker (Streamable HTTP)** — 3サーバーを単一コンテナ・単一ポートで公開する（後述）
+- **ローカル (stdio)** — Claude Desktop に `server.py` を1つだけ登録する
+- **Docker (Streamable HTTP)** — 単一ポートで公開する
 
 ---
 
-## Docker（単一ポートで3サーバーを公開）
+## セットアップ（ローカル / stdio）
 
-`gateway/gateway.py` が3つの FastMCP を読み込み、1プロセス・1ポートで
-パス分割して Streamable HTTP として公開する。
+- Python 3.11 以上
 
+```bash
+cd mcp
+python -m venv .venv
+source .venv/bin/activate
+pip install -e .
+playwright install chromium   # タウンワーク (Playwright) 用
 ```
-http://localhost:8000/baitoru/mcp
-http://localhost:8000/mynavi/mcp
-http://localhost:8000/townwork/mcp
+
+### Claude Desktop への登録
+
+`~/Library/Application Support/Claude/claude_desktop_config.json` を編集:
+
+```json
+{
+  "mcpServers": {
+    "baito": {
+      "command": "/path/to/no_more_job/mcp/.venv/bin/python",
+      "args": ["-m", "baito_mcp.server"],
+      "cwd": "/path/to/no_more_job/mcp"
+    }
+  }
+}
 ```
 
-### 起動
+設定後、Claude Desktop を再起動する。
+
+---
+
+## Docker（単一ポートで公開）
 
 ```bash
 cd mcp
@@ -39,7 +64,12 @@ docker compose up --build      # ビルドして起動
 # ポート変更:  PORT=9000 docker compose up
 ```
 
-`http://localhost:8000/` でエンドポイント一覧、`/health` でヘルスチェックを返す。
+エンドポイント:
+
+```
+http://localhost:8000/mcp      # MCP (Streamable HTTP)
+http://localhost:8000/health   # ヘルスチェック
+```
 
 ### 公開イメージを使う（GitHub Actions が ghcr.io にビルド済み）
 
@@ -52,9 +82,7 @@ IMAGE=ghcr.io/<owner>/<repo>:latest docker compose up
 ```json
 {
   "mcpServers": {
-    "baitoru":  { "url": "http://localhost:8000/baitoru/mcp" },
-    "mynavi":   { "url": "http://localhost:8000/mynavi/mcp" },
-    "townwork": { "url": "http://localhost:8000/townwork/mcp" }
+    "baito": { "url": "http://localhost:8000/mcp" }
   }
 }
 ```
@@ -67,100 +95,38 @@ IMAGE=ghcr.io/<owner>/<repo>:latest docker compose up
 
 `.github/workflows/docker-build.yml` が `mcp/**` の変更時に Docker イメージを
 ビルドし、`main` への push で ghcr.io へ push する（`linux/amd64` + `linux/arm64`）。
-認証は `GITHUB_TOKEN` を使うため追加 secret は不要。PR ではビルド検証のみ。
-
----
-
-## セットアップ（ローカル / stdio）
-
-### 共通の前提
-
-- Python 3.11 以上
-
-### マイナビバイト
-
-```bash
-cd mcp/mynavi
-python -m venv .venv
-source .venv/bin/activate
-pip install -e .
-```
-
-### バイトル
-
-```bash
-cd mcp/baitoru
-python -m venv .venv
-source .venv/bin/activate
-pip install -e .
-```
-
-### タウンワーク
-
-```bash
-cd mcp/townwork
-python -m venv .venv
-source .venv/bin/activate
-pip install -e .
-playwright install chromium
-```
-
----
-
-## Claude Desktop への登録
-
-`~/Library/Application Support/Claude/claude_desktop_config.json` を編集:
-
-```json
-{
-  "mcpServers": {
-    "mynavi-baito": {
-      "command": "/Users/nmt3325/Documents/projects/no_more_job/mcp/mynavi/.venv/bin/python",
-      "args": ["/Users/nmt3325/Documents/projects/no_more_job/mcp/mynavi/server.py"]
-    },
-    "baitoru": {
-      "command": "/Users/nmt3325/Documents/projects/no_more_job/mcp/baitoru/.venv/bin/python",
-      "args": ["/Users/nmt3325/Documents/projects/no_more_job/mcp/baitoru/server.py"]
-    },
-    "townwork": {
-      "command": "/Users/nmt3325/Documents/projects/no_more_job/mcp/townwork/.venv/bin/python",
-      "args": ["/Users/nmt3325/Documents/projects/no_more_job/mcp/townwork/server.py"]
-    }
-  }
-}
-```
-
-設定後、Claude Desktop を再起動する。
 
 ---
 
 ## ツール一覧
 
-### mynavi-baito
+すべて1つのサーバーに属する。名前のサイト接頭辞で対象サイトを指定する。
+
+### バイトル (`baitoru_*`)
 
 | ツール | 説明 |
 |---|---|
-| `search` | キーワード・都道府県・給与・時間帯・雇用形態・こだわり条件などで検索 |
-| `get_detail` | 求人詳細を取得 (`job_id` 指定) |
-| `search_station` | 駅名で路線/駅IDを検索し、`search()` の `route_ids` に渡す値を返す |
-| `get_filters` | こだわり条件・雇用形態などのID一覧を返す |
+| `baitoru_search` | キーワード・地域・給与・こだわり条件で検索 |
+| `baitoru_search_with_station` | 駅名を指定して検索（駅検索と求人検索を一括実行、推奨） |
+| `baitoru_search_station` | 駅名で `eki_codes` を検索 |
 
-### baitoru
-
-| ツール | 説明 |
-|---|---|
-| `search` | キーワード・地域・給与・こだわり条件で検索 |
-| `search_with_station` | 駅名を指定して検索（駅検索と求人検索を一括実行、推奨） |
-| `search_station` | 駅名で `eki_codes` を検索し、`search()` に渡す値を返す |
-
-### townwork
+### マイナビバイト (`mynavi_*`)
 
 | ツール | 説明 |
 |---|---|
-| `search` | キーワード・都道府県・給与・雇用形態・こだわりで検索 |
-| `search_with_station` | 駅名を指定して検索（推奨） |
-| `search_station` | 駅IDを検索 |
-| `get_job_count` | キーワードのヒット件数を取得 |
+| `mynavi_search` | キーワード・都道府県・給与・時間帯・雇用形態・こだわり条件などで検索 |
+| `mynavi_get_detail` | 求人詳細を取得 (`job_id` 指定) |
+| `mynavi_search_station` | 駅名で路線/駅IDを検索 |
+| `mynavi_get_filters` | こだわり条件・雇用形態などのID一覧を返す |
+
+### タウンワーク (`townwork_*`)
+
+| ツール | 説明 |
+|---|---|
+| `townwork_search` | キーワード・都道府県・給与・雇用形態・こだわりで検索 |
+| `townwork_search_with_station` | 駅名を指定して検索（推奨） |
+| `townwork_search_station` | 駅を検索 |
+| `townwork_get_job_count` | キーワードのヒット件数を取得 |
 
 ---
 
